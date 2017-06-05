@@ -1,7 +1,7 @@
 
 # Первое занятие
 
-## [Разработка ПО](https://drive.google.com/open?id=0B_4NpoQW1xfpVjZUTEpvVUN1TTA)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/open?id=0B_4NpoQW1xfpVjZUTEpvVUN1TTA)
 - [Книга: Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц)
 - [Размеры проектов в количестве строк кода](https://medium.freecodecamp.com/the-biggest-codebases-in-history-a128bb3eea73)
 - [Соглашения по именованию](http://www.intuit.ru/studies/courses/16/16/lecture/27113?page=4)
@@ -9,7 +9,7 @@
    - **Доступ из России через прокси (например [friGate CDN](https://chrome.google.com/webstore/detail/frigate-cdn-smooth-access/mbacbcfdfaapbcnlnbmciiaakomhkbkb))**
 - [Ещё раз про семь основных методологий разработки](https://habrahabr.ru/company/edison/blog/269789/)
 
-## [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M)
 - [Bash — шпаргалка для начинающих](https://tproger.ru/translations/bash-cheatsheet)
 - [Типичный тест SQL на собеседованиях](https://habrahabr.ru/post/181033/)
 - **Обновление!!** [Java Tools and Technologies Landscape Report 2016](https://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
@@ -17,7 +17,7 @@
 -  Дополнительно:
    - [Автоматизированные сборки в Java](http://www.quizful.net/post/automated-builds-java)
 
-## [Обзор языка Java](https://drive.google.com/open?id=0B_4NpoQW1xfpTU5SSElhUjlGNnc)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Обзор языка Java](https://drive.google.com/open?id=0B_4NpoQW1xfpTU5SSElhUjlGNnc)
 - [Java](http://ru.wikipedia.org/wiki/Java), [JVM](http://ru.wikipedia.org/wiki/Виртуальная_машина_Java), [JIT-компиляция](http://ru.wikipedia.org/wiki/JIT)
 - [Что такое Java? История создания](http://www.intuit.ru/studies/courses/16/16/lecture/27105)
 - [Programming languages TIOBE Index](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)
@@ -32,7 +32,7 @@
    - [Most Popular Java EE Servers](https://dzone.com/articles/most-popular-java-ee-servers-2016-edition)
    - [Понимаем основы Java garbage collection](http://ggenikus.github.io/blog/2014/05/04/gc/)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s">Системы управления версиями. Git.</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s)
 -  **<a href="https://github.com/JavaOPs/topjava/wiki/Git">Wiki по ведению проекта в Git</a>**
 -  <a href="http://ru.wikipedia.org/wiki/Система_управления_версиями">Система управления версиями</a>. <a href="http://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8#.D0.A0.D0.B0.D1.81.D0.BF.D1.80.D0.B5.D0.B4.D0.B5.D0.BB.D1.91.D0.BD.D0.BD.D1.8B.D0.B5_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D1.8B_.D1.83.D0.BF.D1.80.D0.B0.D0.B2.D0.BB.D0.B5.D0.BD.D0.B8.D1.8F_.D0.B2.D0.B5.D1.80.D1.81.D0.B8.D1.8F.D0.BC.D0.B8">VCS/DVSC</a>.
 
@@ -47,19 +47,17 @@
     -  <a href="https://blog.interlinked.org/tutorials/git.html">Git Overview</a>
     -  <a href="http://geekbrains.ru/gitstart">Видеокурс по Git</a>
     -  [Основы Git за 20 минут](https://www.youtube.com/watch?v=TMeZGvtQnT8)
-
-
 - [Популярность разный VSC](http://www.netinstructions.com/the-case-for-git/)
 - <a href="https://git-scm.com/book/ru/v2">Книга по Git</a>
 
 ## Настройка окружения
 - <a href="https://github.com/JavaOPs/topjava/wiki/IDEA">Idea Wiki</a> (поставить кодировку UTF-8, поменять фонт по умолчанию на DejaVu)
 - git занести в переменная окружения PATH, перезапустить cmd
-- Создайте локальную копию нашего проекта: `git clone https://github.com/School-IT-Programm/resume-storage.git`
-- Перейти в каталог проекта: `cd resume-storage`
+- Создайте локальную копию нашего проекта: `git clone https://github.com/JavaWebinar/basejava.git`
+- Перейти в каталог проекта: `cd basejava`
 - `git remote -v`
-- `git remote set-url origin https://github.com/School-IT-Programm/resume-storage.git` - настройка pull
-- `git remote set-url --push origin https://github.com/[YouGitHub/YourRepo].git` - настройка push
+- `git remote set-url origin https://github.com/[твой_GITHUB_аккаунт]/[твой_репозиторий].git` - настройка pull
+- `git remote set-url --push origin https://github.com/[твой_GITHUB_аккаунт]/[твой_репозиторий].git` - настройка push
 - `git push -u origin master`
 
 ## Насторойка проекта. Debug
