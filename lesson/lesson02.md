@@ -24,7 +24,7 @@
     - <a href="http://habrahabr.ru/post/134102/">Размер Java объектов</a>
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Типы данных. Пакеты.](https://drive.google.com/open?id=0B_4NpoQW1xfpQzRVTHg1LVhvOEk)
-[см. коммит Introduce package and encapsulation](https://github.com/truefirefox/basejava/commit/f591f2d7bd1fb26deff3022d1514ce744df7dca4)
+[см. коммит Introduce package and encapsulation](https://github.com/JavaWebinar/basejava/commit/68e4d8652320d487a0716179e7d01723fffc4b8d)
   - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27111">Типы данных</a>
   - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=2">Классы- оберки</a>
   - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27111?page=4">Ссылочные типы</a>
