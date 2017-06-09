@@ -6,6 +6,7 @@
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Объектная модель в Java](https://drive.google.com/open?id=0B_4NpoQW1xfpNW54RGFlZkRWbk0)
 [см. коммит Lesson03 equals&hashCode, static](https://github.com/JavaWebinar/basejava/tree/9d8464cc24be306b0dbce112607122149ec327d8/src/ru/javawebinar/basejava)
+
 [см. коммит Lesson03 implements interface](https://github.com/JavaWebinar/basejava/tree/ba20418d59dcc998c2cab218d84ca1f7099676c8/src/ru/javawebinar/basejava/storage)
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27119">static</a>
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=1">Object. Контракт equals/hashCode</a>
