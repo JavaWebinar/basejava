@@ -1,7 +1,7 @@
 
 # Третье занятие
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-2](https://drive.google.com/open?id=0B_4NpoQW1xfpdVRBTlBOUUtmNUE)
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-2](https://drive.google.com/open?id=0B_4NpoQW1xfpVVFEX0tOS3UtLXM)
 [см. коммит lesson03 HW02](https://github.com/JavaWebinar/basejava/tree/08adbede7c25bc34807c3cebecb8b67921366793/src/ru/javawebinar/basejava)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Объектная модель в Java](https://drive.google.com/open?id=0B_4NpoQW1xfpNW54RGFlZkRWbk0)
