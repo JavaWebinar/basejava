@@ -22,7 +22,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Reflection. Аннотации. Модульное тестирование](https://drive.google.com/open?id=0B_4NpoQW1xfpT0dGZWlJbnN3bU0)
 [см. коммит Lesson04 Reflection and JUnit](https://github.com/JavaWebinar/basejava/tree/c77bb7c73022fa411262c1da56953f3ef3ca3cc7)
   - <a href="http://easy-code.ru/lesson/java-annotations">Аннотации</a>
-  - <a href="http://www.quizful.net/post/java-reflection-api">Введение в Java Reflection API</a>
+  - <a href="http://java-course.ru/begin/reflection/">Reflection (Рефлексия) — основы</a>. В нашем проекте Reflection используют JUnit и будут использовать библиотеки работы с XML и JSON.
   - Модульное тестирование <a href="http://junit.org/">JUnit 4</a>
   - <a href="http://www.javenue.info/post/19">Тестирование с помощью JUnit (Test Case)</a>
 
