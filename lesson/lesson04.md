@@ -31,7 +31,7 @@
 
 Assert.fail(); - если тест дошел до этого места, то он провалился
 
-e.printStackTrace(); - e.printStackTrace() - выводит стактрайс
+e.printStackTrace(); - выводит стактрайс
 
 ## Домашнее задание
 Реализовать `AbstractStorageTest` и тесты `ArrayStorageTest` и `SortedArrayStorageTest`.
