@@ -26,6 +26,19 @@
   - Модульное тестирование <a href="http://junit.org/">JUnit 4</a>
   - <a href="http://www.javenue.info/post/19">Тестирование с помощью JUnit (Test Case)</a>
 
+## ![question](https://cloud.githubusercontent.com/assets/13649199/13672858/9cd58692-e6e7-11e5-905d-c295d2a456f1.png) Ваши вопросы
+> В чём разница между Assert.fail(); и e.printStackTrace();?
+
+Assert.fail(); - если тест дошел до этого места, то он провалился
+
+e.printStackTrace(); - выводит стактрайс
+
 ## Домашнее задание
 Реализовать `AbstractStorageTest` и тесты `ArrayStorageTest` и `SortedArrayStorageTest`.
 В `MainReflection` сделать вызов метода `toString` через отражение.
+
+## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Подсказки по HW4
+- `SortedArrayStorageTest` должен запускаться с `SortedArrayStorage`
+- `ArrayStorageTest` c  `ArrayStorage`
+
+как вариант, добавить конструктор в `AbstractArrayStorageTest`, который инициализирует `Storage storage`,а в наследниках добавить конструкторы, которые будут вызывать super с нужным хранилищем
