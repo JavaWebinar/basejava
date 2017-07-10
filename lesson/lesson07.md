@@ -3,8 +3,11 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-6](https://drive.google.com/open?id=0B_4NpoQW1xfpT1BwLUNBanVfd1E)
 [см. коммит Lesson07_HW06 test refactoring](https://github.com/JavaWebinar/basejava/tree/b47cadba8f2fb2da61ef6b9f6b245f5c358ea5d8/test/ru/javawebinar/basejava/storage)
+
 [см. коммит Lesson07_HW06 add fullName](https://github.com/JavaWebinar/basejava/tree/fb608dd824abda1f15bbc437e4d0d5e094fc1680)
+
 [см. коммит Lesson07_HW06 getAllSorted](https://github.com/JavaWebinar/basejava/tree/bd8e5f4f4582c9f65e1d6a82da1311d6b0efe294)
+
 [см. коммит Lesson07_HW06 mapStorage](https://github.com/JavaWebinar/basejava/tree/6d0dbdc64e257452662d65f76edf6d9d07328a79)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Параметризация. Стирание типов.](https://drive.google.com/open?id=0B_4NpoQW1xfpbXotWEFrYVVGUWc)
