@@ -2,7 +2,8 @@ package ru.javawebinar.basejava.storage;
 
 import ru.javawebinar.basejava.model.Resume;
 
-// TODO refactoring
+import java.util.List;
+
 public interface Storage {
 
     void clear();
@@ -18,11 +19,7 @@ public interface Storage {
     /**
      * @return array, contains only Resumes in storage (without null)
      */
-    Resume[] getAll();
-
-//  return list, sorted by name
-//  List<Resume> getAllSorted();
+    List<Resume> getAllSorted();
 
     int size();
 }
-
