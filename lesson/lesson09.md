@@ -1,7 +1,6 @@
 
 # Девятое занятие
 
-## Разбор Домашнего Задания-8:
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-8](https://drive.google.com/open?id=0B_4NpoQW1xfpeENDOVdQbUpIWEU)
 [см. коммит Lesson09 HW08](https://github.com/JavaWebinar/basejava/tree/150e15f99c35d53e0c43c9f64d7833b5e7184768)
 
