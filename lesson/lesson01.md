@@ -41,7 +41,7 @@
 -  Дополнительно:
    - [Java version and vendor data analyzed](https://plumbr.eu/blog/java/java-version-and-vendor-data-analyzed-2016-edition)
    - [Most Popular Java EE Servers](https://dzone.com/articles/most-popular-java-ee-servers-2016-edition)
-   - [Понимаем основы Java garbage collection](http://ggenikus.github.io/blog/2014/05/04/gc/)
+   - [Понимаем основы Java garbage collection](https://ggenikus.github.io/blog/2014/05/04/gc)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s)
 ### Настройка проекта
