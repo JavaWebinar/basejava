@@ -3,7 +3,9 @@
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-2](https://drive.google.com/open?id=0B_4NpoQW1xfpVVFEX0tOS3UtLXM)
 [см. коммит HW1](https://github.com/JavaWebinar/basejava/tree/ec51b1158f07789b62dadf457c25b0864a126b1d/src)
+
 [см. коммит Introduce package and encapsulation](https://github.com/JavaWebinar/basejava/commit/68e4d8652320d487a0716179e7d01723fffc4b8d)
+
 [см. коммит lesson03 HW02](https://github.com/JavaWebinar/basejava/tree/08adbede7c25bc34807c3cebecb8b67921366793/src/ru/javawebinar/basejava)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Объектная модель в Java](https://drive.google.com/open?id=0B_4NpoQW1xfpNW54RGFlZkRWbk0)
@@ -27,7 +29,7 @@
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание](https://drive.google.com/open?id=0B_4NpoQW1xfpdkdlV2xPbE5VM2c)
 
-# перед тем как приступить к ДЗ приведите свой проект в соотв. моим. Обратите внимание, что packages в видео и коммитах - отличаются. 
+* перед тем как приступить к ДЗ приведите свой проект в соответствии с коммитами. Обратите внимание, что packages в видео и коммитах - отличаются.
 
 - Закончить реализацию `AbstractArrayStorage`, `ArrayStorage`, `SortedArrayStorage` (`SortedArrayStorage` хранит элементы отсортированными, сортировать весь массив не надо).
 - Сделать проверку `ArrayStorage.update`
