@@ -28,5 +28,5 @@
 
 ## Домашнее задание
 - Сделать рекурсивный вывод каталогов с отступом
-- Реализовать Storage через java.nio.file.Path.
-- Сделать возможным выбор меджу FileStorage и PathStorage для сериализации через ObjectStream.
+- Реализовать `ObjectStreamPathStorage` (через `java.nio.file.Path`) и добавить `ObjectStreamPathStorageTest`
+- Сделать возможным выбор меджу `File` и `Path` для сериализации через ObjectStream (посмотрите на [паттерн стратегия](https://refactoring.guru/ru/design-patterns/strategy))
