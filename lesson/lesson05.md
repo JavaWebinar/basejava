@@ -3,6 +3,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-4](https://drive.google.com/open?id=0B_4NpoQW1xfpN2J2bmxyV3dXME0)
 [см. коммит lesson05 HW04](https://github.com/JavaWebinar/basejava/tree/4127131819b6385602017f59ca1269c8638ec892)
+
 в коммите ошибка, в методе `AbstractArrayStorageTest.saveOverflow` цикл идет до `STORAGE_LIMIT + 1` включительно, надо до `STORAGE_LIMIT`
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Контейнеры/коллекции.](https://drive.google.com/file/d/0B_4NpoQW1xfpc21aYXY4WW9CMHc)
