@@ -24,7 +24,7 @@
 - <a href="https://ru.wikipedia.org/wiki/Вычислительная_сложность">Вычислительная сложность</a>
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Паттерн проектирования шаблонный метод](https://drive.google.com/open?id=0B_4NpoQW1xfpT0tyYXR0RHBpUWM)
-[Lesson03 abstract storage & sorted storage](https://github.com/JavaWebinar/basejava/tree/0bf48cf81987ddb9d59880f10920f3994923f8c0/src/ru/javawebinar/basejava)
+[см. коммит Lesson03 abstract storage & sorted storage](https://github.com/JavaWebinar/basejava/tree/0bf48cf81987ddb9d59880f10920f3994923f8c0/src/ru/javawebinar/basejava)
 - <a href="https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)">Шаблонный метод</a>
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание](https://drive.google.com/open?id=0B_4NpoQW1xfpdkdlV2xPbE5VM2c)
