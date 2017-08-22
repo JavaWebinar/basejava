@@ -9,6 +9,8 @@
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=2">Объекты (cостояние, поведение, уникальность)</a>
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=3">Классы. Инкапсуляция. Наследование. Полиморфизм.</a>
 - <a href="http://info.javarush.ru/translation/2016/01/28/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8-.html">Объектно-ориентированное программирование (перевод статьи)</a>
+- [Wiki: Объектно-ориентированное программирование](https://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование)
+> Еще одна из трактовок _инкапсуляции_: свойство системы, позволяющее объединить данные и методы, работающие с ними, в классе.
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=4">Типы отношений между классами</a> <a href="http://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2#.D0.92.D0.B7.D0.B0.D0.B8.D0.BC.D0.BE.D1.81.D0.B2.D1.8F.D0.B7.D0.B8">Наследование, агрегация, композиция, ассоциация.</a>
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=5">Достоинства/Недостатки  ООП.</a> Библиотеки vs фреймворки.
 - Дополнительно:
