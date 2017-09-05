@@ -26,4 +26,4 @@
  
 ## Домашнее задание HW14
 - Закончить реализацию `SqlStorage` с контактами
-- Добавить `TextSection` в базу данных (`init_db.sql`) и `SqlStorage`.
+- Выделить общие части <a href="https://ru.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself">( DRY )</a>
