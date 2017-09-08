@@ -1,11 +1,9 @@
 # Первое занятие
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [11.07 в 20.00 (GMT+3) будет вступительный вебинар-презентация](https://www.youtube.com/watch?v=Upz4RWvDGCM)
-- Презентация проекта обучения
-- Настройка окружения и проекта в IntelliJ IDEA
-- Ответы на вопросы
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар ПРЕЗЕНТАЦИЯ обучения](https://drive.google.com/file/d/0B_4NpoQW1xfpNzdqT2hOcUJ6TGs)
+#### [Так будет выглядеть мое резюме в разабатываемом на этом проекте приложении](https://javawebinar.github.io/)
 
-## Необходимо:
+## Для участия необходимо:
 -  Установить <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">JDK8</a> (выбрать Accept License Agreement)
 -  Установить систему управления версиями <a href="http://git-scm.com/downloads">Git</a> (опции по умолчанию)
 -  Создать аккаунт на <a href="https://github.com/">GitHub</a>
