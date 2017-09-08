@@ -11,6 +11,8 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
+// TODO implement Section (except OrganizationSection)
+// TODO Join and split ListSection by `\n`
 public class SqlStorage implements Storage {
     public final SqlHelper sqlHelper;
 
