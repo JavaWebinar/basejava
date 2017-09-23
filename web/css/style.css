@@ -1,8 +1,14 @@
+section {
+    width: 900px;
+    margin: auto;
+}
+
 header {
     background: none repeat scroll 0 0 #A6C9E2;
     color: #2E6E9E;
     font-size: 20px;
     padding: 5px 20px;
+    text-align: center;
 }
 
 footer {
@@ -11,4 +17,55 @@ footer {
     font-size: 20px;
     padding: 5px 20px;
     margin: 20px 0;
+    text-align: center;
+}
+
+dl {
+    background: none repeat scroll 0 0 #FAFAFA;
+    margin: 8px 0;
+    padding: 0;
+}
+
+dt {
+    display: inline-block;
+    width: 170px;
+}
+
+dd {
+    display: inline-block;
+    margin-left: 8px;
+    vertical-align: top;
+}
+
+h2, h3 {
+    margin: 15px 0 5px;
+}
+
+li {
+    margin: 15px 0;
+}
+
+a[href^="skype:"] {
+    padding-left: 20px !important;
+    background: url(../img/skype.png) no-repeat center left;
+}
+
+a[href^="mailto:"] {
+    padding-left: 20px !important;
+    background: url(../img/email.png) no-repeat center left;
+}
+
+a[href^="https://stackoverflow.com"] {
+    padding-left: 20px !important;
+    background: url(../img/so.png) no-repeat center left;
+}
+
+a[href^="https://www.linkedin.com"] {
+    padding-left: 20px !important;
+    background: url(../img/lin.png) no-repeat center left;
+}
+
+a[href*="github."] {
+    padding-left: 20px !important;
+    background: url(../img/gh.png) no-repeat center left;
 }
