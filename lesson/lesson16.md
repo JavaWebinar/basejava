@@ -28,6 +28,9 @@
 - <a href="https://ru.wikipedia.org/wiki/JSTL">JSTL</a>
 - <a href="http://devcolibri.com/1250">JSTL для написания JSP страниц</a>
 
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [4. CRUD](https://drive.google.com/open?id=0B_4NpoQW1xfpak9nZS1BXzBTbEU)
+[см. коммит Lesson16 crud](https://github.com/JavaWebinar/basejava/tree/3e07257a33d1ba51508e315d6021aa1b78849fca)
+
 ## Домашнее задание HW16
 - Доделать логику сервлета
 - Дополнить отображение и редактирование JSP секциями
