@@ -1,7 +1,7 @@
 # Первое занятие
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар ПРЕЗЕНТАЦИЯ обучения](https://drive.google.com/file/d/0B_4NpoQW1xfpNzdqT2hOcUJ6TGs)
-#### [Так будет выглядеть мое резюме в разабатываемом на этом проекте приложении](https://javawebinar.github.io/)
+#### [Так будет выглядеть мое резюме в разрабатываемом на этом проекте приложении](https://javawebinar.github.io/)
 
 ## Для участия необходимо:
 -  Установить <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">JDK8</a> (выбрать Accept License Agreement)
