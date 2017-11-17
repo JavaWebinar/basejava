@@ -14,16 +14,13 @@
 - <a href="https://habrahabr.ru/post/103830/">Загрузка классов в Java</a>
 - <a href="https://tomcat.apache.org/tomcat-8.0-doc/class-loader-howto.html">Apache Tomcat Class Loader</a>
 
-## Обзор Java Enterprise
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. Вебинар "Осваиваем Java String/JPA Enterprise"](https://drive.google.com/file/d/0B9Ye2auQ_NsFY1ZDNXRCd1NCTG8)
+- [Слайды вебинара](https://goo.gl/XNVOj4)
 - <a href="https://habrahabr.ru/post/308104/">Из юниоров в разработчики: получаем первую работу</a>
-- <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014/">Java Tools and Technologies Landscape for 2014</a>
 - <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/">Java Tools and Technologies Landscape Report 2016</a>
 
-#### Spring Pet-Clinic
-- <a href="https://github.com/spring-projects/spring-petclinic">Spring PetClinic Sample Application </a>
-- <a href="http://petclinic.cloudapp.net/">Demo</a>
-- <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">Presentation</a>
-
 #### Java Enterprise project Topjava
-- <a href="https://github.com/JavaOPs/topjava">Java Enterprise: Вводное занятие</a>
-- <a href="http://topjava.herokuapp.com/">Demo приложение</a>
+- <a href="http://javaops.ru/reg/topjava">Стажировка Spring/JPA Enterprise (Topjava)</a>
+- <a href="http://javaops.ru/view/test">Ссылки по темам интервью, тестовое интервью</a>
+- <a href="https://github.com/JavaOPs/topjava/blob/master/cv.md">Составление резюме, подготовка к интервью, поиск работы</a>
+- [Как стать профессиональным Java разработчиком (Яков Фaйн)](https://www.youtube.com/watch?v=ft0Nj8Cm9kk)
