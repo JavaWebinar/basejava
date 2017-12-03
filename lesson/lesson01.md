@@ -59,14 +59,14 @@
 
 -  Ресурсы:            
     -  <a href="https://try.github.io/levels/1/challenges/1">Интерактивная Git обучалка</a>
-    -  <a href="http://learngitbranching.js.org/">Еще одна интерактивная обучалка, по русски</a>    
+    -  <a href="http://learngitbranching.js.org/">Еще одна интерактивная обучалка, по-русски</a>    
     -  <a href="https://git-scm.com/book/ru/v2">Книга Git</a>
     -  <a href="https://illustrated-git.readthedocs.org/en/latest/#working-with-remote-repositories">Working with remote repositories</a>
     -  <a href="https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR">Видео по обучению Git</a>
     -  <a href="https://blog.interlinked.org/tutorials/git.html">Git Overview</a>
     -  <a href="http://geekbrains.ru/gitstart">Видеокурс по Git</a>
     -  [Основы Git за 20 минут](https://www.youtube.com/watch?v=TMeZGvtQnT8)
-- [Популярность разный VSC](http://www.netinstructions.com/the-case-for-git/)
+- [Популярность разных VSC](http://www.netinstructions.com/the-case-for-git/)
 - <a href="https://git-scm.com/book/ru/v2">Книга по Git</a>
 
 ## Домашнее задание HW1
@@ -89,7 +89,7 @@
 ### Optional
 - Модифицировать класс `ArrayStorage`: хранить все резюме в начале storage (без дырок null), чтобы не перебирать каждый раз все 10000 элементов.
 ```
-Хранеие резюме в storage (от 0 до size-1 элементов null нет):
+Хранение резюме в storage (от 0 до size-1 элементов null нет):
 
 r1, r2, r3,..., rn, null, null,..., null
 <----  size ----->
