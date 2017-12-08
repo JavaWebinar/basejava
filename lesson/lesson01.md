@@ -21,7 +21,8 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M)
 - [Bash — шпаргалка для начинающих](https://tproger.ru/translations/bash-cheatsheet)
 - [Типичный тест SQL на собеседованиях](https://habrahabr.ru/post/181033/)
-- **Обновление!!** [Java Tools and Technologies Landscape Report 2016](https://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
+- **Обновление!!** [Что и почему используют Java-разработчики: опрос RebelLabs](https://jug.ru/2017/12/rebellabs-report/)
+  - [Java Tools and Technologies Landscape Report 2016](https://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
   - [Java Tools and Technologies Landscape for 2014](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014)
 -  Дополнительно:
    - [Автоматизированные сборки в Java](http://www.quizful.net/post/automated-builds-java)
