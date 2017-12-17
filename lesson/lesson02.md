@@ -13,7 +13,7 @@
 - [Достоинства/Недостатки ООП](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=5)
 
 - **Дополнительно:**
-  - [Что такое ООП и зачем нам оно?](https://habrahabr.ru/post/148015/)
+  - [Зачем нам ООП и что это такое](https://habrahabr.ru/post/148015/)
   - [youtube: Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc)
   - [oracle: Object-Oriented Programming Concepts](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
   - [oracle: Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
