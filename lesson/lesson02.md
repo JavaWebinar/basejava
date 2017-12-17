@@ -2,46 +2,49 @@
 # Второе занятие
 
 ### HW1
-разбор HW1 будет на след уроке вместе с HW2
+> разбор HW1 будет на следующем уроке вместе с HW2
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Принципы ООП](https://drive.google.com/open?id=0B_4NpoQW1xfpOHpyYWhOMGQ4VXc)
-- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=1">Методология процедурно-ориентированного и объектно-ориентированного программирования</a>
-- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=2">Объекты (cостояние, поведение, уникальность)</a>
-- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=3">Классы. Инкапсуляция. Наследование. Полиморфизм.</a>
-- <a href="http://info.javarush.ru/translation/2016/01/28/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8-.html">Объектно-ориентированное программирование (перевод статьи)</a>
-- <a href="https://github.com/ichimax/Core-Java-Interview-Questions/blob/master/Questions/1.%20OOP.md">Основы Объектно-Ориентированного Программирования (ООП)</a>
-- [Wiki: Объектно-ориентированное программирование](https://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование)
-> Еще одна из трактовок _инкапсуляции_: свойство системы, позволяющее объединить данные и методы, работающие с ними, в классе.
-- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=4">Типы отношений между классами</a> <a href="http://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2#.D0.92.D0.B7.D0.B0.D0.B8.D0.BC.D0.BE.D1.81.D0.B2.D1.8F.D0.B7.D0.B8">Наследование, агрегация, композиция, ассоциация.</a>
-- <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=5">Достоинства/Недостатки  ООП.</a> Библиотеки vs фреймворки.
-- Дополнительно:
-  - <a href="http://devcolibri.com/720">Что такое ООП и с чем его едят?</a>
-  - <a href="http://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование">Объектно ориентированное программирование</a>
-  - <a href="https://www.youtube.com/watch?v=G6LJkWwZGuc">Николай Алименков — Парадигмы ООП</a>
-  - <a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/blacky0x0/java-docs-ru/master/tutorials/java/concepts/index.html">Концепции объектно-ориентированного программирования</a>
+- [wiki: Объектно-ориентированное программирование](https://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование)
+- [Объектно-ориентированное программирование (перевод статьи)](http://info.javarush.ru/translation/2016/01/28/Объектно-ориентированное-программирование-перевод-статьи-.html)
+- [Основы Объектно-Ориентированного Программирования (ООП)](https://github.com/ichimax/Core-Java-Interview-Questions/blob/master/Questions/1.%20OOP.md)
+- [Наследование, агрегация, композиция, ассоциация](https://ru.wikipedia.org/wiki/Диаграмма_классов#Взаимосвязи)
+- [Типы отношений между классами](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=4)
+- [Достоинства/Недостатки ООП](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=5)
+**Дополнительно:**
+  - [Что такое ООП и зачем нам оно?](https://habrahabr.ru/post/148015/)
+  - [youtube: Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc)
+  - [oracle: Object-Oriented Programming Concepts](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
+  - [oracle: Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Структура памяти: куча, стек, регистры, константы](https://drive.google.com/open?id=0B_4NpoQW1xfpZHRnTEhNWmk5Xzg)
-  - <a href="https://www.slideshare.net/solit/jvm-16948708">JVM изнутри - оптимизация и профилирование</a>.
-  - <a href="http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap#24171266">Stack and Heap</a>
-  - Дополнительно:
-    - <a href="http://habrahabr.ru/post/117274/">Из каких частей состоит память java процесса</a>.
-    - <a href="http://www.javaspecialist.ru/2011/04/permanent.html">Permanent область памяти</a>
-    - <a href="http://www.javaspecialist.ru/2011/04/java-thread-stack.html">Java thread stack </a>
-    - <a href="http://habrahabr.ru/post/134102/">Размер Java объектов</a>
-    - [Понимаем основы Java garbage collection](http://ggenikus.github.io/blog/2014/05/04/gc)
+  - [wiki: Стек](https://ru.wikipedia.org/wiki/Стек)
+  - [От Java-кода к Java-куче](https://www.ibm.com/developerworks/ru/library/j-codetoheap/index.html)
+  - [Понимаем основы Java garbage collection](http://ggenikus.github.io/blog/2014/05/04/gc)
+**Дополнительно:**
+  - [Из каких частей состоит память java процесса](http://habrahabr.ru/post/117274/)
+  - [Permanent область памяти](http://www.javaspecialist.ru/2011/04/permanent.html)
+  - [Java thread stack](http://www.javaspecialist.ru/2011/04/java-thread-stack.html)
+  - [Размер Java объектов](http://habrahabr.ru/post/134102/)
+  - [youtube: JVM - краткий курс общей анатомии](https://www.youtube.com/watch?v=-fcj6EL9rc4)
+  - [What and where are the stack and heap?](http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap#24171266)
+  - [The Java Virtual Machine Specification Java SE 8 Edition](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Типы данных. Пакеты.](https://drive.google.com/open?id=0B_4NpoQW1xfpQzRVTHg1LVhvOEk)
-  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27111">Типы данных</a>
-  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=2">Классы- оберки</a>
-  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27111?page=4">Ссылочные типы</a>
-  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27113?page=2">Пакеты</a>
-  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27115">Модификаторы доступа. Область Видимости.</a>
+  - [Типы данных](http://www.intuit.ru/studies/courses/16/16/lecture/27111)
+  - [Классы-обертки](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=2)
+  - [youtube: Java types](https://www.youtube.com/watch?v=hqirUFitj9c&index=7&list=PLwwk4BHih4fgYGHmAL-2ZCymrYHXO69GN)
+  - [youtube: Модификаторы доступа](https://www.youtube.com/watch?v=e14xUIUc6y0)
+  - [youtube: Пакеты](https://www.youtube.com/watch?v=zGKFmG-ygWQ&list=PLwwk4BHih4fgYGHmAL-2ZCymrYHXO69GN&index=9)
+**Дополнительно:**
+    - [oracle: Packages](https://docs.oracle.com/javase/tutorial/java/package/index.html)
+    - [oracle: Primitive data types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание](https://drive.google.com/open?id=0B_4NpoQW1xfpWUxUVWx5MFpCZkE)
 > Правка к видео: ArrayStorage.delete() - вместо `storage[i] = null` нужно `storage[size-1] = null`
 
-- Прочитать <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27113?page=4">Соглашения по именованию.</a>
+- Прочитать, [как правильно оформлять код [eng]](https://google.github.io/styleguide/javaguide.html)
 - Реализовать `ArrayStorage.update`
-- Сделать проверки: в `update/delete/get` - резюме есть в storage, в `save`- нет в storage: `System.out.println("Resume ...")`.
-- Сделать в save проверку на переполнениe: `System.out.println("...")`.
+- Сделать проверки: в `update/delete/get` - резюме есть в storage, в `save`- нет в storage: `System.out.println("Resume ...")`
+- Сделать в save проверку на переполнение: `System.out.println("...")`
 - Избавится от дублирования в коде `ArrayStorage`
