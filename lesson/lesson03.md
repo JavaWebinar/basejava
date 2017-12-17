@@ -1,7 +1,7 @@
 
 # Третье занятие
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-2](https://drive.google.com/open?id=0B_4NpoQW1xfpVVFEX0tOS3UtLXM)
+### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания](https://drive.google.com/open?id=0B_4NpoQW1xfpVVFEX0tOS3UtLXM)
   
 **Коммиты:**
  1. *[HW1](https://github.com/JavaWebinar/basejava/tree/ec51b1158f07789b62dadf457c25b0864a126b1d/src)*
