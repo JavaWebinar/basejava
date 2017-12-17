@@ -11,6 +11,7 @@
 - [Наследование, агрегация, композиция, ассоциация](https://ru.wikipedia.org/wiki/Диаграмма_классов#Взаимосвязи)
 - [Типы отношений между классами](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=4)
 - [Достоинства/Недостатки ООП](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=5)
+
 **Дополнительно:**
   - [Что такое ООП и зачем нам оно?](https://habrahabr.ru/post/148015/)
   - [youtube: Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc)
@@ -21,6 +22,7 @@
   - [wiki: Стек](https://ru.wikipedia.org/wiki/Стек)
   - [От Java-кода к Java-куче](https://www.ibm.com/developerworks/ru/library/j-codetoheap/index.html)
   - [Понимаем основы Java garbage collection](http://ggenikus.github.io/blog/2014/05/04/gc)
+  
 **Дополнительно:**
   - [Из каких частей состоит память java процесса](http://habrahabr.ru/post/117274/)
   - [Permanent область памяти](http://www.javaspecialist.ru/2011/04/permanent.html)
@@ -36,6 +38,7 @@
   - [youtube: Java types](https://www.youtube.com/watch?v=hqirUFitj9c&index=7&list=PLwwk4BHih4fgYGHmAL-2ZCymrYHXO69GN)
   - [youtube: Модификаторы доступа](https://www.youtube.com/watch?v=e14xUIUc6y0)
   - [youtube: Пакеты](https://www.youtube.com/watch?v=zGKFmG-ygWQ&list=PLwwk4BHih4fgYGHmAL-2ZCymrYHXO69GN&index=9)
+  
 **Дополнительно:**
     - [oracle: Packages](https://docs.oracle.com/javase/tutorial/java/package/index.html)
     - [oracle: Primitive data types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
