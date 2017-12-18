@@ -8,7 +8,7 @@
 -  Установить систему управления версиями <a href="http://git-scm.com/downloads">Git</a> (опции по умолчанию)
 -  Создать аккаунт на <a href="https://github.com/">GitHub</a>
 -  Установить <a href="http://www.jetbrains.com/idea/download/index.html">IntelliJ IDEA Ultimate</a>
-> Данная среда разработки является платным продуктом, рассчитанным на 30 дней пробного бесплатного использования. Для выполнения заданий в этой IDE каждый участник курса получит ключ на 6 месяцев.
+> Данная среда разработки является платным продуктом, рассчитанным на 30 дней пробного бесплатного использования. Для выполнения заданий в этой IDE каждый участник курса получит ключ на 6 месяцев
 
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/open?id=0B_4NpoQW1xfpVjZUTEpvVUN1TTA)
@@ -34,7 +34,7 @@
 
 ![jvm](https://cloud.githubusercontent.com/assets/18701152/15219296/e6c67e86-186b-11e6-986f-651a87deec6c.png)
 
-- [Java Microbenchmark JMH](https://github.com/JavaOPs/masterjava#Занятие-2) используем на курсе Masterjava
+- [Java Microbenchmark JMH](https://github.com/JavaOPs/masterjava#Занятие-2) (используем на курсе [Masterjava](https://github.com/JavaWebinar/masterjava#2410-Занятие-2))
 - [Oracle Java8 Home](http://docs.oracle.com/javase/8/docs/index.html)
 - [ME](http://ru.wikipedia.org/wiki/Java_Platform,_Micro_Edition), [SE](https://ru.wikipedia.org/wiki/Java_Platform,_Standard_Edition), [EE](http://ru.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) (wiki)
 - **Дополнительно:**
