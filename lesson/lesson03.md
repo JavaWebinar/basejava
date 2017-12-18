@@ -20,9 +20,9 @@
 - [Интерфейсы](http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=3)
 - [Полиморфизм, abstract](http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=4)
 - **Дополнительно:**
-    - youtube: [Ключевое слово static](https://www.youtube.com/watch?v=GZzVfeY7yEM)
-    - youtube: [Интерфейсы, абстрактные классы, полиморфизм](https://www.youtube.com/watch?v=7NMFk2oj1-c&index=4&list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW)
-    - хабр: [equals()/hashCode](https://habrahabr.ru/post/168195/)
+    - [Ключевое слово static](https://www.youtube.com/watch?v=GZzVfeY7yEM) (youtube)
+    - [Интерфейсы, абстрактные классы, полиморфизм](https://www.youtube.com/watch?v=7NMFk2oj1-c&index=4&list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW) (youtube)
+    - [Разбираемся с hashCode() и equals()](https://habrahabr.ru/post/168195/)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Сложность алгоритмов](https://drive.google.com/open?id=0B_4NpoQW1xfpQldyRk5oc3Z1S00)
 - [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures)
@@ -38,12 +38,12 @@
  1. *[Lesson03 abstract storage & sorted storage](https://github.com/JavaWebinar/basejava/tree/0bf48cf81987ddb9d59880f10920f3994923f8c0/src/ru/javawebinar/basejava)*
  
 **Ресурсы:**
- - wiki: [Паттерн проектирования - шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования))
+ - [Паттерн проектирования - шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)) (wiki)
  - **Дополнительно**
    - Книга из известной серии Head First - [Паттерны проектирования](https://www.ozon.ru/context/detail/id/20216992/)
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание](https://drive.google.com/open?id=0B_4NpoQW1xfpdkdlV2xPbE5VM2c)
 
-* перед тем, как приступить к ДЗ, приведите свой проект в соответствии с коммитами. Обратите внимание, что packages в видео и коммитах - отличаются.
+* перед тем, как приступить к ДЗ, приведите свой проект в соответствии с коммитами. Обратите внимание, что packages в видео и коммитах - отличаются
 
-- Закончить реализацию `AbstractArrayStorage`, `ArrayStorage`, `SortedArrayStorage` (`SortedArrayStorage` хранит элементы отсортированными. Сортировать весь массив не надо).
+- Закончить реализацию `AbstractArrayStorage`, `ArrayStorage`, `SortedArrayStorage` (`SortedArrayStorage` хранит элементы отсортированными. Сортировать весь массив не надо)
