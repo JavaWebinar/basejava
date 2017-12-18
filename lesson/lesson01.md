@@ -12,7 +12,7 @@
 
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/open?id=0B_4NpoQW1xfpVjZUTEpvVUN1TTA)
-- [Мифический человеко-месяц (wiki)](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц)
+- [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц) (wiki)
 - [Размеры проектов в количестве строк кода [eng]](https://medium.freecodecamp.com/the-biggest-codebases-in-history-a128bb3eea73)
 - [Соглашения по оформлению кода](https://google.github.io/styleguide/javaguide.html)
 - [Методологии разработки ПО](https://dou.ua/forums/topic/14015/)
