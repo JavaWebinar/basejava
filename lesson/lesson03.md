@@ -14,7 +14,7 @@
  1. *[Lesson03 equals&hashCode, static](https://github.com/JavaWebinar/basejava/tree/9d8464cc24be306b0dbce112607122149ec327d8/src/ru/javawebinar/basejava)*
  1. *[Lesson03 implements interface](https://github.com/JavaWebinar/basejava/tree/ba20418d59dcc998c2cab218d84ca1f7099676c8/src/ru/javawebinar/basejava/storage)*
 
-**Ресурсы**
+**Ресурсы:**
 - [static](http://www.intuit.ru/studies/courses/16/16/lecture/27119)
 - [Object. Контракт equals/hashCode](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=1)
 - [Интерфейсы](http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=3)
@@ -37,7 +37,7 @@
 **Коммиты:**
  1. *[Lesson03 abstract storage & sorted storage](https://github.com/JavaWebinar/basejava/tree/0bf48cf81987ddb9d59880f10920f3994923f8c0/src/ru/javawebinar/basejava)*
  
-**Ресурсы**
+**Ресурсы:**
  - wiki: [Паттерн проектирования - шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования))
  - **Дополнительно**
    - Книга из известной серии Head First - [Паттерны проектирования](https://www.ozon.ru/context/detail/id/20216992/)
