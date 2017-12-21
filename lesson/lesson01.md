@@ -1,7 +1,7 @@
 # Первое занятие
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар ПРЕЗЕНТАЦИЯ обучения](https://drive.google.com/file/d/0B_4NpoQW1xfpNzdqT2hOcUJ6TGs)
-#### [Так будет выглядеть мое резюме в разрабатываемом на этом проекте приложении](https://javawebinar.github.io/)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар-презентация обучения на проекте BaseJava](https://drive.google.com/file/d/0B_4NpoQW1xfpNzdqT2hOcUJ6TGs)
+#### [Итоговый пример приложения, разрабатываемого в рамках данного курса (на примере резюме Григория Кислина)](https://javawebinar.github.io/)
 
 ## Для участия необходимо:
 -  Установить <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">JDK8</a> (выбрать Accept License Agreement)
@@ -14,7 +14,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/open?id=0B_4NpoQW1xfpVjZUTEpvVUN1TTA)
 - [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц) (wiki)
 - [Размеры проектов в количестве строк кода [eng]](https://medium.freecodecamp.com/the-biggest-codebases-in-history-a128bb3eea73)
-- [Соглашения по оформлению кода](https://google.github.io/styleguide/javaguide.html)
+- [Соглашения по оформлению кода [eng]](https://google.github.io/styleguide/javaguide.html)
 - [Методологии разработки ПО](https://dou.ua/forums/topic/14015/)
 - [Ещё раз про семь основных методологий разработки](https://habrahabr.ru/company/edison/blog/269789/)
 
@@ -34,9 +34,9 @@
 
 ![jvm](https://cloud.githubusercontent.com/assets/18701152/15219296/e6c67e86-186b-11e6-986f-651a87deec6c.png)
 
-- [Java Microbenchmark JMH](https://github.com/JavaOPs/masterjava#Занятие-2) (используем на курсе [Masterjava](https://github.com/JavaWebinar/masterjava#2410-Занятие-2))
-- [Oracle Java8 Home](http://docs.oracle.com/javase/8/docs/index.html)
 - [ME](http://ru.wikipedia.org/wiki/Java_Platform,_Micro_Edition), [SE](https://ru.wikipedia.org/wiki/Java_Platform,_Standard_Edition), [EE](http://ru.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) (wiki)
+- [Java Microbenchmark JMH](http://openjdk.java.net/projects/code-tools/jmh/) (используем на курсе [Masterjava](https://github.com/JavaWebinar/masterjava#2410-Занятие-2))
+- [Oracle Java8 Home](http://docs.oracle.com/javase/8/docs/index.html)
 - **Дополнительно:**
    - [Java version and vendor data analyzed 2017](https://plumbr.io/blog/java/java-version-and-vendor-data-analyzed-2017-edition)
    - [Most Popular Java EE Servers](https://plumbr.io/blog/java/most-popular-java-application-servers-2017-edition)
