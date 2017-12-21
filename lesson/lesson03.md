@@ -38,7 +38,7 @@
  1. *[Lesson03 abstract storage & sorted storage](https://github.com/JavaWebinar/basejava/tree/0bf48cf81987ddb9d59880f10920f3994923f8c0/src/ru/javawebinar/basejava)*
  
 **Ресурсы:**
- - [Паттерн проектирования - шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)) (wiki)
+ - [Паттерн проектирования - Шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)) (wiki)
  - [Шаблонный метод](https://refactoring.guru/ru/design-patterns/template-method/java/example)
  - **Дополнительно**
    - Книга из известной серии Head First - [Паттерны проектирования](https://www.ozon.ru/context/detail/id/20216992/)
