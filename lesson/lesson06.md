@@ -23,9 +23,15 @@
 - **Дополнительно:**
   - [Iterator in Java](https://www.journaldev.com/13460/java-iterator)
   
-- [Вложенные и внутренние классы](http://easy-code.ru/lesson/java-nested-classes)
-> Примеры в Collections API: Arrays.asList, ArrayList.iterator
-- [Локальные и анонимные классы](http://easy-code.ru/lesson/local-anonymous-nested-classes-java). Comparator
+- [Вложенные классы в Java](https://habrahabr.ru/post/342090/) 
+- [Вложенные, внутренние, локальные и анонимные классы](http://pr0java.blogspot.ru/2015/08/1.html)
+- [Локальные и анонимные классы](http://easy-code.ru/lesson/local-anonymous-nested-classes-java). 
+- [Интерфейсы Comparable и Comparator](https://metanit.com/java/tutorial/5.6.php)
+- [Анонимные классы в Java](https://www.youtube.com/watch?v=P3uicghNPLg) (youtube)
+- [Nested (static) классы в Java](https://www.youtube.com/watch?v=svOwVvSWeus) (youtube)
+- [Inner (non-static) классы в Java](https://www.youtube.com/watch?v=LflAy_LOwwQ) (youtube)
+- **Дополнительно**
+  - [Вложенные, внутренние, локальные и анонимные классы [eng]](https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Новое в Java 8](https://drive.google.com/open?id=0B_4NpoQW1xfpcVJFa2ljeEloTXc)
 **Коммиты:**
@@ -41,7 +47,7 @@
   - [Lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание](https://drive.google.com/open?id=0B_4NpoQW1xfpbm9PMXFDN0RuR1k)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW6](https://drive.google.com/open?id=0B_4NpoQW1xfpbm9PMXFDN0RuR1k)
 
 - Сделать рефакторинг тестов: `saveOverflow` должно быть только для Array реализаций
 - Рефакторинг: в конструктор Resume добавить второй параметр `fullName`
