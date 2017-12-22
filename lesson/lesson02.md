@@ -20,6 +20,7 @@
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Структура памяти: куча, стек, регистры, константы](https://drive.google.com/open?id=0B_4NpoQW1xfpZHRnTEhNWmk5Xzg)
   - [Стек](https://ru.wikipedia.org/wiki/Стек) (wiki)
   - [От Java-кода к Java-куче](https://www.ibm.com/developerworks/ru/library/j-codetoheap/index.html)
+  - [Java Heap Space vs Stack – Memory Allocation in Java](https://www.journaldev.com/4098/java-heap-space-vs-stack-memory)
   - [Понимаем основы Java garbage collection](http://ggenikus.github.io/blog/2014/05/04/gc)
   
   - **Дополнительно:**
