@@ -20,10 +20,11 @@
   - [String literal pool](http://java67.blogspot.ru/2014/08/difference-between-string-literal-and-new-String-object-Java.html)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Исключения](https://drive.google.com/open?id=0B_4NpoQW1xfpQ1BaQjc3Y3N1MTQ)
-[см. коммит Lesson04 Exceptions](https://github.com/JavaWebinar/basejava/tree/da03245d2fdafa86d1f02ea242c072ca52e19f26/src/ru/javawebinar/basejava)
-  - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27123?page=5">Исключения (Exceptions)</a>.
-  - "Java. Эффективное программирование" Джошуа Блох: Исключения.
-  - Конструктор. this, super
+**Коммиты:**
+1. *[Lesson04 Exceptions](https://github.com/JavaWebinar/basejava/tree/da03245d2fdafa86d1f02ea242c072ca52e19f26/src/ru/javawebinar/basejava)*
+  - [Исключения (Exceptions)](http://proglang.su/java/exceptions)
+  - Про исключения также можно почитать в книге Джошуа Блоха - ["Java. Эффективное программирование"](https://www.ozon.ru/context/detail/id/21724143/)
+  - [Конструктор](http://info.javarush.ru/javarush_articles/2015/12/04/Конструкторы-классов-Java-JDK-1-5-.html). [this, super](http://info.javarush.ru/grishin/2015/03/31/Разница-между-ключевыми-словами-this-и-super-в-Java.html)
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/15581283/4c2f5348-2374-11e6-8fd2-e4de02d2c389.png)
 
@@ -37,7 +38,7 @@
  - **Дополнительно:**
    - [The Reflection API](https://docs.oracle.com/javase/tutorial/reflect/)
    - [What is reflection and why is it useful?](https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful)
-> В нашем проекте Reflection используют JUnit и будут использовать библиотеки работы с XML и JSON.
+> В нашем проекте Reflection используют JUnit и будут использовать библиотеки работы с XML и JSON
  - [Фреймворк для модульного тестирования JUnit](http://junit.org/)
  - [Тестирование с помощью JUnit (Test Case)](http://www.javenue.info/post/19)
  - [Тестирование кода Java с помощью фреймворка JUnit](https://www.youtube.com/watch?v=z9jEVLCF5_w) (youtube)
@@ -57,4 +58,4 @@ e.printStackTrace(); - выводит стактрайс
 - `SortedArrayStorageTest` должен запускаться с `SortedArrayStorage`
 - `ArrayStorageTest` c `ArrayStorage`
 
-как вариант, добавить конструктор в `AbstractArrayStorageTest`, который инициализирует `Storage storage`,а в наследниках добавить конструкторы, которые будут вызывать super с нужным хранилищем
+> как вариант, добавить конструктор в `AbstractArrayStorageTest`, который инициализирует `Storage storage`, а в наследниках добавить конструкторы, которые будут вызывать super с нужным хранилищем
