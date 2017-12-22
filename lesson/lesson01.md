@@ -42,6 +42,19 @@
    - [Most Popular Java EE Servers](https://plumbr.io/blog/java/most-popular-java-application-servers-2017-edition)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s)
+
+![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
+
+**Ресурсы:**
+  - [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) (wiki)
+  - [Сравнение разных VCS](https://biz30.timedoctor.com/ru/cистема-контроля-версий/)
+  - [Git обучалка](https://githowto.com/ru)
+  - [Интерактивная Git обучалка (в настройках выберите русский язык)](http://learngitbranching.js.org)
+  - [Официальная книга про Git](https://git-scm.com/book/ru/v2)
+  - [Working with remote repositories](https://illustrated-git.readthedocs.org/en/latest/#working-with-remote-repositories)
+  - [Базовый курс по обучению Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (youtube)
+  - [Git. Быстрый старт](https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P) (youtube)
+  
 ### Настройка проекта
 - Создать на GitHub репозиторий `basejava`
 - git занести в переменная окружения PATH, перезапустить cmd
@@ -52,19 +65,6 @@
   - `git remote set-url origin https://github.com/[твой_GITHUB_аккаунт]/[твой_репозиторий].git` - настройка pull
   - `git remote set-url --push origin https://github.com/[твой_GITHUB_аккаунт]/[твой_репозиторий].git` - настройка push
   - `git push -u origin master`
-
-#### [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) (wiki)
-
-![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
-
-**Ресурсы:**
-  - [Сравнение разных VCS](https://biz30.timedoctor.com/ru/cистема-контроля-версий/)
-  - [Git обучалка](https://githowto.com/ru)
-  - [Интерактивная Git обучалка (в настройках выберите русский язык)](http://learngitbranching.js.org)
-  - [Официальная книга про Git](https://git-scm.com/book/ru/v2)
-  - [Working with remote repositories](https://illustrated-git.readthedocs.org/en/latest/#working-with-remote-repositories)
-  - [Базовый курс по обучению Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (youtube)
-  - [Git. Быстрый старт](https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P) (youtube)
 
 ## Домашнее задание HW1
 - Создайте в IntelliJ IDEA новый проект, выбрав каталог basejava, который вы клонировали ранее к себе на компьютер:
