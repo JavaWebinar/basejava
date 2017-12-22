@@ -10,10 +10,14 @@
 1. *[Lesson04 String](https://github.com/JavaWebinar/basejava/blob/7f5a5d70a63fbeea40539397b1c4b2cfb3bd272f/src/ru/javawebinar/basejava/MainString.java)*
 
 **Ресурсы:**
-- []()<a href="http://easy-code.ru/lesson/java-string">Строки в Java</a>. Кодировка.</li>
-- []()<a href="http://easy-code.ru/lesson/manipulating-characters-string-java">Управление строками, функции для работы со строками в Java.</a>
-- []()StringBuilder vs StringBuffer
-- []()<a href="http://java67.blogspot.ru/2014/08/difference-between-string-literal-and-new-String-object-Java.html">String literal pool</a>
+- [Строки в Java](https://urvanov.ru/2016/04/20/java-8-строки/)
+- [Кодировка в Java](http://www.skipy.ru/technics/encodings.html)
+- [Ошибки при использовании строк](http://www.skipy.ru/technics/strings.html)
+- [Обработка строк в Java](https://habrahabr.ru/post/260767/)
+- **Дополнительно:**
+  - [StringBuilder vs StringBuffer](https://stackoverflow.com/questions/355089/difference-between-stringbuilder-and-stringbuffer?rq=1)
+  - [String vs StringBuffer vs StringBuilder](https://www.journaldev.com/538/string-vs-stringbuffer-vs-stringbuilder)
+  - [String literal pool](http://java67.blogspot.ru/2014/08/difference-between-string-literal-and-new-String-object-Java.html)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Исключения](https://drive.google.com/open?id=0B_4NpoQW1xfpQ1BaQjc3Y3N1MTQ)
 [см. коммит Lesson04 Exceptions](https://github.com/JavaWebinar/basejava/tree/da03245d2fdafa86d1f02ea242c072ca52e19f26/src/ru/javawebinar/basejava)
