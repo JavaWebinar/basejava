@@ -4,10 +4,10 @@
 #### [Итоговый пример приложения, разрабатываемого в рамках данного курса (на примере резюме Григория Кислина)](https://javawebinar.github.io/)
 
 ## Для участия необходимо:
--  Установить <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">JDK8</a> (выбрать Accept License Agreement)
--  Установить систему управления версиями <a href="http://git-scm.com/downloads">Git</a> (опции по умолчанию)
--  Создать аккаунт на <a href="https://github.com/">GitHub</a>
--  Установить <a href="http://www.jetbrains.com/idea/download/index.html">IntelliJ IDEA Ultimate</a>
+-  Установить [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
+-  Установить систему управления версиями [Git](http://git-scm.com/downloads) (опции по умолчанию)
+-  Создать аккаунт на [GitHub](https://github.com/)
+-  Установить [IntelliJ IDEA Ultimate](http://www.jetbrains.com/idea/download/index.html)
 > Данная среда разработки является платным продуктом, рассчитанным на 30 дней пробного бесплатного использования. Для выполнения заданий в этой IDE каждый участник курса получит ключ на 6 месяцев
 
 
