@@ -13,12 +13,12 @@
   - [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc) (youtube)
   - [Object-Oriented Programming Concepts](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
   - [Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
+  
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Структура памяти: куча, стек, регистры, константы](https://drive.google.com/open?id=0B_4NpoQW1xfpZHRnTEhNWmk5Xzg)
   - [Стек](https://ru.wikipedia.org/wiki/Стек) (wiki)
   - [От Java-кода к Java-куче](https://www.ibm.com/developerworks/ru/library/j-codetoheap/index.html)
   - [Java Heap Space vs Stack – Memory Allocation in Java](https://www.journaldev.com/4098/java-heap-space-vs-stack-memory)
   - [Понимаем основы Java garbage collection](http://ggenikus.github.io/blog/2014/05/04/gc)
-  
   - **Дополнительно:**
     - [Из каких частей состоит память java процесса](http://habrahabr.ru/post/117274/)
     - [Permanent область памяти](http://www.javaspecialist.ru/2011/04/permanent.html)
@@ -34,7 +34,6 @@
   - [Java types](https://www.youtube.com/watch?v=hqirUFitj9c&index=7&list=PLwwk4BHih4fgYGHmAL-2ZCymrYHXO69GN) (youtube)
   - [Модификаторы доступа](https://www.youtube.com/watch?v=e14xUIUc6y0) (youtube)
   - [Пакеты](https://www.youtube.com/watch?v=zGKFmG-ygWQ&list=PLwwk4BHih4fgYGHmAL-2ZCymrYHXO69GN&index=9) (youtube)
-  
   - **Дополнительно:**
     - [Packages](https://docs.oracle.com/javase/tutorial/java/package/index.html)
     - [Primitive data types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
