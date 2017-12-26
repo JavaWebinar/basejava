@@ -56,6 +56,7 @@
   - [Git. Быстрый старт](https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P) (youtube)
   
 ### Настройка проекта
+> Для удобной навигации по файлам на GinHib рекомендуем установить расширение для браузера - [Octotree](https://habrahabr.ru/post/223527/)
 - Создать на GitHub репозиторий `basejava`
 - git занести в переменная окружения PATH, перезапустить cmd
 - Создайте локальную копию проекта: `git clone https://github.com/JavaOps/basejava.git`
