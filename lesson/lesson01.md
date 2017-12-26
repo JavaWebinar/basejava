@@ -81,7 +81,7 @@
 - Протестируйте вашу реализацию интерактивно с помощью `MainArray.main()`
 - Изучите дополнительные материалы по IntelliJ IDEA:
   - [Idea Wiki](https://github.com/JavaOPs/topjava/wiki/IDEA) ([поставить кодировку UTF-8](https://github.com/JavaOPs/topjava/wiki/IDEA#Поставить-кодировку-utf-8), [поменять фонт по умолчанию на DejaVu](https://github.com/JavaOPs/topjava/wiki/IDEA#Поменять-фонт-по-умолчанию-dejavu))
-  - [Отладчик IntelliJ IDEA](http://learn.javajoy.net/debug-intellij-idea)
+  - [Руководство пользователя IntelliJ IDEA. Отладчик](http://info.javarush.ru/idea_help/2014/01/22/Руководство-пользователя-IntelliJ-IDEA-Отладчик-.html)
   - [Эффективная работа с кодом в IntelliJ IDEA](https://www.youtube.com/watch?v=tpv5n2jWHlw) (youtube)
   - [Эффективная работа в IDEA](https://www.youtube.com/watch?v=_rj7dx6c5R8) (youtube)
 
