@@ -1,6 +1,5 @@
 
 # Шестое занятие
-
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор домашнего задания](https://drive.google.com/open?id=0B_4NpoQW1xfpUFJpRVZvNVVpeDg)
 **Коммиты:**
 1. *[lesson06 HW05](https://github.com/JavaWebinar/basejava/tree/82748583a0454aa3dd2cbf38d83de1cb49fa3ee3)*
@@ -22,7 +21,6 @@
 - [Iterator / Iterable](http://www.javenue.info/post/101)
 - **Дополнительно:**
   - [Iterator in Java](https://www.journaldev.com/13460/java-iterator)
-  
 - [Вложенные классы в Java](https://habrahabr.ru/post/342090/) 
 - [Вложенные, внутренние, локальные и анонимные классы](http://pr0java.blogspot.ru/2015/08/1.html)
 - [Локальные и анонимные классы](http://easy-code.ru/lesson/local-anonymous-nested-classes-java). 
