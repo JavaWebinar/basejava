@@ -1,36 +1,40 @@
 
 # Седьмое занятие
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-6](https://drive.google.com/open?id=0B_4NpoQW1xfpT1BwLUNBanVfd1E)
-[см. коммит Lesson07_HW06 test refactoring](https://github.com/JavaWebinar/basejava/tree/b47cadba8f2fb2da61ef6b9f6b245f5c358ea5d8/test/ru/javawebinar/basejava/storage)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор домашнего задания](https://drive.google.com/open?id=0B_4NpoQW1xfpT1BwLUNBanVfd1E)
+**Коммиты:**
+1. *[Lesson07_HW06 test refactoring](https://github.com/JavaWebinar/basejava/tree/b47cadba8f2fb2da61ef6b9f6b245f5c358ea5d8/test/ru/javawebinar/basejava/storage)*
+1. *[Lesson07_HW06 add fullName](https://github.com/JavaWebinar/basejava/tree/fb608dd824abda1f15bbc437e4d0d5e094fc1680)*
+1. *[Lesson07_HW06 getAllSorted](https://github.com/JavaWebinar/basejava/tree/bd8e5f4f4582c9f65e1d6a82da1311d6b0efe294)*
+1. *[Lesson07_HW06 mapStorage](https://github.com/JavaWebinar/basejava/tree/6d0dbdc64e257452662d65f76edf6d9d07328a79)*
 
-[см. коммит Lesson07_HW06 add fullName](https://github.com/JavaWebinar/basejava/tree/fb608dd824abda1f15bbc437e4d0d5e094fc1680)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Параметризация. Стирание типов](https://drive.google.com/open?id=0B_4NpoQW1xfpbXotWEFrYVVGUWc)
+**Коммиты:**
+1. *[Lesson07 generic](https://github.com/JavaWebinar/basejava/tree/1cb2a6bc0bbbb43285b8ca6b297588e9984fa84b/src/ru/javawebinar/basejava/storage)*
 
-[см. коммит Lesson07_HW06 getAllSorted](https://github.com/JavaWebinar/basejava/tree/bd8e5f4f4582c9f65e1d6a82da1311d6b0efe294)
-
-[см. коммит Lesson07_HW06 mapStorage](https://github.com/JavaWebinar/basejava/tree/6d0dbdc64e257452662d65f76edf6d9d07328a79)
-
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Параметризация. Стирание типов.](https://drive.google.com/open?id=0B_4NpoQW1xfpbXotWEFrYVVGUWc)
-[см. коммит Lesson07 generic](https://github.com/JavaWebinar/basejava/tree/1cb2a6bc0bbbb43285b8ca6b297588e9984fa84b/src/ru/javawebinar/basejava/storage)
-
-- <a href="http://www.quizful.net/post/java-generics-tutorial">Дженерики (Java, обучающая статья)</a>
-- <a href="http://developer.alexanderklimov.ru/android/java/generic.php">Обобщения (Generic)</a>
-- <a href="http://docs.oracle.com/javase/tutorial/java/generics/restrictions.html">Ограничения.</a>
+**Ресурсы:**
+- [Дженерики (Java, обучающая статья)](http://www.quizful.net/post/java-generics-tutorial)
+- [Обобщения (Generic)](http://developer.alexanderklimov.ru/android/java/generic.php)
+- [Ограничения](http://docs.oracle.com/javase/tutorial/java/generics/restrictions.html)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Логирование](https://drive.google.com/open?id=0B_4NpoQW1xfpM1J5NkVqNHd1MlU)
-[см. коммит Lesson07 logging](https://github.com/JavaWebinar/basejava/blob/63674b7f246bf6bc4e509cc1241c7b6340477d18/src/ru/javawebinar/basejava/storage/AbstractStorage.java)
+**Коммиты:**
+1. *[Lesson07 logging](https://github.com/JavaWebinar/basejava/blob/63674b7f246bf6bc4e509cc1241c7b6340477d18/src/ru/javawebinar/basejava/storage/AbstractStorage.java)*
 
-- <a href="https://logging.apache.org/">Log4J (Apache logging)</a>
-- <a href="http://www.vogella.com/tutorials/Logging/article.html">Java Logging API - Tutorial</a>
-- <a href="https://habrahabr.ru/post/130195/">Логирование в Java / quick start</a>
-- <a href="http://skipy.ru/useful/logging.html">Ведение лога приложения</a>
-- <a href="http://habrahabr.ru/post/113145/">Java Logging: история кошмара</a>
+**Ресурсы:**
+- [Log4J (Apache logging)](https://logging.apache.org/)
+- [Java Logging API - Tutorial](http://www.vogella.com/tutorials/Logging/article.html)
+- [Логирование в Java / quick start](https://habrahabr.ru/post/130195/)
+- [Ведение лога приложения](http://skipy.ru/useful/logging.html)
+- [Java Logging: история кошмара](http://habrahabr.ru/post/113145/)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. Синглетон, Enum](https://drive.google.com/open?id=0B_4NpoQW1xfpZ3lmWVhUSXprQXc)
-[см. коммит Lesson07 enum](https://github.com/JavaWebinar/basejava/tree/a1fe80b00444b6c8d8af149c5e82137c312fee22/src/ru/javawebinar/basejava)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. Синглетон. Enum](https://drive.google.com/open?id=0B_4NpoQW1xfpZ3lmWVhUSXprQXc)
+**Коммиты:**
+1. *[Lesson07 enum](https://github.com/JavaWebinar/basejava/tree/a1fe80b00444b6c8d8af149c5e82137c312fee22/src/ru/javawebinar/basejava)*
 
-- <a href="https://ru.wikipedia.org/wiki/Одиночка_(шаблон_проектирования)">Одиночка (шаблон проектирования)</a>
-- <a href="http://easy-code.ru/lesson/enum-types-java">Перечисляемые типы (enum) в Java</a>
+**Ресурсы:**
+- [Одиночка (шаблон проектирования)](https://ru.wikipedia.org/wiki/Одиночка_(шаблон_проектирования))
+- [Перечисляемые типы (enum) в Java](http://easy-code.ru/lesson/enum-types-java)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание:](https://drive.google.com/open?id=0B_4NpoQW1xfpVjhZTzhqemlYZUU)
 <a href="https://ru.wikipedia.org/wiki/Доменный_объект">Доменный объект</a>
