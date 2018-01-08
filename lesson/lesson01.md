@@ -3,11 +3,11 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар-презентация обучения на проекте BaseJava](https://drive.google.com/file/d/0B_4NpoQW1xfpNzdqT2hOcUJ6TGs)
 #### [Итоговый пример приложения, разрабатываемого в рамках данного курса (на примере резюме Григория Кислина)](https://javawebinar.github.io/)
 
-## Для участия необходимо:
--  Установить [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
--  Установить систему управления версиями [Git](http://git-scm.com/downloads) (опции по умолчанию)
--  Создать аккаунт на [GitHub](https://github.com/)
--  Установить [IntelliJ IDEA Ultimate](http://www.jetbrains.com/idea/download/index.html)
+## Подготовка рабочего окружения:
+-  Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
+-  Установите систему управления версиями [Git](http://git-scm.com/downloads) (опции по умолчанию)
+-  Создайте аккаунт на [GitHub](https://github.com/)
+-  Установите [IntelliJ IDEA Ultimate](http://www.jetbrains.com/idea/download/index.html)
 > Данная среда разработки является платным продуктом, рассчитанным на 30 дней пробного бесплатного использования. Для выполнения заданий в этой IDE каждый участник курса получит ключ на 6 месяцев
 
 
