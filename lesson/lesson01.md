@@ -4,14 +4,12 @@
 #### [Итоговый пример приложения, разрабатываемого в рамках данного курса (на примере резюме Григория Кислина)](https://javawebinar.github.io/)
 
 ## Подготовка рабочего окружения:
--  Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
+- Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
 - Установите систему управления версиями [Git](http://git-scm.com/downloads) (опции по умолчанию)
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Для удобной навигации по файлам на GitHub установите расширение для браузера - [Octotree](https://habrahabr.ru/post/223527/)
-
--  Установите [IntelliJ IDEA Ultimate](http://www.jetbrains.com/idea/download/index.html)
+- Установите [IntelliJ IDEA Ultimate](http://www.jetbrains.com/idea/download/index.html)
 > Данная среда разработки является платным продуктом, рассчитанным на 30 дней пробного бесплатного использования. Для выполнения заданий в этой IDE каждый участник курса получит ключ на 6 месяцев
-
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/open?id=0B_4NpoQW1xfpVjZUTEpvVUN1TTA)
 - [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц) (wiki)
