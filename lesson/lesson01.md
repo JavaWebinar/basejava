@@ -3,7 +3,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар-презентация обучения на проекте BaseJava](https://drive.google.com/file/d/0B_4NpoQW1xfpNzdqT2hOcUJ6TGs)
 #### [Итоговый пример приложения, разрабатываемого в рамках данного курса (на примере резюме Григория Кислина)](https://javawebinar.github.io/)
 
-## Подготовка рабочего окружения:
+### Подготовка рабочего окружения
 - Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
 - Установите систему управления версиями [Git](http://git-scm.com/downloads) (опции по умолчанию)
 - Создайте аккаунт на [GitHub](https://github.com/)
@@ -39,13 +39,12 @@
 - [Oracle Java8 Home](http://docs.oracle.com/javase/8/docs/index.html)
 - **Дополнительно:**
    - [Java version and vendor data analyzed 2017](https://plumbr.io/blog/java/java-version-and-vendor-data-analyzed-2017-edition)
-   - [Most Popular Java EE Servers](https://plumbr.io/blog/java/most-popular-java-application-servers-2017-edition)
+   - [Most popular Java application servers: 2017 edition](https://plumbr.io/blog/java/most-popular-java-application-servers-2017-edition)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s)
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
-**Ресурсы:**
   - [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) (wiki)
   - [Сравнение разных VCS](https://biz30.timedoctor.com/ru/cистема-контроля-версий/)
   - [Git обучалка](https://githowto.com/ru)
@@ -56,11 +55,11 @@
   - [Git. Быстрый старт](https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P) (youtube)
   
 ### Настройка проекта
-- Создать на GitHub репозиторий `basejava`
-- git занести в переменная окружения PATH, перезапустить cmd
+- Создайте на GitHub репозиторий с названием `basejava`
+- [Занесите](https://www.java.com/ru/download/help/path.xml) git в переменную окружения PATH и перезапустите cmd
 - Создайте локальную копию проекта: `git clone https://github.com/JavaOps/basejava.git`
-- Перейти в каталог проекта: `cd basejava`
-- Настроить git в локальном проекте на свой проект в GitHub:
+- Перейдите в каталог проекта: `cd basejava`
+- Настройте git в локальном проекте на свой проект в GitHub:
   - `git remote -v`
   - `git remote set-url origin https://github.com/[твой_GITHUB_аккаунт]/[твой_репозиторий].git` - настройка pull
   - `git remote set-url --push origin https://github.com/[твой_GITHUB_аккаунт]/[твой_репозиторий].git` - настройка push
@@ -79,19 +78,19 @@
 - Протестируйте вашу реализацию, запустив `MainTestArrayStorage.main()`: в IDEA слева на полях зеленая стрелка
 - Протестируйте вашу реализацию интерактивно с помощью `MainArray.main()`
 - Изучите дополнительные материалы по IntelliJ IDEA:
-  - [Idea Wiki](https://github.com/JavaOPs/topjava/wiki/IDEA) ([поставить кодировку UTF-8](https://github.com/JavaOPs/topjava/wiki/IDEA#Поставить-кодировку-utf-8), [поменять фонт по умолчанию на DejaVu](https://github.com/JavaOPs/topjava/wiki/IDEA#Поменять-фонт-по-умолчанию-dejavu))
+  - [Idea Wiki](https://github.com/JavaOPs/topjava/wiki/IDEA) ([поставьте кодировку UTF-8](https://github.com/JavaOPs/topjava/wiki/IDEA#Поставить-кодировку-utf-8), [поменяйте шрифт по умолчанию на DejaVu](https://github.com/JavaOPs/topjava/wiki/IDEA#Поменять-фонт-по-умолчанию-dejavu))
   - [Руководство пользователя IntelliJ IDEA. Отладчик](http://info.javarush.ru/idea_help/2014/01/22/Руководство-пользователя-IntelliJ-IDEA-Отладчик-.html)
   - [Эффективная работа с кодом в IntelliJ IDEA](https://www.youtube.com/watch?v=tpv5n2jWHlw) (youtube)
   - [Эффективная работа в IDEA](https://www.youtube.com/watch?v=_rj7dx6c5R8) (youtube)
 
 ### Optional
-- Модифицировать класс `ArrayStorage`: хранить все резюме в начале storage (без дырок в виде null), чтобы не перебирать каждый раз все 10000 элементов
+- Модифицируйте класс `ArrayStorage`: храните все резюме в начале storage (без дырок в виде null), чтобы не перебирать каждый раз все 10000 элементов
 ```
-Хранение резюме в storage (от 0 до size-1 элементов null нет):
+Схема хранения резюме в storage (от 0 до size-1 элементов null нет):
 
 r1, r2, r3,..., rn, null, null,..., null
 <----- size ----->
 <------- storage.length (10000) ------->
 ```
-- Посмотреть на класс `java.util.Arrays`. Там есть полезные вещи, которые могут упростить код `ArrayStorage`
-- Протестируйте реализацию, запустив MainArray.main(): в IDEA слева на полях зеленая стрелка
+- Посмотрите на класс `java.util.Arrays`. В нем есть полезные методы, которые могут упростить код `ArrayStorage`
+- Протестируйте реализацию, запустив MainArray.main()
