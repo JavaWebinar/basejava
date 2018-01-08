@@ -74,7 +74,7 @@
 
 ![finish](https://user-images.githubusercontent.com/13649199/27245924-cab3618e-52f6-11e7-9655-4293149b4126.png)
 
-- Реализуйте класс `ArrayStorage`, организовав хранение резюме на основе массива с методами `save, get, delete, size, clear, getAll`)
+- Реализуйте класс `ArrayStorage`, организовав хранение резюме на основе массива с методами `save, get, delete, size, clear, getAll`
 - Протестируйте вашу реализацию, запустив `MainTestArrayStorage.main()`
 - Протестируйте вашу реализацию интерактивно с помощью `MainArray.main()`
 - Изучите дополнительные материалы по IntelliJ IDEA:
