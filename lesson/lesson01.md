@@ -74,8 +74,8 @@
 
 ![finish](https://user-images.githubusercontent.com/13649199/27245924-cab3618e-52f6-11e7-9655-4293149b4126.png)
 
-- Реализуйте класс `ArrayStorage`: хранение резюме на основе массива (методы `clear, get, save, delete, getAll, size`)
-- Протестируйте вашу реализацию, запустив `MainTestArrayStorage.main()`: в IDEA слева на полях зеленая стрелка
+- Реализуйте класс `ArrayStorage`, организовав хранение резюме на основе массива с методами `save, get, delete, size, clear, getAll`)
+- Протестируйте вашу реализацию, запустив `MainTestArrayStorage.main()`
 - Протестируйте вашу реализацию интерактивно с помощью `MainArray.main()`
 - Изучите дополнительные материалы по IntelliJ IDEA:
   - [Idea Wiki](https://github.com/JavaOPs/topjava/wiki/IDEA) ([поставьте кодировку UTF-8](https://github.com/JavaOPs/topjava/wiki/IDEA#Поставить-кодировку-utf-8), [поменяйте шрифт по умолчанию на DejaVu](https://github.com/JavaOPs/topjava/wiki/IDEA#Поменять-фонт-по-умолчанию-dejavu))
