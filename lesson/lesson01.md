@@ -35,7 +35,7 @@
 ![jvm](https://cloud.githubusercontent.com/assets/18701152/15219296/e6c67e86-186b-11e6-986f-651a87deec6c.png)
 
 - [ME](http://ru.wikipedia.org/wiki/Java_Platform,_Micro_Edition), [SE](https://ru.wikipedia.org/wiki/Java_Platform,_Standard_Edition), [EE](http://ru.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) (wiki)
-- [Java Microbenchmark JMH](http://openjdk.java.net/projects/code-tools/jmh/) (используем на курсе [Masterjava](https://github.com/JavaWebinar/masterjava#2410-Занятие-2))
+- [Java Microbenchmark JMH](http://openjdk.java.net/projects/code-tools/jmh/) (используем на курсе [MasterJava](https://github.com/JavaWebinar/masterjava#Занятие-2))
 - [Oracle Java8 Home](http://docs.oracle.com/javase/8/docs/index.html)
 - **Дополнительно:**
    - [Java version and vendor data analyzed 2017](https://plumbr.io/blog/java/java-version-and-vendor-data-analyzed-2017-edition)
