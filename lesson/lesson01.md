@@ -61,8 +61,8 @@
 - Перейдите в каталог проекта: `cd basejava`
 - Настройте git в локальном проекте на свой проект в GitHub:
   - `git remote -v`
-  - `git remote set-url origin https://github.com/[твой_GITHUB_аккаунт]/[твой_репозиторий].git` - настройка pull
-  - `git remote set-url --push origin https://github.com/[твой_GITHUB_аккаунт]/[твой_репозиторий].git` - настройка push
+  - `git remote set-url origin url_на_твой_basejava-репозиторий.git` - настройка pull
+  - `git remote set-url --push origin url_на_твой_basejava-репозиторий.git` - настройка push
   - `git push -u origin master`
 
 ## Домашнее задание HW1
