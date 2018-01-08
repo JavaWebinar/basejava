@@ -5,8 +5,10 @@
 
 ## Подготовка рабочего окружения:
 -  Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
--  Установите систему управления версиями [Git](http://git-scm.com/downloads) (опции по умолчанию)
--  Создайте аккаунт на [GitHub](https://github.com/)
+- Установите систему управления версиями [Git](http://git-scm.com/downloads) (опции по умолчанию)
+- Создайте аккаунт на [GitHub](https://github.com/)
+- Для удобной навигации по файлам на GitHub установите расширение для браузера - [Octotree](https://habrahabr.ru/post/223527/)
+
 -  Установите [IntelliJ IDEA Ultimate](http://www.jetbrains.com/idea/download/index.html)
 > Данная среда разработки является платным продуктом, рассчитанным на 30 дней пробного бесплатного использования. Для выполнения заданий в этой IDE каждый участник курса получит ключ на 6 месяцев
 
@@ -56,7 +58,6 @@
   - [Git. Быстрый старт](https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P) (youtube)
   
 ### Настройка проекта
-> Для удобной навигации по файлам на GitHub рекомендуем установить расширение для браузера - [Octotree](https://habrahabr.ru/post/223527/)
 - Создать на GitHub репозиторий `basejava`
 - git занести в переменная окружения PATH, перезапустить cmd
 - Создайте локальную копию проекта: `git clone https://github.com/JavaOps/basejava.git`
