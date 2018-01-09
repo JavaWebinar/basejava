@@ -39,10 +39,10 @@
     - [Primitive data types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW2](https://drive.google.com/open?id=0B_4NpoQW1xfpWUxUVWx5MFpCZkE)
-> Правка к видео: ArrayStorage.delete() - вместо `storage[i] = null` нужно `storage[size - 1] = null`
-
-- Еще раз прочитать, [как правильно оформлять код [eng]](https://google.github.io/styleguide/javaguide.html)
-- Реализовать `ArrayStorage.update`
-- Сделать проверки: в `update/delete/get` - резюме есть в storage; в `save`- нет в storage: `System.out.println("Resume ...")`
-- Сделать в save проверку на переполнение: `System.out.println("...")`
-- Избавиться от дублирования в коде `ArrayStorage`
+> Правка к видео: в `ArrayStorage.delete()` вместо `storage[i] = null` нужно записать `storage[size - 1] = null`
+`
+- Еще `рз прочитайте, [как правильно оформлять код [eng]](https://google.github.io/styleguide/javaguide.html)
+- Реализуйте `ArrayStorage.update`
+- Сделайте проверки: в `update/delete/get` - резюме есть в `storage`?; в `save`- резюме нет в `storage`? Выведите соответствующие предупреждения - `System.out.println("Resume ...")`
+- Сделайте в `save` проверку на переполнение и выведите предупреждение - `System.out.println("...")`
+- Избавьтесь от дублирования в коде `ArrayStorage`
