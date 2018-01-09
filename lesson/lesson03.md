@@ -16,7 +16,7 @@
 
 **Ресурсы:**
 - [Модификатор static](http://www.intuit.ru/studies/courses/16/16/lecture/27119)
-- [10 заметок о модификаторе Static в Java](http://info.javarush.ru/translation/2014/04/15/10-заметок-о-модификаторе-Static-в-Java.html)
+- [10 заметок о модификаторе static в Java](http://info.javarush.ru/translation/2014/04/15/10-заметок-о-модификаторе-Static-в-Java.html)
 - [Класс Object. Контракт equals/hashCode](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=1)
 - [Абстрактные классы](https://www.youtube.com/watch?v=ZjiFL2Yo2fw) (youtube)
 - [Интерфейсы](http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=3)
@@ -51,4 +51,4 @@
 
 - Перед тем, как приступить к ДЗ, приведите свой проект в соответствии с коммитами. Обратите внимание, что `packages` в видео и коммитах - отличаются
 
-- Закончите реализацию `AbstractArrayStorage`, `ArrayStorage`, `SortedArrayStorage` (В `SortedArrayStorage` хранить элементы отсортированными. Сортировать весь массив не надо)
+- Закончите реализацию `AbstractArrayStorage`, `ArrayStorage`, `SortedArrayStorage` (в `SortedArrayStorage` хранить элементы отсортированными. Сортировать весь массив не надо)
