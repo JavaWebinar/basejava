@@ -16,9 +16,12 @@
 
 **Ресурсы:**
 - [Модификатор static](http://www.intuit.ru/studies/courses/16/16/lecture/27119)
+- [10 заметок о модификаторе Static в Java](http://info.javarush.ru/translation/2014/04/15/10-заметок-о-модификаторе-Static-в-Java.html)
 - [Класс Object. Контракт equals/hashCode](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=1)
+- [Абстрактные классы](https://www.youtube.com/watch?v=ZjiFL2Yo2fw) (youtube)
 - [Интерфейсы](http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=3)
 - [Полиморфизм](http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=4)
+- [Отличия абстрактного класса от интерфейса](https://ru.stackoverflow.com/questions/235352/Отличия-абстрактного-класса-от-интерфейса-abstract-class-and-interface)
 - **Дополнительно:**
     - [Что такое полиморфизм?](https://github.com/ichimax/Core-Java-Interview-Questions/blob/master/Questions/1.%20OOP.md#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC)
     - [Ключевое слово static](https://www.youtube.com/watch?v=GZzVfeY7yEM) (youtube)
