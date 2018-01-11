@@ -28,6 +28,8 @@
   - Про исключения также можно почитать в книге Джошуа Блоха - ["Java. Эффективное программирование"](https://www.ozon.ru/context/detail/id/21724143/)
   - [Конструктор](http://info.javarush.ru/javarush_articles/2015/12/04/Конструкторы-классов-Java-JDK-1-5-.html)
   - [Ключевые слова: this, super](http://info.javarush.ru/grishin/2015/03/31/Разница-между-ключевыми-словами-this-и-super-в-Java.html)
+  - **Дополнительно:**
+    - [Checked vs unchecked exception explanation](https://stackoverflow.com/questions/6115896/java-checked-vs-unchecked-exception-explanation)
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/15581283/4c2f5348-2374-11e6-8fd2-e4de02d2c389.png)
 
@@ -47,11 +49,11 @@
  - [Тестирование кода Java с помощью фреймворка JUnit](https://www.youtube.com/watch?v=z9jEVLCF5_w) (youtube)
 
 ## ![question](https://cloud.githubusercontent.com/assets/13649199/13672858/9cd58692-e6e7-11e5-905d-c295d2a456f1.png) Ваши вопросы
-> В чём разница между Assert.fail() и e.printStackTrace()?
+> В чём разница между `Assert.fail()` и `e.printStackTrace()`?
 
-Assert.fail() - если тест дошел до этого места, то он провалился
+`Assert.fail()` - если тест дошел до этого места, то он провалился
 
-e.printStackTrace() - выводит [стектрейс](https://ru.stackoverflow.com/questions/510755/Что-такое-stack-trace-и-как-с-его-помощью-находить-ошибки-при-разработке-прилож)
+`e.printStackTrace()` - выводит [стектрейс](https://ru.stackoverflow.com/questions/510755/Что-такое-stack-trace-и-как-с-его-помощью-находить-ошибки-при-разработке-прилож)
 
 ## Домашнее задание HW4
 - Реализуйте тесты: `AbstractStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
