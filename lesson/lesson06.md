@@ -2,7 +2,7 @@
 # Шестое занятие
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор домашнего задания](https://drive.google.com/open?id=0B_4NpoQW1xfpUFJpRVZvNVVpeDg)
 **Коммиты:**
-1. *[lesson06 HW05](https://github.com/JavaWebinar/basejava/tree/82748583a0454aa3dd2cbf38d83de1cb49fa3ee3)*
+- [`lesson06 HW05`](https://github.com/JavaWebinar/basejava/tree/82748583a0454aa3dd2cbf38d83de1cb49fa3ee3)
 
 **Ресурсы:**
 - [Автоупаковка и распаковка в Java](https://habrahabr.ru/post/329498/)
@@ -14,7 +14,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Iterator / Iterable. Вложенные, внутренние, локальные и анонимные классы](https://drive.google.com/open?id=0B_4NpoQW1xfpTk5YeTBYbFE4dTg)
 **Коммиты:**
-1. *[Lesson06 Iterator, Comparator and Inner Classes](https://github.com/JavaWebinar/basejava/tree/e7531643b410435c07a998a1428fb9a4de2d30bb/src/ru/javawebinar/basejava)*
+- [`Lesson06 Iterator, Comparator and Inner Classes`](https://github.com/JavaWebinar/basejava/tree/e7531643b410435c07a998a1428fb9a4de2d30bb/src/ru/javawebinar/basejava)
 
 **Ресурсы:**
 - [Паттерн проектирования Итератор](https://refactoring.guru/ru/design-patterns/iterator/java/example)
@@ -33,7 +33,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Новое в Java 8](https://drive.google.com/open?id=0B_4NpoQW1xfpcVJFa2ljeEloTXc)
 **Коммиты:**
-1. *[Lesson06 Lambda](https://github.com/JavaWebinar/basejava/blob/7a80322a4861ccc1e1eacaef2aac078820699667/src/ru/javawebinar/basejava/storage/SortedArrayStorage.java)*
+- [`Lesson06 Lambda`](https://github.com/JavaWebinar/basejava/blob/7a80322a4861ccc1e1eacaef2aac078820699667/src/ru/javawebinar/basejava/storage/SortedArrayStorage.java)
 
 **Ресурсы:**
 - [Нововведения в java 8](https://habrahabr.ru/post/216431/)
@@ -47,7 +47,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW6](https://drive.google.com/open?id=0B_4NpoQW1xfpbm9PMXFDN0RuR1k)
 
-- Сделать рефакторинг тестов: `saveOverflow` должно быть только для Array реализаций
-- Рефакторинг: в конструктор Resume добавить второй параметр `fullName`
-- Сделать рефакторинг всех реализаций `Storage`: заменить метод `Resume[] getAll()` на `List<Resume> getAllSorted()`
-- Реализовать до конца `MapUuidStorage`. Подумать что еще может быть search key в реализации на основе Map
+- Сделайте рефакторинг тестов: `saveOverflow` должно быть только для `Array` реализаций
+- Рефакторинг: в конструктор `Resume` добавьте второй параметр - `fullName`
+- Сделайте рефакторинг всех реализаций `Storage`: замените метод `Resume[] getAll()` на `List<Resume> getAllSorted()`
+- Реализуйте до конца `MapUuidStorage`. Подумайте что еще может быть `search key` в реализации на основе `Map`
