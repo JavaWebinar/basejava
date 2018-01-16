@@ -23,7 +23,7 @@
 - Отличие Redirect от Forward
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. JSTL](https://drive.google.com/open?id=0B_4NpoQW1xfpSHdUNE9TZWNJV1k)
-[см. коммит Lesson16 jstl](hhttps://github.com/JavaWebinar/basejava/blob/a909d0854c47753d8f278a9d6e930411992762ac/web/WEB-INF/jsp/list.jsp)
+[см. коммит Lesson16 jstl](https://github.com/JavaWebinar/basejava/blob/a909d0854c47753d8f278a9d6e930411992762ac/web/WEB-INF/jsp/list.jsp)
 
 - <a href="https://ru.wikipedia.org/wiki/JSTL">JSTL</a>
 - <a href="http://devcolibri.com/1250">JSTL для написания JSP страниц</a>
