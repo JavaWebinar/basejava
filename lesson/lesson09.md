@@ -15,6 +15,7 @@
 
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27133?page=3">Сериализация объектов (serialization)</a>
 - Реализация Storage используя <a href="https://habrahabr.ru/post/60317/">сериализацию</a>.
+- Сериализация: [1](https://www.youtube.com/watch?v=dBcqizwOWLg), [2](https://www.youtube.com/watch?v=nr4_JRKCGBU) (youtube)
  
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. NIO.](https://drive.google.com/open?id=0B_4NpoQW1xfpMzBqSWI3eEI2RGs)
 [см. коммит Lesson09 AbstractPathStorage  ](https://github.com/JavaWebinar/basejava/commit/4b37c38fb980e315c5ec5f1b2b868fbb5935fe6d)
