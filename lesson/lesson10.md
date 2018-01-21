@@ -4,7 +4,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-9](https://drive.google.com/open?id=0B_4NpoQW1xfpZDVJdGlDRlBlUEU)
 [см. коммит Lesson10 HW09](https://github.com/JavaWebinar/basejava/tree/cf532714164239d7d99909f92ba52cb79cb0694a)
 
-
+[Паттерн - Стратегия](https://www.youtube.com/watch?v=rsB2exGsR4I)
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Формат XML. Работа с XML в Java](https://drive.google.com/open?id=0B_4NpoQW1xfpUEtzQjhtQ0c3cFU)
 [см. коммит Lesson10 xml](https://github.com/JavaWebinar/basejava/tree/c36b41e468df8a82bb1e8ba668f3d00e76989fd9)
 
