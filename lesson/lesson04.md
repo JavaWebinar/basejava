@@ -40,6 +40,7 @@
 **Ресурсы:**
  - [Java 8 аннотации](https://urvanov.ru/2016/03/30/java-8-аннотации/)
  - [Руководство по Java Reflection API](http://javadevblog.com/polnoe-rukovodstvo-po-java-reflection-api-refleksiya-na-primerah.html)
+ - [Java Reflection Example Tutorial](https://www.journaldev.com/1789/java-reflection-example-tutorial)
  - **Дополнительно:**
    - [The Reflection API](https://docs.oracle.com/javase/tutorial/reflect/)
    - [What is reflection and why is it useful?](https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful)
