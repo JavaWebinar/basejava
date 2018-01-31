@@ -16,6 +16,8 @@
 - [Дженерики (Java, обучающая статья)](http://www.quizful.net/post/java-generics-tutorial)
 - [Обобщения (Generic)](http://developer.alexanderklimov.ru/android/java/generic.php)
 - [Ограничения](http://docs.oracle.com/javase/tutorial/java/generics/restrictions.html)
+- **Дополнительно**
+  - [Java Generics Example Tutorial](https://www.journaldev.com/1663/java-generics-example-method-class-interface)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Логирование](https://drive.google.com/open?id=0B_4NpoQW1xfpM1J5NkVqNHd1MlU)
 **Коммиты:**
