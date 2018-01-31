@@ -21,8 +21,9 @@
 - [`Lesson10 json`](https://github.com/JavaWebinar/basejava/tree/ba409e3666f1a5086182a736784c4362a1979b7f)
 
 **Ресурсы:**
-- <a href="https://ru.wikipedia.org/wiki/JSON">JSON</a>. <a href="https://learn.javascript.ru/json">JSON в JavaScript</a>. <a href="https://ru.wikipedia.org/wiki/REST">REST</a>
-- Работа с JSON в Java: <a href="https://code.google.com/p/google-gson/">Google GSON</a> и <a href="https://github.com/FasterXML/jackson">Jackson</a>. Реализация хранения в JSON.
+- <a href="https://ru.wikipedia.org/wiki/JSON">JSON</a>. <a href="https://learn.javascript.ru/json">JSON в JavaScript</a>
+- Работа с JSON в Java: <a href="https://code.google.com/p/google-gson/">Google GSON</a> и <a href="https://github.com/FasterXML/jackson">Jackson</a>. Реализация хранения в JSON
+- [Введение в JSON](https://www.youtube.com/watch?v=syuIHCMHQgc) (youtube)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. DataInputStream / DataOutputStream](https://drive.google.com/open?id=0B_4NpoQW1xfpczVtenBCSDlKWU0)
 **Коммиты:**
