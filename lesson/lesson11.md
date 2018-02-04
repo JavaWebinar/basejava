@@ -8,6 +8,7 @@
 ![Закон Мура](https://www.karlrupp.net/wp-content/uploads/2015/06/40-years-processor-trend.png)
 - <a href="https://ru.wikipedia.org/wiki/Закон_Мура">Закон Мура</a>
 - <a href="https://ru.wikipedia.org/wiki/Закон_Амдала">Закон Амдала</a>
+- [Фундаментальный поворот к параллелизму в программировании](https://habrahabr.ru/post/145432/)
 
 ![Concurrent vs Parallel](https://joearms.github.io/images/con_and_par.jpg)
 
