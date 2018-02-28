@@ -10,6 +10,7 @@
 - <a href="https://ru.wikipedia.org/wiki/PostgreSQL">PostgreSQL. Надёжность</a>
 - Создание базы резюме. <a href="https://habrahabr.ru/company/JetBrains/blog/204064/">Работа с базами данных из IDEA</a>
 - <a href="https://www.jetbrains.com/datagrip/features/">IDEA Database tools</a>.
+- [Как работает реляционная БД](https://habrahabr.ru/company/mailru/blog/266811/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Конфигурирование данных в Java проекте](https://drive.google.com/open?id=0B_4NpoQW1xfpQUpkVTJiQnpBNnM)
 [см. коммит Lesson13 properties](https://github.com/JavaWebinar/basejava/tree/25f4dd3b23790cc74c30d3703b16fa6af09c3905)
