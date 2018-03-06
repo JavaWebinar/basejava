@@ -16,7 +16,7 @@
 
 [см. коммит Lesson15 servlets](https://github.com/JavaWebinar/basejava/tree/4d1043a3a45d27eda11fdc9c68ac46aa68fdd563)
 
-- <a href="http://devcolibri.com/4284">Создаем Servlet</a>. Параметры. Кодировка. 
+- <a href="http://devcolibri.com/как-создать-servlet-полное-руководство/">Создаем Servlet</a>. Параметры. Кодировка. 
 - Дополнительно:
     - <a href="http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-shared-variables-and-multithreading">How do servlets work?</a>
     - <a href="http://www.intuit.ru/studies/courses/569/425/lecture/9683">Язык программирования Java: введение в сетевое программирование</a>
