@@ -22,6 +22,7 @@
 **Коммиты:**
 
 [`Lesson13 properties`](https://github.com/JavaWebinar/basejava/tree/25f4dd3b23790cc74c30d3703b16fa6af09c3905)
+
 **Ресурсы:**
 
 - [Properties sample](https://www.mkyong.com/java/java-properties-file-examples)
