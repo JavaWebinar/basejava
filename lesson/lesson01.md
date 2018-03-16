@@ -23,7 +23,6 @@
 - [Интерактивный курс по SQL](http://www.sql-ex.ru/)
 - [Что и почему используют Java-разработчики: опрос RebelLabs](https://jug.ru/2017/12/rebellabs-report/)
 - [Java in 2017 Survey Results](http://www.baeldung.com/java-in-2017)
-- [Java Tools and Technologies Landscape Report 2016](https://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
 - **Дополнительно:**
    - [Автоматизированная сборка проекта в Java](http://spring-projects.ru/guides/maven/)
 
