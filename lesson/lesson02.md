@@ -46,6 +46,9 @@
 
 - Еще раз прочитайте, [как правильно оформлять код [eng]](https://google.github.io/styleguide/javaguide.html)
 - Реализуйте `ArrayStorage.update`
-- Сделайте проверки: в `update/delete/get` - резюме есть в `storage`?; в `save`- резюме нет в `storage`? Выведите соответствующие предупреждения - `System.out.println("Resume ...")`
-- Сделайте в `save` проверку на переполнение и выведите предупреждение - `System.out.println("...")`
+- Сделайте проверки:
+  - в `update/delete/get` - резюме есть в `storage`?
+  - в `save`- резюме нет в `storage`?
+  - сделайте в `save` проверку на переполнение
+  - выведите соответствующие предупреждения для всех, указанных выше проверок - `System.out.println("Resume ...")`
 - Избавьтесь от дублирования в коде `ArrayStorage`
