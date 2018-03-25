@@ -25,10 +25,12 @@
 
 **Ресурсы:**
   - [Исключения (Exceptions)](http://proglang.su/java/exceptions)
+  - [Статья про исключения](http://developer.alexanderklimov.ru/android/java/exception.php)
   - Про исключения также можно почитать в книге Джошуа Блоха - ["Java. Эффективное программирование"](https://www.ozon.ru/context/detail/id/21724143/)
   - [Конструктор](http://info.javarush.ru/javarush_articles/2015/12/04/Конструкторы-классов-Java-JDK-1-5-.html)
   - [Ключевые слова: this, super](http://info.javarush.ru/grishin/2015/03/31/Разница-между-ключевыми-словами-this-и-super-в-Java.html)
   - **Дополнительно:**
+    - [Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
     - [Checked vs unchecked exception explanation](https://stackoverflow.com/questions/6115896/java-checked-vs-unchecked-exception-explanation)
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/15581283/4c2f5348-2374-11e6-8fd2-e4de02d2c389.png)
