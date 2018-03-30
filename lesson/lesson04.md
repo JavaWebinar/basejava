@@ -60,7 +60,7 @@
 
 ## Домашнее задание HW4
 - Реализуйте тесты: `AbstractStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
-- В `MainReflection` сделайте вызов метода `toString` через отражение
+- В `MainReflection` сделайте вызов метода `toString` через отражение, и выведите результат
 
 ## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Подсказки по HW4
 - `SortedArrayStorageTest` должен запускаться с `SortedArrayStorage`
