@@ -55,7 +55,8 @@
   
 ### Настройка проекта
 - Создайте на GitHub репозиторий с названием `basejava`
-- [Занесите](https://www.java.com/ru/download/help/path.xml) git в переменную окружения PATH и перезапустите cmd
+- Откройте консоль (терминал) у себя на компьютере
+- [Занесите](https://www.java.com/ru/download/help/path.xml) git в переменную окружения PATH и перезапустите консоль
 - Создайте локальную копию проекта: `git clone https://github.com/JavaOps/basejava.git`
 - Перейдите в каталог проекта: `cd basejava`
 - Настройте git в локальном проекте на свой проект в GitHub:
@@ -65,13 +66,15 @@
   - `git push -u origin master`
 
 ## Домашнее задание HW1
-- Создайте в IntelliJ IDEA новый проект, выбрав каталог basejava, который вы клонировали ранее к себе на компьютер:
+- Создайте в IntelliJ IDEA новый проект, выбрав каталог `basejava`, который вы клонировали ранее к себе на компьютер:
 
-![newproject](https://user-images.githubusercontent.com/13649199/27245917-c66f0b5a-52f6-11e7-98dc-f88d0198b5c4.png)
+![newproject](https://user-images.githubusercontent.com/29703461/38273513-d1f7ce52-3794-11e8-829c-305212c25be7.png)
 
-![next](https://user-images.githubusercontent.com/13649199/27245921-c88b4570-52f6-11e7-83a3-e52627468be7.png)
+![next](https://user-images.githubusercontent.com/29703461/38273546-e712a6fe-3794-11e8-9850-29287b46a8a0.png)
 
-![finish](https://user-images.githubusercontent.com/13649199/27245924-cab3618e-52f6-11e7-9655-4293149b4126.png)
+![next1](https://user-images.githubusercontent.com/29703461/38273584-00e07dc2-3795-11e8-9006-3109f949cf33.png)
+
+![finish](https://user-images.githubusercontent.com/29703461/38275669-3e621614-379b-11e8-8b3a-8e0a3ad4c65c.png)
 
 - Реализуйте класс `ArrayStorage`, организовав хранение резюме на основе массива с методами `save, get, delete, size, clear, getAll`
 - Протестируйте вашу реализацию, запустив `MainTestArrayStorage.main()`
@@ -83,7 +86,7 @@
   - [Эффективная работа в IDEA](https://www.youtube.com/watch?v=_rj7dx6c5R8) (youtube)
 
 ### Optional
-- Модифицируйте класс `ArrayStorage`: храните все резюме в начале storage (без дырок в виде null), чтобы не перебирать каждый раз все 10000 элементов
+- Модифицируйте класс `ArrayStorage`: храните все резюме в начале `storage` (без дырок в виде `null`), чтобы не перебирать каждый раз все 10000 элементов
 ```
 Схема хранения резюме в storage (от 0 до size-1 элементов null нет):
 
@@ -92,4 +95,9 @@ r1, r2, r3,..., rn, null, null,..., null
 <------- storage.length (10000) ------->
 ```
 - Посмотрите на класс `java.util.Arrays`. В нем есть полезные методы, которые могут упростить код `ArrayStorage`
-- Протестируйте реализацию, запустив MainArray.main()
+- Протестируйте реализацию, запустив `MainArray.main()`
+
+### Вопросы по HW1
+ > Не могу запустить программу, да и рядом с классами появился какой-то значок
+ ![badsrc](https://user-images.githubusercontent.com/29703461/38277015-9cd9155e-379f-11e8-9cd4-a9182a005e9a.png)
+ - Проблема в том, что IDEA неправильно "воспринимает" папку `src`. Для ее решения необходимо нажать `ПКМ на папке src -> выбрать Mark Directory as -> Sources Root`
