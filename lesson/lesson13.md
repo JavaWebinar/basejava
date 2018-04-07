@@ -16,7 +16,7 @@
 - [Как работает реляционная БД](https://habrahabr.ru/company/mailru/blog/266811)
 - [SQL ключи во всех подробностях](https://habrahabr.ru/company/oleg-bunin/blog/348172)
 - [Книги по postgreSQL](https://postgrespro.ru/education/books)
-- [Интерактивная обучалка по postgreSQL](pgexercises.com)
+- [Интерактивная обучалка по postgreSQL](https://www.pgexercises.com/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Конфигурирование данных в Java проекте](https://drive.google.com/open?id=0B_4NpoQW1xfpQUpkVTJiQnpBNnM)
 **Коммиты:**
