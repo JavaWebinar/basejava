@@ -78,18 +78,14 @@
 
 - Реализуйте класс `ArrayStorage`, организовав хранение резюме на основе массива с методами `save, get, delete, size, clear, getAll`
 - При этом храните все резюме в начале `storage` (без дырок в виде `null`), чтобы не перебирать каждый раз все 10000 элементов
-
 ```
-Схема хранения резюме в storage (от 0 до size-1 элементов null нет):
-
+Схема хранения резюме в storage (от 0 до size - 1 элементов null нет):
 r1, r2, r3,..., rn, null, null,..., null
 <----- size ----->
 <------- storage.length (10000) ------->
 ```
-
 - Посмотрите на класс `java.util.Arrays`. В нем есть полезные методы, которые помогут вам написать более простой и понятный код
 - Протестируйте вашу реализацию с помощью классов `MainArray.main()` и `MainTestArrayStorage.main()`
-
 - Изучите дополнительные материалы по IntelliJ IDEA:
   - [Idea Wiki](https://github.com/JavaOPs/topjava/wiki/IDEA) ([поставьте кодировку UTF-8](https://github.com/JavaOPs/topjava/wiki/IDEA#Поставить-кодировку-utf-8), [поменяйте шрифт по умолчанию на DejaVu](https://github.com/JavaOPs/topjava/wiki/IDEA#Поменять-фонт-по-умолчанию-dejavu))
   - [Руководство пользователя IntelliJ IDEA. Отладчик](http://info.javarush.ru/idea_help/2014/01/22/Руководство-пользователя-IntelliJ-IDEA-Отладчик-.html)
