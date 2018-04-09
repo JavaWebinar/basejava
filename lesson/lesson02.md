@@ -45,7 +45,7 @@
 > Правка к видео: в `ArrayStorage.delete()` вместо `storage[i] = null` нужно записать `storage[size - 1] = null`
 
 - Еще раз прочитайте, [как правильно оформлять код [eng]](https://google.github.io/styleguide/javaguide.html)
-- Реализуйте `ArrayStorage.update`
+- Реализуйте `ArrayStorage.update(Resume resume)`
 - Сделайте проверки:
   - в `update/delete/get` - резюме есть в `storage`?
   - в `save`- резюме нет в `storage`?
