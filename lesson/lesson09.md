@@ -25,7 +25,7 @@
 
 # ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [4. Основы Java 8 Stream API.](https://drive.google.com/open?id=0B_4NpoQW1xfpMHd6VDJjS28tRmM)
 
-- <a href="http://devcolibri.com/4274#t7">Потоки</a>
+- <a href="https://annimon.com/article/2778">Потоки</a>
 
 ## Домашнее задание
 - Сделать рекурсивный вывод каталогов с отступом
