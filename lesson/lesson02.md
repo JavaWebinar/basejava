@@ -44,7 +44,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW2](https://drive.google.com/open?id=0B_4NpoQW1xfpWUxUVWx5MFpCZkE)
 > Правка к видео: в `ArrayStorage.delete()` вместо `storage[i] = null` нужно записать `storage[size - 1] = null`
 
-- Еще раз прочитайте, [как правильно оформлять код [eng]](https://google.github.io/styleguide/javaguide.html)
+- Еще раз прочитайте, [как правильно оформлять код](https://drive.google.com/file/d/1BfVe2KaUxWCAB8R3RKSyM8tmWZBv-J-9/view?usp=sharing)
 - Реализуйте `ArrayStorage.update(Resume resume)`
 - Сделайте проверки:
   - в `update/delete/get` - резюме есть в `storage`?
