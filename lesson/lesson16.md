@@ -27,7 +27,7 @@
 [см. коммит Lesson16 jstl](https://github.com/JavaWebinar/basejava/blob/a909d0854c47753d8f278a9d6e930411992762ac/web/WEB-INF/jsp/list.jsp)
 
 - <a href="https://ru.wikipedia.org/wiki/JSTL">JSTL</a>
-- <a href="http://devcolibri.com/1250">JSTL для написания JSP страниц</a>
+- <a href="https://devcolibri.com/jstl-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F-jsp-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86">JSTL для написания JSP страниц</a>
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [4. CRUD](https://drive.google.com/open?id=0B_4NpoQW1xfpak9nZS1BXzBTbEU)
 [см. коммит Lesson16 crud](https://github.com/JavaWebinar/basejava/tree/3e07257a33d1ba51508e315d6021aa1b78849fca)
