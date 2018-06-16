@@ -51,13 +51,6 @@
  - [Тестирование с помощью JUnit (Test Case)](http://www.javenue.info/post/19)
  - [Тестирование кода Java с помощью фреймворка JUnit](https://www.youtube.com/watch?v=z9jEVLCF5_w) (youtube)
 
-## ![question](https://cloud.githubusercontent.com/assets/13649199/13672858/9cd58692-e6e7-11e5-905d-c295d2a456f1.png) Ваши вопросы
-> В чём разница между `Assert.fail()` и `e.printStackTrace()`?
-
-`Assert.fail()` - если тест дошел до этого места, то он провалился
-
-`e.printStackTrace()` - выводит [стектрейс](https://ru.stackoverflow.com/questions/510755/Что-такое-stack-trace-и-как-с-его-помощью-находить-ошибки-при-разработке-прилож)
-
 ## Домашнее задание HW4
 - Реализуйте тесты: `AbstractStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
 - В `MainReflection` сделайте вызов метода `toString` через отражение, и выведите результат
@@ -66,5 +59,7 @@
 - `SortedArrayStorageTest` должен запускаться с `SortedArrayStorage`
 - `ArrayStorageTest` c `ArrayStorage`
 - тестировать правильность сортировки не надо
-
-> как вариант, добавить конструктор в `AbstractArrayStorageTest`, который инициализирует `Storage storage`, а в наследниках добавить конструкторы, которые будут вызывать super с нужным хранилищем
+- логика реализации теста на переполнение массива (`StorageException`):
+  - если исключение вылетит раньше наполнения, то тест должен провалиться (см. [`Assert.fail()`](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case))
+  - если исключение вылетает, когда пытаемся добавить еще одно резюме в полностью заполненный массив - тест пройден
+- добавьте конструктор в `AbstractArrayStorageTest`, который инициализирует `Storage storage`, а в наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
