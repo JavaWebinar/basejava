@@ -19,6 +19,7 @@
 - [Java собеседование по коллекциям](http://habrahabr.ru/post/162017/)
 - [Часто задаваемые на собеседованиях вопросы по классам коллекциям в Java](http://info.javarush.ru/translation/2013/10/08/Часто-задаваемые-на-собеседованиях-вопросы-по-классам-коллекциям-в-Java-Часть-2-.html#1)
 - [Собеседование по Java — коллекции](http://javastudy.ru/interview/collections/)
+- [Collection.toArray(new T[0]) or Collection.toArray(new T[size]), that's the question](https://shipilev.net/blog/2016/arrays-wisdom-ancients)
 
 ## Домашнее задание
 - Выделите общий класс `AbstractStorage` и реализуйте подклассы `ListStorage` и `MapStorage`. Для этого вам необходимо вынести в `AbstractStorage` максимум кода, исключив тем самым его дублирование (полностью реализацию `MapStorage` рассмотрим на след уроке, в данном ДЗ достаточно сделать заглушки для методов)
