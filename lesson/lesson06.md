@@ -47,7 +47,9 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW6](https://drive.google.com/open?id=0B_4NpoQW1xfpbm9PMXFDN0RuR1k)
 
-- Сделайте рефакторинг тестов: `saveOverflow` должно быть только для `Array` реализаций
-- Рефакторинг: в конструктор `Resume` добавьте второй параметр - `fullName`
-- Сделайте рефакторинг всех реализаций `Storage`: замените метод `Resume[] getAll()` на `List<Resume> getAllSorted()`
-- Реализуйте до конца `MapUuidStorage`. Подумайте что еще может быть `search key` в реализации на основе `Map`
+- Рефакторинг:
+  - метод `saveOverflow()` должен исполняться только для массивов
+  - в конструктор `Resume` добавьте второй параметр - `fullName`
+  - во всех реализациях `Storage` замените метод `Resume[] getAll()` на `List<Resume> getAllSorted()`
+- Реализуйте до конца `MapUuidStorage`. Подумайте, что еще может выступать в качестве `search key` в реализации на основе `Map`
+- Переделайте компаратор, учтя тот случай, что `fullName` разных людей может совпадать
