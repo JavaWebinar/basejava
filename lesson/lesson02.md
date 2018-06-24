@@ -45,7 +45,7 @@
 > Правка к видео: в `ArrayStorage.delete()` вместо `storage[i] = null` нужно записать `storage[size - 1] = null`
 
 - Еще раз прочитайте, [как правильно оформлять код](https://drive.google.com/file/d/1BfVe2KaUxWCAB8R3RKSyM8tmWZBv-J-9/view?usp=sharing)
-- [Настройте IDEA](https://stackoverflow.com/questions/12585253/how-to-remove-unused-imports-in-intellij-idea-on-commit) на автоматическое удаление неиспользуемых коммитов
+- [Настройте IDEA](https://stackoverflow.com/questions/12585253/how-to-remove-unused-imports-in-intellij-idea-on-commit) на автоматическое удаление неиспользуемых импортов
 - Реализуйте `ArrayStorage.update(Resume resume)`
 - Сделайте проверки:
   - в `update/delete/get` - резюме есть в `storage`?
