@@ -43,17 +43,16 @@
  - [`Lesson03 abstract storage & sorted storage`](https://github.com/JavaWebinar/basejava/tree/0bf48cf81987ddb9d59880f10920f3994923f8c0/src/ru/javawebinar/basejava)
  
 **Ресурсы:**
- - [Паттерн проектирования - Шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)) (wiki)
+ - [Паттерн проектирования — Шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)) (wiki)
  - [Шаблонный метод (Template Method)](https://youtu.be/mNcmp-Msi6U) (youtube)
  - [Шаблонный метод](https://refactoring.guru/ru/design-patterns/template-method/java/example)
  - **Дополнительно**
-   - Книга из известной серии Head First - [Паттерны проектирования](https://www.ozon.ru/context/detail/id/20216992/)
+   - Книга из известной серии Head First — [Паттерны проектирования](https://www.ozon.ru/context/detail/id/20216992/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW3](https://drive.google.com/open?id=0B_4NpoQW1xfpdkdlV2xPbE5VM2c)
 
-- Перед тем, как приступить к ДЗ, приведите свой проект в соответствии с коммитами. Обратите внимание, что `packages` в видео и коммитах - отличаются
-
-- Закончите реализацию `AbstractArrayStorage`, `ArrayStorage`, `SortedArrayStorage`
+- Перед тем, как приступить к ДЗ, приведите свой проект в соответствии с коммитами. Обратите внимание, что `packages` в видео и коммитах — отличаются
+- Закончите реализацию `AbstractArrayStorage`, `ArrayStorage`, `SortedArrayStorage`, используя паттерн Шаблонный метод
 - В `SortedArrayStorage` храните элементы отсортированными:
   - сортировать весь массив не надо
   - не используйте `Arrays.sort()`
