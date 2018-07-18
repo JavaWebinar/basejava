@@ -60,6 +60,6 @@
 - `ArrayStorageTest` c `ArrayStorage`
 - тестировать правильность сортировки не надо
 - логика реализации теста на переполнение массива (`StorageException`):
-  - если исключение вылетит раньше наполнения, то тест должен провалиться (см. [`Assert.fail()`](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case))
+  - если исключение вылетит раньше, чем массив будет заполнен, то тест должен провалиться (см. [`Assert.fail()`](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case))
   - если исключение вылетает, когда пытаемся добавить еще одно резюме в полностью заполненный массив - тест пройден
 - добавьте конструктор в `AbstractArrayStorageTest`, который инициализирует `Storage storage`, а в наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
