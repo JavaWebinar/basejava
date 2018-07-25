@@ -21,6 +21,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M)
 - [Bash — шпаргалка для начинающих](https://tproger.ru/translations/bash-cheatsheet)
 - [Интерактивный курс по SQL](http://www.sql-ex.ru/)
+- [The State of Java in 2018](http://www.baeldung.com/java-in-2018)
 - [Что и почему используют Java-разработчики: опрос RebelLabs](https://jug.ru/2017/12/rebellabs-report/)
 - [Java in 2017 Survey Results](http://www.baeldung.com/java-in-2017)
 - **Дополнительно:**
