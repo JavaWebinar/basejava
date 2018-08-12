@@ -22,8 +22,8 @@
 - [Collection.toArray(new T[0]) or Collection.toArray(new T[size]), that's the question](https://shipilev.net/blog/2016/arrays-wisdom-ancients)
 
 ## Домашнее задание
-- Выделите общий класс `AbstractStorage` и реализуйте подклассы `ListStorage` и `MapStorage`. Для этого вам необходимо вынести в `AbstractStorage` максимум кода, исключив тем самым его дублирование (полностью реализацию `MapStorage` рассмотрим на след уроке, в данном ДЗ достаточно сделать заглушки для методов)
-- сделайте класс для тестирования `ListStorage`
+- Выделите общий класс `AbstractStorage` и реализуйте подклассы `ListStorage` и `MapStorage`. Для этого вам необходимо вынести в `AbstractStorage` максимум кода, исключив тем самым его дублирование
+- сделайте классы для тестирования `ListStorage` и `MapStorage`
 
 Выбор реализации `List` и `Map` за вами
 - [Шаблонный метод (шаблон проектирования)](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования))
