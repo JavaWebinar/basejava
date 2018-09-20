@@ -52,7 +52,6 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW3](https://drive.google.com/open?id=0B_4NpoQW1xfpdkdlV2xPbE5VM2c)
 
 - Перед тем, как приступить к ДЗ, приведите свой проект в соответствии с коммитами. Обратите внимание, что `packages` в видео и коммитах — отличаются
-- Посмотрите на методы класса `java.util.Arrays`. Некоторые из них помогут упростить реализацию ваших методов `clear()` и `getAll()`
 - Закончите реализацию `AbstractArrayStorage`, `ArrayStorage`, `SortedArrayStorage`, используя паттерн Шаблонный метод
 - В `SortedArrayStorage` храните элементы отсортированными:
   - сортировать весь массив не надо
