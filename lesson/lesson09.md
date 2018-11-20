@@ -28,6 +28,6 @@
 - <a href="https://annimon.com/article/2778">Потоки</a>
 
 ## Домашнее задание
-- Сделать рекурсивный вывод каталогов с отступом
+- Сделать рекурсивный вывод каталогов и файлов с отступами
 - Реализовать `ObjectStreamPathStorage` (через `java.nio.file.Path`) и добавить `ObjectStreamPathStorageTest`
 - Сделать реализации `Storage` сохранения в файл через `File` и `Path` с возможностью выбора стратегии сериализации (посмотрите на [паттерн стратегия](https://refactoring.guru/ru/design-patterns/strategy)). Кроме сохранения через `ObjectOutputStream/ObjectInputStream` у нас будут еще несколько вариантов сериализации. Сделать тесты для тестирования сохранения через `ObjectOutputStream/ObjectInputStream` для `File` и `Path`.
