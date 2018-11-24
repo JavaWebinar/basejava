@@ -41,6 +41,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание:](https://drive.google.com/open?id=0B_4NpoQW1xfpVjhZTzhqemlYZUU)
 [Доменный объект](https://ru.wikipedia.org/wiki/Доменный_объект)
 
+- Начните выполнение ДЗ с рисования UML-диаграммы и покажите ее наставнику
 - Сделать объектную модель резюме (диаграмма и классы). [**Образец резюме**](https://javawebinar.github.io)
   - Resume - главный класс. Делать только классы, включаемые в Resume (тип [отношения](https://github.com/ichimax/Java-Interview-Questions/blob/master/Questions/1.%20OOP.md#Типы-отношений-между-классами) - композиция)
   - Схожие по структуре и функциональности сущности делаем одним классом
@@ -58,7 +59,7 @@
   - При добавлении / удалении новых видов контактов (например домашний телефон) или разделов изменения в коде (и БД) должны быть минимальны
 - **ПРОВЕРЬТЕ свою модель: создайте класс ResumeTestData с методом main, а в нем объект `Resume` и заполните все его разделы данными, взятыми из [**Образца резюме**](https://javawebinar.github.io)**  
 
-#### Инструменты для рисования:
+#### Инструменты для рисования UML-диаграмм:
 
 - [Generate class diagram in IntelliJ IDEA](http://stackoverflow.com/questions/8942751/use-intellij-to-generate-class-diagram#26926334) ([Help: working with Diagrams](https://www.jetbrains.com/help/idea/2016.1/working-with-diagrams.html?origin=old_help))
 - Нарисовать и сфотографировать
