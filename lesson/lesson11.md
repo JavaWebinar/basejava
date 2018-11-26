@@ -16,7 +16,7 @@
 -  <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27127">Потоки выполнения. Синхронизация.</a>
 -  <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27127?page=4">Методы wait(), notify(), notifyAll() класса Object</a>
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Ленивая инициализация, JMM.](https://drive.google.com/open?id=0B_4NpoQW1xfpN0R6d29UVERxLWc)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Ленивая инициализация, JMM.](https://drive.google.com/file/d/1kAoLlGhsHAyl_Vtak5R_VuNiQp5cYUx3)
 [см. коммит Lesson11](https://github.com/JavaWebinar/basejava/blob/6a626f61722af844663860d1af284c53a9adf423/src/ru/javawebinar/basejava/LazySingleton.java)
 
 - <a href="https://ru.wikipedia.org/wiki/Параллелизм_в_Java">Параллелизм в Java</a>
