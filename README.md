@@ -19,85 +19,174 @@
 *— Илон Маск
 
 ## Программа
-### [Занятие 1](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson01.md)
- - Презентация проекта
- - Разработка ПО
- - Обзор языка Java
+ 
+ ### [Занятие 1](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson01.md)
+ - Обзор курса и методики обучения
+ - Подготовка и настройка рабочего окружения
+ - Подходы, применяемые при разработке ПО
+ - Обзор инструментов и технологий, используемых Java-разработчиками
+ - Введение в язык Java: история создания, JVM, JIT-компиляция
  - Системы управления версиями. Git
- - ПЕРВОЕ ДОМАШНЕЕ ЗАДАНИЕ
+ - Домашнее задание
 
 ### [Занятие 2](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson02.md)
+ - Введение в объектно-ориентированное программирование
  - Принципы ООП
- - Структура памяти: куча, стек, регистры, константы
- - Типы данных. Пакеты
+ - Модификаторы доступа
+ - Классы-обертки
+ - Классы и объекты
+ - Структура памяти java-программы: Heap (куча), Stack (стек)
+ - Типы данных
+ - Пакетная организация файлов
+ - Домашнее задание
 
 ### [Занятие 3](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson03.md)
- - Объектная модель в Java
+ - Разбор домашнего задания
+ - Обзор суперкласса Object
+ - Связь между equals() и hashCode()
+ - Статические методы и переменные
+ - Программирование с помощью интерфейсов
+ - Абстрактные классы
  - Сложность алгоритмов
- - Паттерн проектирования Шаблонный метод
+ - Паттерн проектирования Шаблонный метод 
+ - Домашнее задание
  
 ### [Занятие 4](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson04.md)
- - Работа со строками
- - Исключения
- - Reflection. Аннотации. Модульное тестирование
+ - Разбор домашнего задания
+ - Работа со строками: String, StringBuilder, StringBuffer
+ - String literal pool
+ - Исключения (Exceptions)
+ - Конструктор
+ - Ключевые слова: this, super
+ - Reflection
+ - Аннотации в Java 8
+ - Введение в модульное тестирование. JUnit 
+ - Домашнее задание
 
 ### [Занятие 5](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson05.md)
- - Контейнеры/коллекции
+ - Разбор домашнего задания
+ - Иерархия классов Коллекций
+ - Списки (List)
+ - Множества (Set)
+ - Ассоциативные массивы (Map)
+ - Введение в Iterator
+ - Тестирование коллекций 
+ - Домашнее задание
  
 ### [Занятие 6](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson06.md)
- - Iterator / Iterable. Вложенные, внутренние, локальные и анонимные классы
- - Новое в Java 8
+ - Разбор домашнего задания
+ - Autoboxing and Unboxing
+ - Паттерн проектирования Итератор
+ - Вложенные классы
+ - Внутренние классы
+ - Локальные классы
+ - Анонимные классы
+ - Введение в лямбды
+ - Функциональный интерфейс
+ - Домашнее задание
 
 ### [Занятие 7](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson07.md)
- - Параметризация. Стирание типов
- - Логирование
- - Синглетон, Enum
+ - Разбор домашнего задания
+ - Дженерики (Generic)
+ - Введение в логирование. Log4J
+ - Стандартный логер - Java Logging API
+ - Паттерн проектирования - Синглтон
+ - Перечисляемые типы (Enum)
+ - Объектная модель
+ - Домашнее задание
 
 ### [Занятие 8](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson08.md)
- - Работа с датами и временем
- - Работа с файлами и ресурсами
+ - Разбор домашнего задания
+ - Классы работы с датами: Date, Calendar, TimeZone
+ - Дата и время в Java 8
+ - Внешние библиотеки: Joda Time library
+ - Работа с файловой системой: класс File
+ - try-with-resources
+ - Домашнее задание
 
 ### [Занятие 9](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson09.md)
- - Ввод/вывод
+ - Разбор домашнего задания
+ - Обзор пакета java.io
+ - Классы чтения/записи потоков: InputStream/OutputStream
+ - Паттерн проектирования Декоратор
+ - Работа с классами чтения/записи символов: Reader и Writer
  - Сериализация
- - NIO
- - Основы Java 8 Stream API
+ - Обзор пакета java.nio
+ - Введение в Java 8 Stream API
+ - Домашнее задание
 
 ### [Занятие 10](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson10.md)
- - Формат XML. Работа с XML в Java
- - JSON
- - DataInputStream / DataOutputStream
+ - Разбор домашнего задания
+ - Паттерн проектирования Стратегия
+ - Работа с XML
+ - Работа с JSON: Google GSON и Jackson
+ - Введение в REST
+ - DataInputStream/DataOutputStream
+ - Домашнее задание
 
 ### [Занятие 11](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson11.md)
- - Многопоточность. Параллельное выполнение.
- - Потоки. Синхронизация
- - Ленивая инициализация, JMM
+ -  Процессы и потоки
+ - Синхронизация методов и блоков
+ - Закон Мура
+ - Закон Амдала
+ - Обзор методов класса Object
+ - Ленивая инициализация
+ - Java Memory Model
+ - Взаимная блокировка
+ - Домашнее задание
  
 ### [Занятие 12](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson12.md)
- - java.util.concurrent
+ - Разбор домашнего задания
+ - Обзор java.util.concurrent
+ - Синхронизаторы
+ - ThreadLocal переменные
+ - Сравнение с обменом (Compare-and-swap)
+ - Домашнее задание
 
 ### [Занятие 13](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson13.md)
- - Базы данных. Реляционные СУБД. PostgreSQL
- - Конфигурирование данных в Java проекте
- - Подключение DB в проект
+ - Разбор домашнего задания
+ - Введение в реляционные базы данных
+ - Язык SQL
+ - Обзор NoSQL баз данных
+ - Установка и настройка СУБД PostgreSQL
+ - Работа с базами данных из IDEA
+ - Конфигурирование базы данных и каталога хранения
+ - Подключение базы данных к проекту
+ - Обзор JDBC-архитектуры
+ - Домашнее задание
 
 ### [Занятие 14](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson14.md)
- - JOIN
+ - Разбор домашнего задания
+ - Операции соединения таблиц. JOIN
  - Транзакции
- - Установка/запуск Tomcat
+ - Требования к транзакциям. ACID
+ - Уровни изоляции транзакций в SQL
+ - Установка и настройка контейнера сервлетов Tomcat
+ - Домашнее задание
 
 ### [Занятие 15](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson15.md)
- - HTML, Tomcat
+ - Разбор домашнего задания
+ - Введение в HTML
+ - Основы протокола HTTP
+ - Настройка web.xml
+ - Развертывание (деплой) web-приложения в Tomcat
  - Сервлеты
+ - Домашнее задание
  
 ### [Занятие 16](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson16.md)
- - JSP
- - JSTL
+ - Разбор домашнего задания
+ - Жизненный цикл сервлета
+ - Создание динамических страниц. JSP
+ - Расширенные возможности JSP: JSTL
+ - Redirect и Forward
+ - CRUD
+ - Домашнее задание
  
 ### [Занятие 17](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson17.md)
- - Деплой в Heroku
- - Classloader
- - Обзор Java Enterprise
+ - Разбор домашнего задания
+ - Деплой приложения в облачный сервис Heroku
+ - Загрузка классов в Java. Classloader
+ - Домашнее задание
 
 ## Рекомендуемые книги
 - <a href="http://myflex.org/books/java4kids/java4kids.htm">YAKOV FAIN: Программирование на Java для начинающих</a>
