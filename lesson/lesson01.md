@@ -89,7 +89,6 @@ r1, r2, r3,..., rn, null, null,..., null
 ```
 - Протестируйте вашу реализацию с помощью классов `MainArray.main()` и `MainTestArrayStorage.main()`
 - Изучите дополнительные материалы по IntelliJ IDEA:
-  - [Idea Wiki](https://github.com/JavaOPs/topjava/wiki/IDEA) ([поставьте кодировку UTF-8](https://github.com/JavaOPs/topjava/wiki/IDEA#Поставить-кодировку-utf-8), [поменяйте шрифт по умолчанию на DejaVu](https://github.com/JavaOPs/topjava/wiki/IDEA#Поменять-фонт-по-умолчанию-dejavu))
   - [Руководство пользователя IntelliJ IDEA. Отладчик](http://info.javarush.ru/idea_help/2014/01/22/Руководство-пользователя-IntelliJ-IDEA-Отладчик-.html)
   - [Эффективная работа с кодом в IntelliJ IDEA](https://www.youtube.com/watch?v=tpv5n2jWHlw) (youtube)
   - [Эффективная работа в IDEA](https://www.youtube.com/watch?v=_rj7dx6c5R8) (youtube)
