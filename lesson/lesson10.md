@@ -29,8 +29,5 @@
 **Коммиты:**
 - [`Lesson10 DataStream`](https://github.com/JavaWebinar/basejava/tree/6f699cb5d804b3d033a06cc1173cd1076b0553f9)
 
-**Ресурсы:**
-- Реализация Storage на основе `DataInputStream/DataOutputStream`.
-
 ## Домашнее задание
 - Сделать и протестировать реализацию `DataStreamSerializer`
