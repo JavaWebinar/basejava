@@ -41,6 +41,7 @@
  
 **Ресурсы:**
  - [Java 8 аннотации](https://urvanov.ru/2016/03/30/java-8-аннотации/)
+ - [Reflection для начинающих](https://youtu.be/XJQuBXWADZg) (youtube)
  - [Руководство по Java Reflection API](http://javadevblog.com/polnoe-rukovodstvo-po-java-reflection-api-refleksiya-na-primerah.html)
  - [Java Reflection Example Tutorial](https://www.journaldev.com/1789/java-reflection-example-tutorial)
  - **Дополнительно:**
