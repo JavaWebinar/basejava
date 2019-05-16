@@ -25,7 +25,7 @@
     - [Ссылки по HTML, JavaScript, CSS](https://github.com/JavaOPs/topjava#html-javascript-css)
 
 ## Домашнее задание HW15
-- Сделать реализацию `SqlStorage.getAll` через 2 отдельных запроса: отдельно резюме и отдельно контакты.
+- Сделать реализацию `SqlStorage.getAllSorted` через 2 отдельных запроса: отдельно резюме и отдельно контакты.
 - Добавить в реализацию `SqlStorage` и в базу секции (кроме `OrganizationSection`). Для `ListSection` склеиваем строки через `\n`.
-- Сделать отображение таблицы резюме в сервлете.
+- Сделать отображение таблицы резюме в сервлете (табл resume, т.е. только uuid и fullName).
   - <a href="http://www.webremeslo.ru/html/glava4.html">HTML таблицы</a>
