@@ -46,3 +46,4 @@
 - Для работы с DB надо в lib и проект добавить [драйвер базы данных](http://repo1.maven.org/maven2/org/postgresql/postgresql/42.2.1)
 - Запустить `SqlStorageTest` (в `AbstractStorageTest` контакты и секции закоменченны), креденшелы к базе взять из `Config`
 - Вынести общий код (`getConnection(), prepareStatement, catch SQLException`) в класс `SqlHelper`
+(https://dzone.com/articles/removing-duplicate-code-with-lambda-expressions)
