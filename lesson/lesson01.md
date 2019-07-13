@@ -1,7 +1,6 @@
 # Первое занятие
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Вебинар-презентация обучения на проекте BaseJava](https://drive.google.com/file/d/0B_4NpoQW1xfpNzdqT2hOcUJ6TGs)
-#### [Итоговый пример приложения, разрабатываемого в рамках данного курса (на примере резюме Григория Кислина)](https://javawebinar.github.io/)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Видеообзор проекта Basejava](https://drive.google.com/file/d/0B_4NpoQW1xfpNzdqT2hOcUJ6TGs)
 
 ### Подготовка рабочего окружения
 - Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
@@ -103,11 +102,11 @@ r1, r2, r3,..., rn, null, null,..., null
 - [Что такое null в Java?](http://qaru.site/questions/1960/what-is-null-in-java) (оригинал: [What is null in Java?](https://stackoverflow.com/questions/2707322/what-is-null-in-java))
  
 ### Замечания по выполнению HW1
-1. При реализации метода `delete()` сортировать резюме по `uuid` не требуется
+1. При реализации метода `delete()` не используйте сортировку резюме
 1. Все резюме в хранилище имеют уникальный `uuid`, что исключает повторы
 1. Давайте осмысленные комментарии коммитам
 1. Перед каждым коммитом не забывайте пользоваться сочетанием клавиш `Ctrl + Alt + L` (автоматическое форматирование кода)
-1. Не злоупотребляйте пустыми строками — выработай какой-то единый стиль их написания
+1. Не злоупотребляйте пустыми строками — выработайте какой-то единый стиль их написания
 1. Удаляйте неиспользуемые импорты (`Ctrl + Alt + O`)
 1. Не игнорируйте подсказки IDEA (подсвечивает)
 1. `Resume r` — давайте переменным осмысленные имена, например `resume`. `r` допустимо в коротких циклах и лямбдах
