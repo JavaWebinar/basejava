@@ -29,7 +29,8 @@
     - [What and where are the stack and heap?](http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap#24171266)
     - [The Java Virtual Machine Specification Java SE 8 Edition](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
        
-> Начиная с Java 8 область памяти `PermGen` была упразднена и заменена на [`Metaspace`](https://www.javacodegeeks.com/2013/02/java-8-from-permgen-to-metaspace.html)
+> - Начиная с Java 8 область памяти `PermGen` была упразднена и заменена на [`Metaspace`](https://www.javacodegeeks.com/2013/02/java-8-from-permgen-to-metaspace.html)
+> - При загрузке класса (когда JVM встречает его коде впервые) в `Metaspace` JVM неявно создается объект `Class<Ваш_Класс>` - описание класса: его поля, методы, конструкторы.
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Типы данных. Пакеты](https://drive.google.com/open?id=0B_4NpoQW1xfpQzRVTHg1LVhvOEk)
   - [Типы данных](http://www.intuit.ru/studies/courses/16/16/lecture/27111)
