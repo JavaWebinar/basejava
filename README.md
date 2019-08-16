@@ -198,6 +198,6 @@
 ##  Ресуры в сети
 - [EduTools плагин от JetBrains для изучения Kotlin, Java, Python, Scala, ...](http://javaops.ru/view/story/story21#edutools)
 - [Руководство по Java Core](http://proselyte.net/tutorials/java-core/)
-- [Java. Базовый курс](https://stepik.org/course/Java-Базовый-курс-187)
+- [Java. Базовый курс (доступен также через плагин JetBrains EduTools)](https://stepik.org/course/Java-Базовый-курс-187)
 - <a href="http://www.intuit.ru/studies/courses/16/16/info">intuit: Программирование на Java</a>
 - <a href="http://sernam.ru/book_java.php">Основы программирования на Java: учебное пособие</a>
