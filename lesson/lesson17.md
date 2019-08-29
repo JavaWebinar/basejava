@@ -9,6 +9,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Деплой в Heroku](https://drive.google.com/open?id=0B_4NpoQW1xfpS2JSSDByQ2xGWm8)
 [см. коммит Lesson17 DB_credentials_as_resources](https://github.com/JavaWebinar/basejava/tree/9b8552f6957ae48440685cba5a24afd592e60fba)
 - <a href="https://devcenter.heroku.com/articles/war-deployment#deployment-with-the-heroku-cli">Deployment with the Heroku CLI</a>
+- для доступа к удаленной БД используйте следующие настройки SSL `ssl=true&sslmode=verify-ca&sslfactory=org.postgresql.ssl.NonValidatingFactory`
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Classloader](https://drive.google.com/open?id=0B_4NpoQW1xfpQnJQZ0d2ajJNWlU)
 - <a href="https://habrahabr.ru/post/103830/">Загрузка классов в Java</a>
