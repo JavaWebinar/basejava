@@ -19,7 +19,7 @@
   - [Стек](https://ru.wikipedia.org/wiki/Стек) (wiki)
   - [От Java-кода к Java-куче](https://www.ibm.com/developerworks/ru/library/j-codetoheap/index.html)
   - [Java Heap Space vs Stack – Memory Allocation in Java](https://www.journaldev.com/4098/java-heap-space-vs-stack-memory)
-  - [Понимаем основы Java garbage collection](http://ggenikus.github.io/blog/2014/05/04/gc)
+  - [Основы Java garbage collection](https://youtu.be/3TROgt7ncMo?t=51) (youtube)
   - **Дополнительно:**
     - [Из каких частей состоит память java процесса](http://habrahabr.ru/post/117274/)
     - [Permanent область памяти](http://www.javaspecialist.ru/2011/04/permanent.html)
