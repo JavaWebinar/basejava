@@ -35,9 +35,9 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Типы данных. Пакеты](https://drive.google.com/open?id=0B_4NpoQW1xfpQzRVTHg1LVhvOEk)
   - [Типы данных](http://www.intuit.ru/studies/courses/16/16/lecture/27111)
   - [Классы-обертки](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=2)
-  - [Java types](https://www.youtube.com/watch?v=hqirUFitj9c&index=7&list=PLwwk4BHih4fgYGHmAL-2ZCymrYHXO69GN) (youtube)
+  - [Java types](https://youtu.be/JmplWN-FdMQ) (youtube)
   - [Модификаторы доступа](https://www.youtube.com/watch?v=e14xUIUc6y0) (youtube)
-  - [Пакеты](https://www.youtube.com/watch?v=zGKFmG-ygWQ&list=PLwwk4BHih4fgYGHmAL-2ZCymrYHXO69GN&index=9) (youtube)
+  - [Пакеты](https://youtu.be/a6KGNASOtK8) (youtube)
   - **Дополнительно:**
     - [Packages](https://docs.oracle.com/javase/tutorial/java/package/index.html)
     - [Primitive data types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
