@@ -50,6 +50,7 @@
 
 - Еще раз прочитайте, [как правильно оформлять код](https://drive.google.com/file/d/1BfVe2KaUxWCAB8R3RKSyM8tmWZBv-J-9/view?usp=sharing)
 - [Настройте IDEA](https://stackoverflow.com/a/30634421) на автоматическое удаление неиспользуемых импортов
+- Поместите классы в пакеты, как это показано в уроке
 - Реализуйте и протестируйте `ArrayStorage.update(Resume resume)`
 - Сделайте проверки:
   - в `update/delete/get` - резюме есть в `storage`?
