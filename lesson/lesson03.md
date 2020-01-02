@@ -27,6 +27,7 @@
     - [Ключевое слово static](https://www.youtube.com/watch?v=GZzVfeY7yEM) (youtube)
     - [Интерфейсы, абстрактные классы, полиморфизм](https://www.youtube.com/watch?v=7NMFk2oj1-c&index=4&list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW) (youtube)
     - [Разбираемся с hashCode() и equals()](https://habrahabr.ru/post/168195/)
+    - [История эволюции интерфейсов в Java](https://habr.com/ru/post/482498/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Сложность алгоритмов](https://drive.google.com/open?id=0B_4NpoQW1xfpQldyRk5oc3Z1S00)
 - [Временная сложность алгоритма](https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма) (wiki)
