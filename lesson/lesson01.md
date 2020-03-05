@@ -41,6 +41,7 @@
 - **Дополнительно:**
    - [Java version and vendor data analyzed 2017](https://plumbr.io/blog/java/java-version-and-vendor-data-analyzed-2017-edition)
    - [Most popular Java application servers: 2017 edition](https://plumbr.io/blog/java/most-popular-java-application-servers-2017-edition)
+   - [Понимаем основы Java garbage collection](http://web.archive.org/web/20180831013112/https://ggenikus.github.io/blog/2014/05/04/gc)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s)
 
