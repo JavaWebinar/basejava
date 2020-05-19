@@ -60,7 +60,7 @@
 - Создайте на GitHub репозиторий с названием `basejava`
 - Откройте консоль (терминал) у себя на компьютере
 - Если необходимо, [занесите](https://www.java.com/ru/download/help/path.xml) git в переменную окружения PATH и перезапустите консоль
-- Создайте локальную копию проекта: `git clone https://github.com/JavaOps/basejava.git`
+- **Создайте локальную копию проекта: `git clone https://github.com/JavaOps/basejava.git`. Реализацию дз выполняйте в рамках данной копии**
 - Перейдите в каталог проекта: `cd basejava`
 - Настройте git в локальном проекте на свой проект в GitHub:
   - `git remote -v`
