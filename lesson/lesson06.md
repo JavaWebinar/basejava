@@ -40,7 +40,7 @@
 - [Лямбда-выражения в Java 8](https://www.youtube.com/watch?v=DNC6Lknn2AE) (youtube)
 - [Функциональный интерфейс](https://geekbrains.ru/posts/java_interfaces)
 - [Лямбды в Java 8](https://habrahabr.ru/post/224593/)
-- [Комапараторы](https://www.baeldung.com/java-8-comparator-comparing)
+- [Компараторы](https://www.baeldung.com/java-8-comparator-comparing)
 - **Дополнительно:**
   - [Java 8 Functional Interfaces](https://www.journaldev.com/2763/java-8-functional-interfaces)
   - [Lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
