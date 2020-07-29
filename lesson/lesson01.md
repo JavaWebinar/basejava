@@ -11,7 +11,7 @@
 > Для версии Ultimate дается 30 дней бесплатного использования. Но в качестве подарка, каждому участнику курса, мы выдаем единоразово купон на 6 месяцев
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/open?id=0B_4NpoQW1xfpVjZUTEpvVUN1TTA)
-- [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц) (wiki)
+- [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц)
 - [Подборка книг для руководителей в сфере IT](https://habr.com/ru/company/skyeng/blog/465215/)
 - [Размеры проектов в количестве строк кода](https://www.freecodecamp.org/news/the-biggest-codebases-in-history-a128bb3eea73)
 - [Соглашения по оформлению кода](https://topjava.ru/blog/google-java-style-guide)
