@@ -62,7 +62,5 @@
 
 #### Инструменты для рисования UML-диаграмм:
 
-- [Generate class diagram in IntelliJ IDEA](http://stackoverflow.com/questions/8942751/use-intellij-to-generate-class-diagram#26926334) ([Help: working with Diagrams](https://www.jetbrains.com/help/idea/2016.1/working-with-diagrams.html?origin=old_help))
-- Нарисовать и сфотографировать
-- [Online: www.draw.io](http://www.draw.io)
-- [yEd - Graph Editor](https://www.yworks.com/)
+- Любой UML-редактор, например, [draw.io](http://www.draw.io), [yEd](https://www.yworks.com/) и тд
+- Нарисовать на бумаге/доске и прислать фотку
