@@ -16,7 +16,7 @@
 
 **Ресурсы:**
 - [Модификатор static](http://www.intuit.ru/studies/courses/16/16/lecture/27119)
-- [10 заметок о модификаторе static в Java](http://info.javarush.ru/translation/2014/04/15/10-заметок-о-модификаторе-Static-в-Java.html)
+- [10 заметок о модификаторе static в Java](https://javarush.ru/groups/posts/modifikator-static-java)
 - [Класс Object. Контракт equals/hashCode](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=1)
 - [Абстрактные классы](https://www.youtube.com/watch?v=ZjiFL2Yo2fw) (youtube)
 - [Интерфейсы](http://www.intuit.ru/studies/courses/16/16/lecture/27119?page=3)
