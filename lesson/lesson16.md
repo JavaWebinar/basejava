@@ -21,7 +21,7 @@
 - <a href="https://www.hscripts.com/tutorials/jsp/variables.php">Predefined Variables in JSP</a>
 - <a href="https://www.guru99.com/jsp-action-tags.html">Стандартные элементы action</a>
 - <a href="http://stackoverflow.com/questions/4764405/how-to-use-relative-paths-without-including-the-context-root-name">How to use relative paths in JSP</a>
-- Отличие Redirect от Forward
+- [Отличие Redirect от Forward](https://stackoverflow.com/questions/2047122/requestdispatcher-forward-vs-httpservletresponse-sendredirect)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. JSTL](https://drive.google.com/open?id=0B_4NpoQW1xfpSHdUNE9TZWNJV1k)
 [см. коммит Lesson16 jstl](https://github.com/JavaWebinar/basejava/blob/a909d0854c47753d8f278a9d6e930411992762ac/web/WEB-INF/jsp/list.jsp)
