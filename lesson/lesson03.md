@@ -48,7 +48,7 @@
  - [Шаблонный метод (Template Method)](https://youtu.be/mNcmp-Msi6U) (youtube)
  - [Шаблонный метод](https://refactoring.guru/ru/design-patterns/template-method/java/example)
  - **Дополнительно**
-   - Книга из известной серии Head First — [Паттерны проектирования](https://www.ozon.ru/context/detail/id/20216992/)
+   - Книга из известной серии Head First — [Паттерны проектирования](https://www.ozon.ru/context/detail/id/144233005/?_bctx=CAgQver7Bg)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW3](https://drive.google.com/open?id=0B_4NpoQW1xfpdkdlV2xPbE5VM2c)
 
