@@ -61,6 +61,7 @@
 - `SortedArrayStorageTest` должен запускаться с `SortedArrayStorage`
 - `ArrayStorageTest` c `ArrayStorage`
 - тестировать правильность сортировки не надо
+- иерархия наследования тестовых классов должна совпадать с иерархией тестируемых
 - логика реализации теста на переполнение массива (`StorageException`):
   - заполняем массив, но не вызываем у него переполнение
   - если исключение вылетит раньше, чем массив будет заполнен, то тест должен провалиться (см. [`Assert.fail()`](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case))
