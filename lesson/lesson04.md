@@ -48,8 +48,7 @@
    - [The Reflection API](https://docs.oracle.com/javase/tutorial/reflect/)
    - [What is reflection and why is it useful?](https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful)
 > В нашем проекте Reflection используют JUnit и будут использовать библиотеки работы с XML и JSON
- - [Фреймворк для модульного тестирования JUnit](http://junit.org/)
- - [Junit — Что почитать по jUnit-тестам](https://i-http.ru/junit-chto-pochitat-po-junit-testam/)
+ - [Фреймворк для модульного тестирования JUnit](http://junit.org/) 
  - [Тестирование с помощью JUnit (Test Case)](http://web.archive.org/web/20190829153452/http://www.javenue.info/post/19)
  - [Тестирование кода Java с помощью фреймворка JUnit](https://www.youtube.com/watch?v=z9jEVLCF5_w) (youtube)
 
