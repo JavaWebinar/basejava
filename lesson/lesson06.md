@@ -36,7 +36,7 @@
 **Ресурсы:**
 - [Нововведения в java 8](https://habrahabr.ru/post/216431/)
 - [Лямбда-выражения в Java 8](https://www.youtube.com/watch?v=DNC6Lknn2AE) (youtube)
-- [Функциональный интерфейс](https://geekbrains.ru/posts/java_interfaces)
+- [Функциональный интерфейс](https://www.youtube.com/watch?v=Czkk1Kgqxjs&list=PLtNPgSbW9TX5IQAKzgrJnaayjaDoCjkio&index=11&t=217s) (youtube)
 - [Лямбды в Java 8](https://habrahabr.ru/post/224593/)
 - [Компараторы](https://www.baeldung.com/java-8-comparator-comparing)
 - **Дополнительно:**
