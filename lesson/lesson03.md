@@ -15,6 +15,7 @@
  - [`Lesson03 implements interface`](https://github.com/JavaWebinar/basejava/tree/ba20418d59dcc998c2cab218d84ca1f7099676c8/src/ru/javawebinar/basejava/storage)
 
 **Ресурсы:**
+- [Руководство по модификатору static в Java](https://topjava.ru/blog/rukovodstvo-po-modifikatoru-static-v-java)
 - [Модификатор static](http://www.intuit.ru/studies/courses/16/16/lecture/27119)
 - [10 заметок о модификаторе static в Java](https://javarush.ru/groups/posts/modifikator-static-java)
 - [Класс Object. Контракт equals/hashCode](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=1)
