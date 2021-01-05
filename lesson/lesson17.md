@@ -19,7 +19,7 @@
 - <a href="https://habrahabr.ru/post/103830/">Загрузка классов в Java</a>
 - <a href="https://tomcat.apache.org/tomcat-8.0-doc/class-loader-howto.html">Apache Tomcat Class Loader</a>
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. Вебинар "Осваиваем Java String/JPA Enterprise"](https://drive.google.com/file/d/0B9Ye2auQ_NsFY1ZDNXRCd1NCTG8)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. Вебинар "Осваиваем Java Spring/JPA Enterprise"](https://drive.google.com/file/d/0B9Ye2auQ_NsFY1ZDNXRCd1NCTG8)
 - [Слайды вебинара](https://goo.gl/XNVOj4)
 - <a href="https://habrahabr.ru/post/308104/">Из юниоров в разработчики: получаем первую работу</a>
 - <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/">Java Tools and Technologies Landscape Report 2016</a>
