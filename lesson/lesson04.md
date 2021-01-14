@@ -27,7 +27,7 @@
   - [Исключения (Exceptions)](http://proglang.su/java/exceptions)
   - [Статья про исключения](http://developer.alexanderklimov.ru/android/java/exception.php)
   - Про исключения также можно почитать в книге Джошуа Блоха - ["Java. Эффективное программирование"](https://www.ozon.ru/context/detail/id/21724143/)
-  - [Конструктор](http://info.javarush.ru/javarush_articles/2015/12/04/Конструкторы-классов-Java-JDK-1-5-.html)
+  - [Руководство по конструкторам](https://topjava.ru/blog/rukovodstvo-po-konstruktoram-v-java)
   - [Ключевые слова: this, super](http://info.javarush.ru/grishin/2015/03/31/Разница-между-ключевыми-словами-this-и-super-в-Java.html)
   - **Дополнительно:**
     - [Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
