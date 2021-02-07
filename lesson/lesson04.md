@@ -11,8 +11,6 @@
 
 **Ресурсы:**
 - [Строки в Java](https://urvanov.ru/2016/04/20/java-8-строки/)
-- [Кодировка в Java](http://www.skipy.ru/technics/encodings.html)
-- [Ошибки при использовании строк](http://www.skipy.ru/technics/strings.html)
 - [Обработка строк в Java](https://habrahabr.ru/post/260767/)
 - **Дополнительно:**
   - [StringBuilder vs StringBuffer](https://stackoverflow.com/questions/355089/difference-between-stringbuilder-and-stringbuffer?rq=1)
