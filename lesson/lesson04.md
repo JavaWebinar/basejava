@@ -38,7 +38,7 @@
  - [`Lesson04 Reflection and JUnit`](https://github.com/JavaWebinar/basejava/tree/c77bb7c73022fa411262c1da56953f3ef3ca3cc7)
  
 **Ресурсы:**
- - [Java 8 аннотации](https://urvanov.ru/2016/03/30/java-8-аннотации/)
+ - [Руководство по аннотациям в Java](https://topjava.ru/blog/rukovodstvo-po-annotatsiyam-v-java-i-mekhanizmu-ikh-raboty)
  - [Reflection для начинающих](https://youtu.be/XJQuBXWADZg) (youtube)
  - [Руководство по Java Reflection API](http://javadevblog.com/polnoe-rukovodstvo-po-java-reflection-api-refleksiya-na-primerah.html)
  - [Java Reflection Example Tutorial](https://www.journaldev.com/1789/java-reflection-example-tutorial)
