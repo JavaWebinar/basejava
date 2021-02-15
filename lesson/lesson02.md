@@ -51,7 +51,7 @@
 - Еще раз прочитайте, [как правильно форматировать код](https://topjava.ru/blog/google-java-style-guide)
 - [Настройте IDEA](https://stackoverflow.com/a/30634421) на автоматическое удаление неиспользуемых импортов
 - Поместите классы в пакеты, как это показано в уроке
-- Реализуйте и протестируйте `ArrayStorage.update(Resume resume)`
+- Реализуйте в `ArrayStorage` метод `update(Resume resume)`. Запустите его в `MainTestArrayStorage`
 - Сделайте проверки в:
    - `get`, `update`, `delete` на наличие резюме в `storage`
    - `save` на отсутствие резюме в `storage`
