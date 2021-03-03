@@ -46,6 +46,7 @@
  
 **Ресурсы:**
  - [Паттерн проектирования — Шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)) (wiki)
+ - [Руководство по Шаблонному методу в Java](https://topjava.ru/blog/pattern-shablonnyy-metod-v-java)
  - [Шаблонный метод (Template Method)](https://youtu.be/mNcmp-Msi6U) (youtube)
  - [Шаблонный метод](https://refactoring.guru/ru/design-patterns/template-method/java/example)
  - **Дополнительно**
