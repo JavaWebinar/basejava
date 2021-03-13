@@ -20,7 +20,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M)
 - [Популярность Java-технологий в 2019 году](https://topjava.ru/blog/sostoyanie-java-v-2019-godu)
-- [Java Technology Report 2020](https://www.jrebel.com/blog/2020-java-technology-report)
+- [Java Technology Report 2021](https://www.jrebel.com/blog/2021-java-technology-report)
 - [The State of Developer Ecosystem 2020](https://www.jetbrains.com/lp/devecosystem-2020/java/)
 - [JVM Ecosystem Report 2020](https://snyk.io/wp-content/uploads/jvm_2020.pdf)
 
