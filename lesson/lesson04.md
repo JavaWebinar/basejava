@@ -14,10 +14,10 @@
 - [Кодировка в Java](http://www.skipy.ru/technics/encodings.html)
 - [Ошибки при использовании строк](http://www.skipy.ru/technics/strings.html)
 - [Обработка строк в Java](https://habrahabr.ru/post/260767/)
+- [Руководство по String pool в Java](https://topjava.ru/blog/rukovodstvo-po-string-pool-v-java)
 - **Дополнительно:**
   - [StringBuilder vs StringBuffer](https://stackoverflow.com/questions/355089/difference-between-stringbuilder-and-stringbuffer?rq=1)
   - [String vs StringBuffer vs StringBuilder](https://www.journaldev.com/538/string-vs-stringbuffer-vs-stringbuilder)
-  - [String literal pool](http://java67.blogspot.ru/2014/08/difference-between-string-literal-and-new-String-object-Java.html)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Исключения](https://drive.google.com/open?id=0B_4NpoQW1xfpQ1BaQjc3Y3N1MTQ)
 **Коммиты:**
