@@ -15,7 +15,7 @@
 - [Контейнеры/коллекции](http://en.wikipedia.org/wiki/Java_collections_framework)
 - [List, Set, Map, Queue, Iterator, ListIterator](http://www.intuit.ru/studies/courses/16/16/lecture/27131?page=2)
 - [Структуры данных в картинках](http://habrahabr.ru/users/tarzan82/topics/)
-- [Внутренняя работа HashMap в Java](https://habr.com/post/421179/)
+- [Подробный разбор класса HashMap](https://javarush.ru/groups/posts/2496-podrobnihy-razbor-klassa-hashmap)
 - [Инициализация полей в Java](http://www.quizful.net/post/java-fields-initialization)
 - [Java собеседование по коллекциям](http://habrahabr.ru/post/162017/)
 - [Часто задаваемые на собеседованиях вопросы по классам коллекциям в Java](http://info.javarush.ru/translation/2013/10/08/Часто-задаваемые-на-собеседованиях-вопросы-по-классам-коллекциям-в-Java-Часть-2-.html#1)
