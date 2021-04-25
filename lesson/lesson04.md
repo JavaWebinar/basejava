@@ -54,6 +54,7 @@
 
 ## Домашнее задание HW4
 - Реализуйте тесты: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
+- Необходимо написать тесты для всех методов, которые тестировали бы как их штатную работу, так и все выкидываемые ими икспешены
 - В `MainReflection` вызовите у Resume, через отражение, метод `toString`. Выведите результат на консоль
 
 ## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Подсказки по HW4
