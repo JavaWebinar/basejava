@@ -17,7 +17,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. include](https://drive.google.com/open?id=0B_4NpoQW1xfpRy1DbWhRVXhTbHc)
 [см. коммит Lesson16 include](https://github.com/JavaWebinar/basejava/tree/28f305b52abb96f237b4e30447b102f9b67d12a5/web/WEB-INF/jsp)
 
-- <a href="http://java-course.ru/student/book1/jsp/">Что такое JSP</a>. <a href="https://ru.wikipedia.org/wiki/JSP">Wiki JSP</a>
+- <a href="https://javarush.ru/groups/posts/2655-chto-takoe-jsp-razbiraemsja-s-vozmozhnostjami-na-praktike">Что такое JSP</a>. <a href="https://ru.wikipedia.org/wiki/JSP">Wiki JSP</a>
 - <a href="https://www.hscripts.com/tutorials/jsp/variables.php">Predefined Variables in JSP</a>
 - <a href="https://www.guru99.com/jsp-action-tags.html">Стандартные элементы action</a>
 - <a href="http://stackoverflow.com/questions/4764405/how-to-use-relative-paths-without-including-the-context-root-name">How to use relative paths in JSP</a>
