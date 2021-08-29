@@ -6,7 +6,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. HTML, Tomcat](https://drive.google.com/open?id=0B_4NpoQW1xfpZk1pQ1h4dEJBVEE)
 [см. коммит Lesson15 web](https://github.com/JavaWebinar/basejava/tree/2fe01af02b7ba82c3f0c8fa29dc3effb5b575531/src/ru/javawebinar/basejava)
 
-- <a href="http://java-course.ru/student/book1/servlet/">Протокол HTTP</a>. Смотрим <a href="http://topjava.herokuapp.com/">демо приложение<a/> в Chrome -> Инструменты разработчика
+- <a href="https://developer.mozilla.org/ru/docs/Web/HTTP/Overview">Протокол HTTP</a>. Смотрим <a href="http://topjava.herokuapp.com/">демо приложение<a/> в Chrome -> Инструменты разработчика
 - Добавление в проект Web Facet. web.xml. Постороение/cтруктура WAR. Статические ресурсы.
 - Настройка и деплой в Tomcat. Tomcat manager.
 - Запуск Tomcat из IDEA. Динамическое обновление без передеплоя.
