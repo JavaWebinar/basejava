@@ -9,6 +9,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Работа с датами и временем.](https://drive.google.com/open?id=0B_4NpoQW1xfpV3hZMk85djRfeVk)
 [см. коммит Lesson08 DateTime api ](https://github.com/JavaWebinar/basejava/tree/f4844c291cf82387a14088ab3eed112b3102a607/src/ru/javawebinar/basejava)
 
+- <a href="https://nuancesprog.ru/p/13714/">Основы API Time для Java</a>
 - <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27131?page=1">Класс Date, Calendar, TimeZone</a>
 - <a href="https://www.mkyong.com/java/java-convert-date-and-time-between-timezone/">Java – Convert date and time between timezone</a>
 - <a href="http://www.joda.org/joda-time">Joda Time library</a>
