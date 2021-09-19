@@ -10,7 +10,7 @@
 - <a href="http://habrahabr.ru/company/luxoft/blog/157273/">Обзор java.util.concurrent.*</a></li>
 - <a href="https://en.wikipedia.org/wiki/Compare-and-swap">Compare-and-swap</a>
 - <a href="https://habrahabr.ru/post/277669/"> Справочник по синхронизаторам java.util.concurrent.*</a>
-- <a href="http://articles.javatalks.ru/articles/17">Использование ThreadLocal переменных</a>
+- <a href="https://urvanov.ru/2017/04/02/threadlocal-%D0%B2-java/">Использование ThreadLocal переменных</a>
 
 >  Замечания по видео:
 
