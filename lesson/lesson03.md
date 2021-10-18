@@ -34,7 +34,7 @@
 - [Временная сложность алгоритма](https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма) (wiki)
 - [Вычислительная сложность](https://ru.wikipedia.org/wiki/Вычислительная_сложность) (wiki)
 - [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures)
-- [Time complexity](https://drive.google.com/file/d/0B9Ye2auQ_NsFNEJWRFJkVDA3TkU/view)
+- [Time complexity](https://drive.google.com/file/d/0B9Ye2auQ_NsFNEJWRFJkVDA3TkU/view?resourcekey=0-MPCuoLVdSLiSc7hlE2jefQ)
 - [Бинарное дерево поиска](https://www.youtube.com/watch?time_continue=447&v=HBMlhZAOhoI) (youtube)
 - **Дополнительно**
   - Легко написанная книга по алгоритмам и их сложности [Грокаем алгоритмы](https://www.ozon.ru/context/detail/id/139296295/)
