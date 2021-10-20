@@ -51,6 +51,7 @@
  - [Фреймворк для модульного тестирования JUnit](http://junit.org/) 
  - [Тестирование с помощью JUnit (Test Case)](http://web.archive.org/web/20190829153452/http://www.javenue.info/post/19)
  - [Тестирование кода Java с помощью фреймворка JUnit](https://www.youtube.com/watch?v=z9jEVLCF5_w) (youtube)
+ - Использование Assert.fail() при тестировании: [1](https://www.baeldung.com/junit-fail), [2](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case)
 
 ## Домашнее задание HW4
 - Реализуйте тесты: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
@@ -65,7 +66,7 @@
 - иерархия наследования тестовых классов должна совпадать с иерархией тестируемых
 - логика реализации теста на переполнение массива (`StorageException`):
   - заполняем массив, но не вызываем у него переполнение
-  - если при заполнении вылетит исключение, то тест должен провалиться (см. [`Assert.fail()`](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case))
+  - если при заполнении вылетит исключение, то тест должен провалиться (используйте Assert.fail())
   - в fail() выводите сообщение о том, что переполнение произошло раньше времени
   - тест считается успешно пройденным, когда переполнение происходит при попытке добавить в полностью заполненный массив еще одно резюме
 - добавьте конструктор в `AbstractArrayStorageTest`, который инициализирует `Storage storage`, а в наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
