@@ -19,10 +19,16 @@
 - <a href="https://habrahabr.ru/post/103830/">Загрузка классов в Java</a>
 - <a href="https://tomcat.apache.org/tomcat-8.0-doc/class-loader-howto.html">Apache Tomcat Class Loader</a>
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. Вебинар "Осваиваем Java Spring/JPA Enterprise"](https://drive.google.com/file/d/0B9Ye2auQ_NsFY1ZDNXRCd1NCTG8)
-- [Слайды вебинара](https://goo.gl/XNVOj4)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [3. Вебинар "Осваиваем Java Spring/JPA Enterprise"](https://drive.google.com/file/d/0B9Ye2auQ_NsFY1ZDNXRCd1NCTG8/edit?resourcekey=0-NKNOHbTWXnsZtbe5_8B6Bg)
+- <a href="https://goo.gl/XNVOj4">Слайды презентации</a>
+- [Как стать профессиональным Java разработчиком](https://www.youtube.com/watch?v=ft0Nj8Cm9kk)
 - <a href="https://habrahabr.ru/post/308104/">Из юниоров в разработчики: получаем первую работу</a>
-- <a href="http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/">Java Tools and Technologies Landscape Report 2016</a>
+- [Java Technology Report 2021](https://www.jrebel.com/blog/2021-java-technology-report)
+- [The State of Developer Ecosystem 2020](https://www.jetbrains.com/lp/devecosystem-2020/java/)
+- [JVM Ecosystem Report 2021](https://snyk.io/jvm-ecosystem-report-2021/)
+- [Быть программистом: от детства к зрелости](https://www.youtube.com/watch?v=D5Hej0TyLaU)
+- <a href="http://javaops.ru/view/test">Ссылки по темам интервью, тестовое интервью</a>
+- [Литература](https://javaops.ru/view/books)
 
 #### Java Enterprise project Topjava
 - <a href="http://javaops.ru/reg/topjava">Стажировка Spring/JPA Enterprise (Topjava)</a>
