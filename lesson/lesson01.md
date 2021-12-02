@@ -10,7 +10,7 @@
 - Установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html) (Ultimate-версия понадобится позже, при работе с базой данных и web)
 > Для версии Ultimate дается 30 дней бесплатного использования. Но в качестве подарка, каждому участнику курса, мы выдаем единоразово купон на 6 месяцев
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/open?id=0B_4NpoQW1xfpVjZUTEpvVUN1TTA)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/file/d/0B_4NpoQW1xfpVjZUTEpvVUN1TTA/view?usp=sharing&resourcekey=0-hnn1HIBU3WIuDMVuQAxA8w)
 - [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц)
 - [Подборка книг для руководителей в сфере IT](https://habr.com/ru/company/skyeng/blog/465215/)
 - [Размеры проектов в количестве строк кода](https://www.freecodecamp.org/news/the-biggest-codebases-in-history-a128bb3eea73)
@@ -18,13 +18,13 @@
 - [Методологии разработки ПО](https://dou.ua/forums/topic/14015/)
 - [Ещё раз про семь основных методологий разработки](https://habrahabr.ru/company/edison/blog/269789/)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M/view?usp=sharing&resourcekey=0-Uw_lRGW12YNjwY7phXzVdg)
 - [Популярность Java-технологий в 2019 году](https://topjava.ru/blog/sostoyanie-java-v-2019-godu)
 - [Java Technology Report 2021](https://www.jrebel.com/blog/2021-java-technology-report)
 - [The State of Developer Ecosystem 2020](https://www.jetbrains.com/lp/devecosystem-2020/java/)
 - [JVM Ecosystem Report 2021](https://snyk.io/jvm-ecosystem-report-2021/)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Обзор языка Java](https://drive.google.com/open?id=0B_4NpoQW1xfpTU5SSElhUjlGNnc)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Обзор языка Java](https://drive.google.com/file/d/0B_4NpoQW1xfpTU5SSElhUjlGNnc/view?usp=sharing&resourcekey=0-DOyRoGhREx2kvKwAKTOlYg)
 
 ![jvm](https://cloud.githubusercontent.com/assets/18701152/15219296/e6c67e86-186b-11e6-986f-651a87deec6c.png)
 
@@ -36,7 +36,7 @@
 - [Programming languages TIOBE Index](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)
 - [Java Microbenchmark JMH](http://openjdk.java.net/projects/code-tools/jmh/) (используем на курсе [MasterJava](https://github.com/JavaWebinar/masterjava#Занятие-2))
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit?resourcekey=0-6scb0PBj2A3Oqf6rsU2egQ)
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
