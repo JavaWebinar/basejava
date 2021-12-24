@@ -8,7 +8,7 @@
 - [Наследование, агрегация, композиция, ассоциация](https://ru.wikipedia.org/wiki/Диаграмма_классов#Взаимосвязи) (wiki)
 - [Типы отношений между классами](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=4)
 - [Достоинства / Недостатки ООП](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=5)
-- [ООП в Java: четыре принципа с примерами](ttps://highload.today/oop-v-java-chetyre-printsipa-s-primerami/)
+- [ООП в Java: четыре принципа с примерами](https://highload.today/oop-v-java-chetyre-printsipa-s-primerami)
 - **Дополнительно:**
   - [Зачем нам ООП и что это такое?](https://habrahabr.ru/post/148015/)
   - [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc) (youtube)
