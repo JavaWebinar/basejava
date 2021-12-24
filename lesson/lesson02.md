@@ -8,11 +8,10 @@
 - [Наследование, агрегация, композиция, ассоциация](https://ru.wikipedia.org/wiki/Диаграмма_классов#Взаимосвязи) (wiki)
 - [Типы отношений между классами](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=4)
 - [Достоинства / Недостатки ООП](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=5)
+- [ООП в Java: четыре принципа с примерами](ttps://highload.today/oop-v-java-chetyre-printsipa-s-primerami/)
 - **Дополнительно:**
   - [Зачем нам ООП и что это такое?](https://habrahabr.ru/post/148015/)
   - [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc) (youtube)
-  - [Object-Oriented Programming Concepts](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
-  - [Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)
   
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Структура памяти: куча, стек, регистры, константы](https://drive.google.com/open?id=0B_4NpoQW1xfpZHRnTEhNWmk5Xzg)
   - [Что такое Heap и Stack память в Java?](https://javadevblog.com/chto-takoe-heap-i-stack-pamyat-v-java.html)
