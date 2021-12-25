@@ -13,6 +13,7 @@
 ![Concurrent vs Parallel](https://joearms.github.io/images/con_and_par.jpg)
 
 ## Потоки. Синхронизация
+- [Многопоточность в Java](https://topjava.ru/blog/mnogopotochnost-v-java-chast1)
 -  <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27127">Потоки выполнения. Синхронизация.</a>
 -  <a href="http://www.intuit.ru/studies/courses/16/16/lecture/27127?page=4">Методы wait(), notify(), notifyAll() класса Object</a>
 - [Жизненный цикл потока в Java](https://nuancesprog.ru/p/10254/)
