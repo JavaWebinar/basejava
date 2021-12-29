@@ -38,7 +38,6 @@
 - [Лямбда-выражения в Java 8](https://www.youtube.com/watch?v=DNC6Lknn2AE) (youtube)
 - [Функциональный интерфейс](https://www.youtube.com/watch?v=Czkk1Kgqxjs&list=PLtNPgSbW9TX5IQAKzgrJnaayjaDoCjkio&index=11&t=217s) (youtube)
 - [Лямбды в Java 8](https://habrahabr.ru/post/224593/)
-- [Компараторы](https://www.baeldung.com/java-8-comparator-comparing)
 - **Дополнительно:**
   - [Java 8 Functional Interfaces](https://www.journaldev.com/2763/java-8-functional-interfaces)
   - [Lambda expressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
@@ -51,5 +50,5 @@
   - в конструктор `Resume` добавьте второй параметр — `fullName`
   - во всех реализациях `Storage` замените метод `Resume[] getAll()` на `List<Resume> getAllSorted()`
 - Подумайте, что еще, может выступать в качестве `search key` (в предыдущем дз это был `uuid`) в реализации на основе `Map` (не путайте `key` и `search key`: `key` - это ключ в мапе, а `search key` - используется для поиска по мапе). Выразите свои идеи в коде (в итоге у вас в проекте должны быть два класса, реализованных на основе мапы)
-- Реализуйте для getAllSorted() компаратор: если `fullName` разных людей совпадает, то сортируйте дополнительно по uuid
+- Реализуйте для getAllSorted() [компаратор](https://www.baeldung.com/java-8-comparator-comparing): если `fullName` разных людей совпадает, то сортируйте дополнительно по uuid
 - Из-за того, что количество тестовых классов растет, воспользуйтесь [аннотациями](http://javastudy.ru/junit/junit-suite-tests/) JUnit, которые помогут упростить их запуск (только для JUnit4). Форматируйте класс-запуска тестов в соответствии с [этой](https://drive.google.com/file/d/1XHFbxNLekyAWCPJROPJcxmJydjg0K3eH/view?usp=sharing) картинкой
