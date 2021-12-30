@@ -13,6 +13,7 @@
 - [`Lesson07 generic`](https://github.com/JavaWebinar/basejava/tree/1cb2a6bc0bbbb43285b8ca6b297588e9984fa84b/src/ru/javawebinar/basejava/storage)
 
 **Ресурсы:**
+- [Погружаемся в Java Generics](https://habr.com/ru/company/sberbank/blog/416413/)
 - [Дженерики (Java, обучающая статья)](http://www.quizful.net/post/java-generics-tutorial)
 - [Обобщения (Generic)](http://developer.alexanderklimov.ru/android/java/generic.php)
 - [Ограничения](http://docs.oracle.com/javase/tutorial/java/generics/restrictions.html)
