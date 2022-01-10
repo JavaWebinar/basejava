@@ -33,6 +33,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Сложность алгоритмов](https://drive.google.com/open?id=0B_4NpoQW1xfpQldyRk5oc3Z1S00)
 - [Временная сложность алгоритма](https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма) (wiki)
 - [Вычислительная сложность](https://ru.wikipedia.org/wiki/Вычислительная_сложность) (wiki)
+- [Про сложность алгоритмов и Big O Notation](https://threadreaderapp.com/thread/1470666237286010881)
 - [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures)
 - [Time complexity](https://drive.google.com/file/d/0B9Ye2auQ_NsFNEJWRFJkVDA3TkU/view?resourcekey=0-MPCuoLVdSLiSc7hlE2jefQ)
 - [Бинарное дерево поиска](https://www.youtube.com/watch?time_continue=447&v=HBMlhZAOhoI) (youtube)
