@@ -24,6 +24,7 @@
  - [`Lesson04 Exceptions`](https://github.com/JavaWebinar/basejava/tree/da03245d2fdafa86d1f02ea242c072ca52e19f26/src/ru/javawebinar/basejava)
 
 **Ресурсы:**
+  - [Обработка ошибок. Исключения](https://youtu.be/rjjyV7YGndc)
   - [Исключения (Exceptions)](http://proglang.su/java/exceptions)
   - [Статья про исключения](http://developer.alexanderklimov.ru/android/java/exception.php)
   - Про исключения также можно почитать в книге Джошуа Блоха - ["Java. Эффективное программирование"](https://www.ozon.ru/context/detail/id/21724143/)
