@@ -55,13 +55,13 @@
  - Использование Assert.fail() при тестировании: [1](https://www.baeldung.com/junit-fail), [2](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case)
 
 ## Домашнее задание HW4
-- Реализуйте тесты: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
-- Необходимо написать тесты для всех методов, которые тестировали бы как их штатную работу, так и все выкидываемые ими икспешены
+- Реализуйте тестовые классы: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
+- Необходимо написать тесты для всех public-методов, которые проверяли бы как их штатную работу, так и все выкидываемые ими икспешены
 - В `MainReflection` вызовите у Resume, через отражение, метод `toString`. Выведите результат на консоль
 
 ## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Подсказки по HW4
-- `SortedArrayStorageTest` должен запускаться с `SortedArrayStorage`
-- `ArrayStorageTest` c `ArrayStorage`
+- используйте в `AbstractArrayStorageTest` конструктор для инициализации поля `Storage storage`, а в его наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
+- `SortedArrayStorageTest` должен создавать экземпляр `SortedArrayStorage`, а `ArrayStorageTest` экземпляр `ArrayStorage`
 - тестировать правильность сортировки не надо
 - в тестах проверяйте `Resume` целиком, а не их uuid
 - иерархия наследования тестовых классов должна совпадать с иерархией тестируемых
@@ -70,4 +70,3 @@
   - если при заполнении вылетит исключение, то тест должен провалиться (используйте Assert.fail())
   - в fail() выводите сообщение о том, что переполнение произошло раньше времени
   - тест считается успешно пройденным, когда переполнение происходит при попытке добавить в полностью заполненный массив еще одно резюме
-- добавьте конструктор в `AbstractArrayStorageTest`, который инициализирует `Storage storage`, а в наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
