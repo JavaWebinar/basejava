@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: var(--body-background);
+}
+
+.header {
+    height: 100px;
+    width: 100%;
+
+    background: var(--header-background);
+}
+
+.header .arrow:hover {
+    color: transparent;
+    text-decoration: none;
+}
+
+.header .resumes-control-title {
+    margin-left: 16px;
+
+    font-family: Open Sans, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+
+    color: var(--header-text-color);
+}
+
+.header .arrow-dot {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin: 35px 0 0 25%;
+    background: var(--header-arrow-background);
+    display: inline-block;
+    text-align: center;
+}
+
+.header .arrow-dot img {
+    width: 12px;
+    margin-top: 9px;
+    margin-left: -2px;
+}
+
+.footer {
+    height: 100px;
+    width: 100%;
+
+    position:absolute;
+    bottom:0;
+
+    font-family: Open Sans, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+
+    display: table;
+
+    color: var(--footer-text-color);
+    background: var(--header-background);
+}
+
+.footer a {
+    display:table-cell;
+    vertical-align:middle;
+}
+
+.footer div {
+    width: 100%;
+    text-align: center;
+}
+
+.scrollable-panel {
+    height: calc(100vh - 200px);
+    width: 100%;
+    margin: 0;
+    overflow: auto;
+}
+
+.text-anchor {
+    text-decoration: none;
+}
+
+.text-anchor:hover {
+    opacity: 0.8;
+    color: var(--anchor-color);
+    text-decoration: underline;
+}
+
+.no-underline-anchor {
+    text-decoration: none;
+}
+
+.no-underline-anchor:hover {
+    opacity: 0.8;
+}
+
+.footer-text-anchor {
+    color: var(--footer-anchor-color);
+    text-decoration: none;
+}
+
+.footer-text-anchor:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+}
+
+.themes {
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+
+    float: right;
+    display: flex;
+    margin: 40px 24px 0 0;
+
+    color: var(--theme-text-color);
+}
+
+.theme-title {
+    width: 45px;
+}
+
+.theme-selector option {
+    color: var(--table-header-background);
+    background: var(--table-header-text-color);
+}
+
+.theme-selector select {
+    color: var(--table-header-text-color);
+    background: var(--table-header-background);
+    border: none;
+}
+
+.contact-link {
+    color: var(--contact-link-color);
+    text-decoration: none;
+}
+
+.contact-link:hover {
+    text-decoration: underline;
+    opacity: 0.8;
+}

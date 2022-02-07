@@ -1,0 +1,100 @@
+.form-wrapper {
+    font-family: Open Sans, serif;
+    font-style: normal;
+    font-weight: 600;
+    color: var(--text-color);
+
+    height: 100%;
+    min-width: 610px;
+    width: 50%;
+    margin: 0 0 0 25%;
+    display: block;
+}
+
+.full-name {
+    font-size: 32px;
+    line-height: 44px;
+    margin-top: 40px;
+}
+
+.contacts {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 21px;
+}
+
+.section-wrapper {
+    margin-bottom: 83px;
+}
+
+.spacer {
+    width: 100%;
+    min-width: calc(100% + 50px);
+    height: 2px;
+    margin: 43px 0 77px 0;
+
+    background: var(--spacer-background);
+    border-radius: 10px;
+}
+
+.section {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    margin: 40px 0 24px 0;
+}
+
+.position {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.qualities {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.list {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.job-name {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 30px;
+    margin-left: 207px;
+}
+
+.period-position {
+    display: flex;
+    margin-top: 10px;
+}
+
+.period {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    min-width: 207px;
+}
+
+.position {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.description {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    margin: 35px 0 0 207px;
+}
+
+.footer-spacer {
+    height: 10px;
+}
