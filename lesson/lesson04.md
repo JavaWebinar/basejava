@@ -11,8 +11,8 @@
 
 **Ресурсы:**
 - [Строки в Java](https://urvanov.ru/2016/04/20/java-8-строки/)
-- [Кодировка в Java](http://www.skipy.ru/technics/encodings.html)
-- [Ошибки при использовании строк](http://www.skipy.ru/technics/strings.html)
+- [Кодировка в Java](https://web.archive.org/web/20210515175050/http://www.skipy.ru/technics/encodings.html)
+- [Ошибки при использовании строк](https://web.archive.org/web/20170608030853/http://www.skipy.ru/technics/strings.html)
 - [Обработка строк в Java](https://habrahabr.ru/post/260767/)
 - [Руководство по String pool в Java](https://topjava.ru/blog/rukovodstvo-po-string-pool-v-java)
 - **Дополнительно:**
