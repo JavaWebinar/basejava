@@ -26,19 +26,29 @@ public class ResumeServlet extends HttpServlet {
     private Storage storage; // = Config.get().getStorage();
     private final Set<String> themes = new HashSet<>(); // https://stackoverflow.com/a/4936895/548473
 
+    private Set<String> immutableUuids;
+    private boolean debugMode;
+
     @Override
     public void init(ServletConfig config) throws ServletException {
         super.init(config);
-        storage = Config.get().getStorage();
+        final Config cfg = Config.get();
+        storage = cfg.getStorage();
         for (THEME t : THEME.values()) {
             themes.add(t.name());
         }
+        immutableUuids = cfg.getImmutableUuids();
+        debugMode = cfg.debugMode();
     }
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws javax.servlet.ServletException, IOException {
         request.setCharacterEncoding("UTF-8");
         String uuid = request.getParameter("uuid");
         String fullName = request.getParameter("fullName");
+
+        if (!debugMode && immutableUuids.contains(uuid) ) {
+            response.sendRedirect("resume?theme=" + getTheme(request));
+        }
 
         final boolean isCreate = (uuid == null || uuid.length() == 0);
         Resume r;

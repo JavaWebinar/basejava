@@ -1,4 +1,5 @@
 <%@ page import="ru.javawebinar.basejava.model.ContactType" %>
+<%@ page import="ru.javawebinar.basejava.Config" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
@@ -58,9 +59,11 @@
                             </a>
                         </td>
                         <td class="img-column">
-                            <a class="no-underline-anchor" href="resume?uuid=${resume.uuid}&action=delete&theme=${theme}">
-                                <img src="img/${theme}/remove.svg" alt="">
-                            </a>
+                            <c:if test="<%=!Config.get().getImmutableUuids().contains(resume.getUuid())%>">
+                                <a class="no-underline-anchor" href="resume?uuid=${resume.uuid}&action=delete&theme=${theme}">
+                                    <img src="img/${theme}/remove.svg" alt="">
+                                </a>
+                            </c:if>
                         </td>
                     </tr>
                 </c:forEach>

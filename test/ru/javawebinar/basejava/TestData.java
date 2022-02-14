@@ -11,12 +11,19 @@ public class TestData {
     public static final String UUID_3 = UUID.randomUUID().toString();
     public static final String UUID_4 = UUID.randomUUID().toString();
 
+    public static final Resume R1_IMMUTABLE;
+    public static final Resume R2_IMMUTABLE;
+
     public static final Resume R1;
     public static final Resume R2;
     public static final Resume R3;
     public static final Resume R4;
 
     static {
+        Config config = Config.get();
+        R1_IMMUTABLE = new Resume(config.getImmutableUuidOne(), "Григорий Кислин");
+        R2_IMMUTABLE = new Resume(config.getImmutableUuidTwo(), "Николай Ларин");
+
         R1 = new Resume(UUID_1, "Name1");
         R2 = new Resume(UUID_2, "Name2");
         R3 = new Resume(UUID_3, "Name3");
