@@ -35,7 +35,7 @@ public class ResumeServlet extends HttpServlet {
         }
     }
 
-    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws javax.servlet.ServletException, IOException {
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws IOException {
         request.setCharacterEncoding("UTF-8");
         String uuid = request.getParameter("uuid");
         String fullName = request.getParameter("fullName");
@@ -45,6 +45,7 @@ public class ResumeServlet extends HttpServlet {
         if (isCreate) {
             r = new Resume(fullName);
         } else {
+            Config.get().checkImmutable(uuid);
             r = storage.get(uuid);
             r.setFullName(fullName);
         }
@@ -119,6 +120,7 @@ public class ResumeServlet extends HttpServlet {
         Resume r;
         switch (action) {
             case "delete":
+                Config.get().checkImmutable(uuid);
                 storage.delete(uuid);
                 response.sendRedirect("resume");
                 return;

@@ -3,6 +3,7 @@
 <%@ page import="ru.javawebinar.basejava.model.OrganizationSection" %>
 <%@ page import="ru.javawebinar.basejava.model.SectionType" %>
 <%@ page import="ru.javawebinar.basejava.util.DateUtil" %>
+<%@ page import="ru.javawebinar.basejava.Config" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
@@ -91,8 +92,10 @@
             <div class="spacer"></div>
 
             <div class="button-section">
-                <button class="red-cancel-button" onclick="window.history.back()">Отменить</button>
-                <button class="green-submit-button" type="submit">Сохранить</button>
+                <button class="red-cancel-button" type="button" onclick="window.history.back()">Отменить</button>
+                <c:if test="<%=!Config.get().isImmutable(resume.getUuid())%>">
+                    <button class="green-submit-button" type="submit">Сохранить</button>
+                </c:if>
             </div>
 
         </div>
