@@ -14,6 +14,7 @@
 `heroku war:deploy <path_to_war_file> --jdk 11 --app <app_name>`
 - для доступа к удаленной БД используйте следующие настройки SSL  
 `ssl=true&sslmode=verify-ca&sslfactory=org.postgresql.ssl.NonValidatingFactory`
+- [Хитрости с Heroku: сделать ваше приложение доступным 24/7](https://javarush.ru/groups/posts/1987-malenjhkie-khitrosti-s-heroku)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Classloader](https://drive.google.com/open?id=0B_4NpoQW1xfpQnJQZ0d2ajJNWlU)
 - <a href="https://habrahabr.ru/post/103830/">Загрузка классов в Java</a>
