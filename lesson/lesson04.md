@@ -45,6 +45,7 @@
  - [Reflection для начинающих](https://youtu.be/XJQuBXWADZg) (youtube)
  - [Руководство по Java Reflection API](http://javadevblog.com/polnoe-rukovodstvo-po-java-reflection-api-refleksiya-na-primerah.html)
  - [Java Reflection Example Tutorial](https://www.journaldev.com/1789/java-reflection-example-tutorial)
+ - [Отличие JUnit4 от JUnit5](https://topjava.ru/blog/migratsiya-s-junit4-na-junit5)
  - **Дополнительно:**
    - [The Reflection API](https://docs.oracle.com/javase/tutorial/reflect/)
    - [What is reflection and why is it useful?](https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful)
