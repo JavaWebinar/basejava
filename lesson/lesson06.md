@@ -17,7 +17,7 @@
 - [`Lesson06 Iterator, Comparator and Inner Classes`](https://github.com/JavaWebinar/basejava/tree/e7531643b410435c07a998a1428fb9a4de2d30bb/src/ru/javawebinar/basejava)
 
 **Ресурсы:**
-- [Паттерн проектирования Итератор](https://refactoring.guru/ru/design-patterns/iterator/java/example)
+- [Паттерн проектирования Итератор](https://web.archive.org/web/20211105130819/https://refactoring.guru/ru/design-patterns/iterator/java/example)
 - [Iterator / Iterable](http://www.javenue.info/post/101)
 - [Iterator in Java](https://www.journaldev.com/13460/java-iterator)
 - [Интерфейсы Comparable и Comparator](https://metanit.com/java/tutorial/5.6.php)
