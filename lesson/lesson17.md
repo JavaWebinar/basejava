@@ -6,6 +6,8 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-16 добавление резюме](https://drive.google.com/open?id=0B_4NpoQW1xfpQ1d3VmN1RHA1Q1k)
 [см. коммит Lesson17 HW16_add_resume](https://github.com/JavaWebinar/basejava/tree/10c521a8d412b3a4b3256d3044504fb269e16a26)
 
+> Вы можете улучшить внешний вид своего приложения (это не обязательная опция - по желанию), используя готовые [css](https://github.com/JavaWebinar/basejava/tree/master/web/css). В итоге ваше приложение может выглядеть аналогично [этому](https://basejava.herokuapp.com/resume?theme=light).
+
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Деплой в Heroku](https://drive.google.com/open?id=0B_4NpoQW1xfpS2JSSDByQ2xGWm8)
 [см. коммит Lesson17 DB_credentials_as_resources](https://github.com/JavaWebinar/basejava/tree/9b8552f6957ae48440685cba5a24afd592e60fba)
 - <a href="https://devcenter.heroku.com/articles/war-deployment#deployment-with-the-heroku-cli">Deployment with the Heroku CLI</a>
