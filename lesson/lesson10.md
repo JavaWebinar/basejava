@@ -29,5 +29,8 @@
 **Коммиты:**
 - [`Lesson10 DataStream`](https://github.com/JavaWebinar/basejava/tree/6f699cb5d804b3d033a06cc1173cd1076b0553f9)
 
+**Ресурсы:**
+- [Руководство по switch-выражениям в Java](https://topjava.ru/blog/polnoye-rukovodstvo-po-switch-v-java)
+
 ## Домашнее задание
 - Сделать и протестировать реализацию `DataStreamSerializer`
