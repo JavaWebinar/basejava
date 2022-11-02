@@ -62,15 +62,9 @@
     - `git push -u origin master` — [устанавливаем связь](https://qna.habr.com/q/118865) между локальной и удаленной веткой master 
 
 ## Домашнее задание HW1
-- Создайте в IntelliJ IDEA новый проект, выбрав каталог `basejava`, который вы скачали ранее к себе на компьютер:
+- Откройте в IntelliJ IDEA ваш проект, выбрав каталог `basejava`, который вы скачали ранее к себе на компьютер:
 
-![newproject](https://user-images.githubusercontent.com/29703461/88058015-95008580-cb6b-11ea-9b7c-65843b859988.png)
-
-![next](https://user-images.githubusercontent.com/29703461/88057628-055ad700-cb6b-11ea-9c59-72bb538e2541.png)
-
-![next1](https://user-images.githubusercontent.com/29703461/88058925-d2b1de00-cb6c-11ea-9d0b-83c771899457.png)
-
-![finish](https://user-images.githubusercontent.com/29703461/88059306-579cf780-cb6d-11ea-8094-bbf87474a127.png)
+![Screenshot_5](https://user-images.githubusercontent.com/29703461/199550057-fce7cf3c-7040-422f-b490-7b85b47ae952.png)
 
 - Реализуйте методы `save, get, delete, clear, getAll, size` в классе `ArrayStorage`, организовав хранение резюме в массиве 
 - Храните все резюме в начале `storage` (без пустот в виде `null`), чтобы не перебирать каждый раз все 10_000 элементов
