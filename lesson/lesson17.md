@@ -8,15 +8,11 @@
 
 > Вы можете улучшить внешний вид своего приложения (это не обязательная опция - по желанию), используя готовые [css](https://github.com/JavaWebinar/basejava/tree/master/web/css). В итоге ваше приложение может выглядеть аналогично [этому](https://basejava.herokuapp.com/resume?theme=light).
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [1. Деплой в Heroku](https://drive.google.com/open?id=0B_4NpoQW1xfpS2JSSDByQ2xGWm8)
-[см. коммит Lesson17 DB_credentials_as_resources](https://github.com/JavaWebinar/basejava/tree/9b8552f6957ae48440685cba5a24afd592e60fba)
-- <a href="https://devcenter.heroku.com/articles/war-deployment#deployment-with-the-heroku-cli">Deployment with the Heroku CLI</a>
-по дефолту используется java 8. 
-Для деплоя с др. версией надо указать jdk, например  
-`heroku war:deploy <path_to_war_file> --jdk 11 --app <app_name>`
-- для доступа к удаленной БД используйте следующие настройки SSL  
-`ssl=true&sslmode=verify-ca&sslfactory=org.postgresql.ssl.NonValidatingFactory`
-- [Хитрости с Heroku: сделать ваше приложение доступным 24/7](https://javarush.ru/groups/posts/1987-malenjhkie-khitrosti-s-heroku)
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) Деплой на выделенный хостинг
+Сервис Heroku стал платным, лучший вариант - развернуть собственный сервер, стоимость в минимальной конфигурации - от 130 руб./месяц (можно взять с запасом RAM 1 или 2GB). Вы учитесь азам администрирования Linux, что очень пригодиться на работе, можете размещать там резюме и все ваши проекты и обязательно указываете в резюме ссылки на свои задеплоенные проекты.
+
+- [Курс Startup](https://javaops.ru/view/startup)
+- Открытое занятие: [настройка хостинга и деплой на сервер](https://github.com/JavaOPs/startup)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [2. Classloader](https://drive.google.com/open?id=0B_4NpoQW1xfpQnJQZ0d2ajJNWlU)
 - <a href="https://habrahabr.ru/post/103830/">Загрузка классов в Java</a>
