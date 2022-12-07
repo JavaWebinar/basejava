@@ -6,7 +6,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Разбор Домашнего Задания-16 добавление резюме](https://drive.google.com/open?id=0B_4NpoQW1xfpQ1d3VmN1RHA1Q1k)
 [см. коммит Lesson17 HW16_add_resume](https://github.com/JavaWebinar/basejava/tree/10c521a8d412b3a4b3256d3044504fb269e16a26)
 
-> Вы можете улучшить внешний вид своего приложения (это не обязательная опция - по желанию), используя готовые [css](https://github.com/JavaWebinar/basejava/tree/master/web/css). В итоге ваше приложение может выглядеть аналогично [этому](https://basejava.herokuapp.com/resume?theme=light).
+> Вы можете улучшить внешний вид своего приложения (это не обязательная опция - по желанию), используя готовые [css](https://github.com/JavaWebinar/basejava/tree/master/web/css). В итоге ваше приложение может выглядеть аналогично [этому](http://javaops-demo.ru/basejava/resume?uuid=11111111-1111-1111-1111-111111111111&action=view&theme=light).
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. Настройка хостинга и деплой на сервер
 Сервис Heroku стал платным, лучший вариант - развернуть собственный сервер, стоимость в минимальной конфигурации - от 130 руб./месяц (можно взять с запасом RAM 1 или 2GB). Вы учитесь азам администрирования Linux, что очень пригодиться на работе, можете размещать там резюме и все ваши проекты и обязательно указываете в резюме ссылки на свои задеплоенные проекты.
