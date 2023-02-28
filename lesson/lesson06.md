@@ -19,7 +19,7 @@
 **Ресурсы:**
 - [Паттерн проектирования Итератор](https://web.archive.org/web/20211105130819/https://refactoring.guru/ru/design-patterns/iterator/java/example)
 - [Iterator / Iterable](http://www.javenue.info/post/101)
-- [Iterator in Java](https://www.journaldev.com/13460/java-iterator)
+- [Iterator in Java](https://techjitendra.wordpress.com/2019/09/16/java-iterator/)
 - [Интерфейсы Comparable и Comparator](https://metanit.com/java/tutorial/5.6.php)
 - [Nested (static) классы в Java](https://www.youtube.com/watch?v=svOwVvSWeus) (youtube)
 - [Inner (non-static) классы в Java](https://www.youtube.com/watch?v=LflAy_LOwwQ) (youtube)
