@@ -183,7 +183,7 @@
  
 #### [Занятие 17](https://github.com/JavaWebinar/basejava/blob/lesson/lesson/lesson17.md)
  - Разбор домашнего задания
- - Деплой приложения в облачный сервис Heroku
+ - Деплой приложения на [собственный выделенный сервер](https://github.com/JavaOps/startup)
  - Загрузка классов в Java. Classloader
  - Домашнее задание
 
