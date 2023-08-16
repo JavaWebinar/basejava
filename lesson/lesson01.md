@@ -5,7 +5,7 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Видеообзор курса Basejava](https://www.youtube.com/watch?v=0ydTRfKS9yY)
 
 ### Подготовка рабочего окружения
-- Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
+- Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (или более свежую версию)
 - Установите систему управления версиями [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Для удобной навигации по файлам на GitHub установите расширение для браузера [Octotree](https://habrahabr.ru/post/223527/)
@@ -17,7 +17,8 @@
 - [Подборка книг для руководителей в сфере IT](https://habr.com/ru/company/skyeng/blog/465215/)
 - [Размеры проектов в количестве строк кода](https://www.freecodecamp.org/news/the-biggest-codebases-in-history-a128bb3eea73)
 - [Соглашения по оформлению кода](https://topjava.ru/blog/google-java-style-guide)
-- [Методологии разработки ПО](https://dou.ua/forums/topic/14015/)
+- Методологии разработки ПО: [Agile, Scrum](https://youtu.be/cDvZaXzQezs), [Kanban](https://youtu.be/1_Zti9v5ugA)
+- [Методологии разработки и их влияние на качество](https://youtu.be/y4B2Hv3HgpE)
 - [Ещё раз про семь основных методологий разработки](https://habrahabr.ru/company/edison/blog/269789/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M/view?usp=sharing&resourcekey=0-Uw_lRGW12YNjwY7phXzVdg)
@@ -108,4 +109,4 @@ r1, r2, r3,..., rn, null, null,..., null
   - Учитесь исследовать проблему. Внимательное чтение логов и умение дебажить — основные навыки разработчика. В логах необходимо читать верхнюю часть самого нижнего иксепшена. Именно там находится причина возникшей ошибки
   - Грамотно распределяйте время для каждой проблемы. Не впадайте в крайности: сразу бросаться за помощью или биться над ней часами. Подходите к ее решению разумно
   - Получайте в процессе решения обратную связь, что бы убедиться в правильности выбранного направления
-  - [Советы новичкам](http://blog.csssr.ru/2016/09/19/how-to-be-a-beginner-developer)
+  - [Советы новичкам](https://blog.csssr.com/ru/article/how-to-be-a-beginner-developer/)
