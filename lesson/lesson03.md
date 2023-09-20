@@ -27,7 +27,7 @@
     - [Что такое полиморфизм?](https://github.com/ichimax/Core-Java-Interview-Questions/blob/master/Questions/1.%20OOP.md#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC)
     - [Ключевое слово static](https://www.youtube.com/watch?v=GZzVfeY7yEM) (youtube)
     - [Интерфейсы, абстрактные классы, полиморфизм](https://www.youtube.com/watch?v=7NMFk2oj1-c&index=4&list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW) (youtube)
-    - [Разбираемся с hashCode() и equals()](https://habrahabr.ru/post/168195/)
+    - [Разбираемся с hashCode() и equals()](https://www.pvsm.ru/java/26304)
     - [История эволюции интерфейсов в Java](https://habr.com/ru/post/482498/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Сложность алгоритмов](https://drive.google.com/open?id=0B_4NpoQW1xfpQldyRk5oc3Z1S00)
