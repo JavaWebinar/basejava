@@ -24,7 +24,7 @@
 - <a href="https://ru.wikipedia.org/wiki/Параллелизм_в_Java">Параллелизм в Java</a>
 - <a href="https://habrahabr.ru/post/27108/">Реализация Singleton в JAVA</a>
 - <a href="https://ru.wikipedia.org/wiki/Double_checked_locking">Double checked locking</a>
--  <a href="http://www.javaspecialist.ru/2011/06/java-memory-model.html">Java Memory Model</a>. final, volatile
+-  <a href="https://devsday.ru/blog/details/818">Java Memory Model</a>. final, volatile
 - <a href="https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom">Initialization-on-demand holder idiom</a>
 
 ### Ресурсы
