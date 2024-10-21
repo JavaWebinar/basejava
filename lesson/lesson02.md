@@ -21,8 +21,6 @@
   - [Основы Java garbage collection](https://youtu.be/3TROgt7ncMo?t=51) (youtube)
   - **Дополнительно:**
     - [Из каких частей состоит память java процесса](http://habrahabr.ru/post/117274/)
-    - [Permanent область памяти](http://www.javaspecialist.ru/2011/04/permanent.html)
-    - [Java thread stack](http://www.javaspecialist.ru/2011/04/java-thread-stack.html)
     - [Размер Java объектов](http://habrahabr.ru/post/134102/)
     - [JVM - краткий курс общей анатомии](https://www.youtube.com/watch?v=-fcj6EL9rc4) (youtube)
     - [What and where are the stack and heap?](http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap#24171266)
