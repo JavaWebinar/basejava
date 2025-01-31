@@ -10,7 +10,6 @@
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Для удобной навигации по файлам на GitHub установите расширение для браузера [Octotree](https://habrahabr.ru/post/223527/)
 - Установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html) (Ultimate-версия понадобится позже, при работе с базой данных и web)
-> Для версии Ultimate дается 30 дней бесплатного использования. Но в качестве подарка, каждому участнику курса, мы выдаем единоразово купон на 6 месяцев
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/file/d/0B_4NpoQW1xfpVjZUTEpvVUN1TTA/view?usp=sharing&resourcekey=0-hnn1HIBU3WIuDMVuQAxA8w)
 - [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц)
