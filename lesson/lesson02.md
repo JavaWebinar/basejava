@@ -34,6 +34,7 @@
   - [Классы-обертки](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=2)
   - [Java types](https://youtu.be/JmplWN-FdMQ) (youtube)
   - [Модификаторы доступа](https://www.youtube.com/watch?v=e14xUIUc6y0) (youtube)
+  - [Руководство по пакетам в Java](https://topjava.ru/blog/rukovodstvo-po-paketam-v-java)
   - [Пакеты](https://youtu.be/a6KGNASOtK8) (youtube)
   - **Дополнительно:**
     - [Packages](https://docs.oracle.com/javase/tutorial/java/package/index.html)
