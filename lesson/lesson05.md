@@ -15,6 +15,7 @@
 **Ресурсы:**
 - [Контейнеры/коллекции](http://en.wikipedia.org/wiki/Java_collections_framework)
 - [List, Set, Map, Queue, Iterator, ListIterator](http://www.intuit.ru/studies/courses/16/16/lecture/27131?page=2)
+- [Рекомендации Oracle по выбору между ArrayList и LinkedList](https://topjava.ru/blog/vybor-mezhdu-arraylist-i-linkedlist)
 - [Структуры данных в картинках](http://habrahabr.ru/users/tarzan82/topics/)
 - [Подробный разбор класса HashMap](https://javarush.ru/groups/posts/2496-podrobnihy-razbor-klassa-hashmap)
 - [Инициализация полей в Java](https://web.archive.org/web/20211205113623/http://www.quizful.net/post/java-fields-initialization)
