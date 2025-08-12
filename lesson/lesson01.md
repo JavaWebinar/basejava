@@ -5,11 +5,11 @@
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Видеообзор курса Basejava](https://www.youtube.com/watch?v=0ydTRfKS9yY)
 
 ### Подготовка рабочего окружения
-- Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (или более свежую версию)
+- Установите последнюю версию [JDK](https://www.oracle.com/java/technologies/downloads/)
 - Установите систему управления версиями [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
-- Для удобной навигации по файлам на GitHub установите расширение для браузера [Octotree](https://habrahabr.ru/post/223527/)
-- Установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html) (Ultimate-версия понадобится позже, при работе с базой данных и web)
+- Установите [боковую панель](https://topjava.ru/blog/vvedeniye-v-git-github-ustanovka-i-nastroyka#8) для удобной навигации по файлам на GitHub
+- Установите [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/) (Ultimate-версия понадобится позже, при работе с базой данных и web)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/file/d/0B_4NpoQW1xfpVjZUTEpvVUN1TTA/view?usp=sharing&resourcekey=0-hnn1HIBU3WIuDMVuQAxA8w)
 - [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц)
@@ -21,10 +21,9 @@
 - [Ещё раз про семь основных методологий разработки](https://habrahabr.ru/company/edison/blog/269789/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M/view?usp=sharing&resourcekey=0-Uw_lRGW12YNjwY7phXzVdg)
-- [Популярность Java-технологий в 2019 году](https://topjava.ru/blog/sostoyanie-java-v-2019-godu)
-- [Java Technology Report 2021](https://www.jrebel.com/blog/2021-java-technology-report)
-- [The State of Developer Ecosystem 2020](https://www.jetbrains.com/lp/devecosystem-2020/java/)
-- [JVM Ecosystem Report 2021](https://snyk.io/jvm-ecosystem-report-2021/)
+- [Java в 2025 году](https://habr.com/ru/companies/spring_aio/articles/933180/)
+- [State of Developer Ecosystem Report 2024](https://www.jetbrains.com/lp/devecosystem-2024/)
+- [Java Trends Report 2024](https://www.infoq.com/articles/java-trends-report-2024/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Обзор языка Java](https://drive.google.com/file/d/0B_4NpoQW1xfpTU5SSElhUjlGNnc/view?usp=sharing&resourcekey=0-DOyRoGhREx2kvKwAKTOlYg)
 
