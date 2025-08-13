@@ -63,7 +63,7 @@
 ## Домашнее задание HW1
 - Откройте в IntelliJ IDEA ваш проект, выбрав каталог `basejava`, который вы скачали ранее к себе на компьютер:
 
-![Screenshot_5](https://user-images.githubusercontent.com/29703461/199550057-fce7cf3c-7040-422f-b490-7b85b47ae952.png)
+![Screenshot_5](https://github.com/user-attachments/assets/554c3119-85cc-41be-9ef0-087f360577f4)
 
 - Реализуйте методы `save, get, delete, clear, getAll, size` в классе `ArrayStorage`, организовав хранение резюме в массиве 
 - Храните все резюме в начале `storage` (без пустот в виде `null`), чтобы не перебирать каждый раз все 10_000 элементов
