@@ -10,6 +10,7 @@
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Установите [боковую панель](https://topjava.ru/blog/vvedeniye-v-git-github-ustanovka-i-nastroyka#8) для удобной навигации по файлам на GitHub
 - Установите [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/) (Ultimate-версия понадобится позже, при работе с базой данных и web)
+- Установите плагин для [Checkstyle](https://topjava.ru/blog/nastroyka-checkstyle-v-intellij-idea)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/file/d/0B_4NpoQW1xfpVjZUTEpvVUN1TTA/view?usp=sharing&resourcekey=0-hnn1HIBU3WIuDMVuQAxA8w)
 - [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц)
@@ -67,13 +68,15 @@
 
 - Реализуйте методы `save, get, delete, clear, getAll, size` в классе `ArrayStorage`, организовав хранение резюме в массиве 
 - Храните все резюме в начале `storage` (без пустот в виде `null`), чтобы не перебирать каждый раз все 10_000 элементов
-- При реализации метода `delete` учитывайте, что после удаления резюме между оставшимися резюме не должно быть пустых ячеек, заполненных null
+- При реализации метода `delete` учитывайте:
+  - после удаления резюме между оставшимися резюме не должно быть пустых (null) ячеек
+  - резюме должны размещаться в ячейках под индексами `< size`. В противном случае обнуляйте их
 ```
-Схема хранения резюме в массиве storage (в элементах от 0 до size-1 отсутствуют null):
+Схема хранения резюме в массиве storage (в элементах от 0 до size - 1 отсутствуют null):
 
 r1, r2, r3,..., rn, null, null,..., null
 <----- size ----->
-<------- storage.length (10000) ------->
+<------- storage.length (10_000) ------>
 ```
 - Проверьте вашу реализацию с помощью классов `MainArray.main()` и `MainTestArrayStorage.main()`
 - Изучите дополнительные материалы по IntelliJ IDEA:
