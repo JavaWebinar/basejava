@@ -78,14 +78,14 @@ r1, r2, r3,..., rn, null, null,..., null
 - Проверьте вашу реализацию с помощью классов `MainArray.main()` и `MainTestArrayStorage.main()`
 - Изучите дополнительные материалы по IntelliJ IDEA:
   - [Idea Wiki](https://github.com/JavaOPs/topjava/wiki/IDEA) 
-  - [Отладка Java кода в IDEA. Основные возможности отладчика](https://youtu.be/Z1BQsf0A4xY)
+  - Отладка Java кода в IDEA: [1](https://youtu.be/Z1BQsf0A4xY?si=E8RtUNE1Pm3xP_w9), [2](https://youtu.be/V5iQ1FyRtBo), [3](https://blog.jetbrains.com/idea/2025/04/debugging-java-code-in-intellij-idea/)
   - [Эффективная работа с кодом в IntelliJ IDEA](https://www.youtube.com/watch?v=tpv5n2jWHlw)
   - [Эффективная работа в IDEA](https://www.youtube.com/watch?v=_rj7dx6c5R8)
 
 ### Вопросы по HW1
- > Не могу запустить программу, да и рядом с классами появился какой-то значок
+ > Не могу запустить программу, да и иконки рядом с классами изменились
 
- ![badsrc](https://user-images.githubusercontent.com/29703461/38277015-9cd9155e-379f-11e8-9cd4-a9182a005e9a.png)
+ ![badsrc](https://github.com/user-attachments/assets/00db6e0a-59df-46d4-9ddd-abba0e52a7c9)
  - Проблема в том, что IDEA неправильно "воспринимает" папку `src`. Для ее решения необходимо нажать `ПКМ на папке src -> выбрать Mark Directory as -> Sources Root`
  
 ### Замечания по выполнению HW1
@@ -98,7 +98,7 @@ r1, r2, r3,..., rn, null, null,..., null
 1. При реализации методов не используйте коллекции
 1. Не меняйте сигнатуры методов в `ArrayStorage`
 1. Не добавляйте в `Resume` новые поля
-1. Resume r — давайте переменным осмысленные имена, например resume. r допустимо в коротких циклах и лямбда-выражениях
+1. `Resume r` — давайте переменным осмысленные имена, например resume. r допустимо в коротких циклах и лямбда-выражениях
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png)  5. [Вебинар "Быть программистом: от детства к зрелости"](https://www.youtube.com/watch?v=D5Hej0TyLaU)
   - [Слайды вебинара](https://docs.google.com/presentation/d/1YwtCCZsaGMdl-V15kTDHiJxiS52IAl-qqheNPpiNr54/)
