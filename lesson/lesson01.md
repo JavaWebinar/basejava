@@ -44,10 +44,10 @@
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
-- [Введение в Git/GitHub: установка и настройка](https://topjava.ru/blog/vvedeniye-v-git-github-ustanovka-i-nastroyka)
-- [Введение в Git/GitHub: базовые команды](https://topjava.ru/blog/vvedeniye-v-git-github-bazovyye-komandy)
-- [Введение в Git/GitHub: ошибки использования](https://topjava.ru/blog/vvedeniye-v-git-oshibki-ispolzovaniya-ch-9)
-- [Введение в Git: от установки до основных команд](https://tproger.ru/translations/beginner-git-cheatsheet/)
+- [Введение в Git: установка и настройка](https://topjava.ru/blog/vvedeniye-v-git-github-ustanovka-i-nastroyka)
+- [Введение в Git: базовые команды](https://topjava.ru/blog/vvedeniye-v-git-github-bazovyye-komandy)
+- [Введение в Git: ошибки использования](https://topjava.ru/blog/vvedeniye-v-git-oshibki-ispolzovaniya-ch-9)
+- [Git: от установки до основных команд](https://tproger.ru/translations/beginner-git-cheatsheet/)
 - [Сравнение разных VCS](https://dzen.ru/a/Z0Z0Ry7VD0gfPV5X)
 - [Видео-уроки по Git](https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h)
 - Интерактивные Git-обучалки: [1](https://githowto.com/ru), [2](http://learngitbranching.js.org)
