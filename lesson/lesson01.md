@@ -13,13 +13,13 @@
 - Установите плагин для [Checkstyle](https://topjava.ru/blog/nastroyka-checkstyle-v-intellij-idea)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Разработка ПО](https://drive.google.com/file/d/0B_4NpoQW1xfpVjZUTEpvVUN1TTA/view?usp=sharing&resourcekey=0-hnn1HIBU3WIuDMVuQAxA8w)
-- [Мифический человеко-месяц](https://ru.wikipedia.org/wiki/Мифический_человеко-месяц)
-- [Подборка книг для руководителей в сфере IT](https://habr.com/ru/company/skyeng/blog/465215/)
+- [Мифический человеко-месяц](https://habr.com/ru/companies/raiffeisenbank/articles/533216/)
+- [Подборка книг для руководителей в сфере IT](https://habr.com/ru/companies/skyeng/articles/465215/)
 - [Размеры проектов в количестве строк кода](https://www.freecodecamp.org/news/the-biggest-codebases-in-history-a128bb3eea73)
 - [Соглашения по оформлению кода](https://topjava.ru/blog/google-java-style-guide)
 - Методологии разработки ПО: [Agile, Scrum](https://youtu.be/cDvZaXzQezs), [Kanban](https://youtu.be/1_Zti9v5ugA)
 - [Методологии разработки и их влияние на качество](https://youtu.be/y4B2Hv3HgpE)
-- [Ещё раз про семь основных методологий разработки](https://habrahabr.ru/company/edison/blog/269789/)
+- [Ещё раз про семь основных методологий разработки](https://habr.com/ru/companies/edison/articles/269789/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Обзор инструментов и технологий](https://drive.google.com/file/d/0B_4NpoQW1xfpTXJYU2xZbjN2d2M/view?usp=sharing&resourcekey=0-Uw_lRGW12YNjwY7phXzVdg)
 - [Java в 2025 году](https://habr.com/ru/companies/spring_aio/articles/933180/)
@@ -30,25 +30,29 @@
 
 ![jvm](https://cloud.githubusercontent.com/assets/18701152/15219296/e6c67e86-186b-11e6-986f-651a87deec6c.png)
 
-- [Java](http://ru.wikipedia.org/wiki/Java), [JVM](http://ru.wikipedia.org/wiki/Виртуальная_машина_Java), [JIT-компиляция](http://ru.wikipedia.org/wiki/JIT)
+- [Java](http://ru.wikipedia.org/wiki/Java), [JIT-компиляция](http://ru.wikipedia.org/wiki/JIT)
 - Java [ME](http://ru.wikipedia.org/wiki/Java_Platform,_Micro_Edition), [SE](https://ru.wikipedia.org/wiki/Java_Platform,_Standard_Edition), [EE](http://ru.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition)
 - [Что такое JDK? Введение в средства разработки Java](https://topjava.ru/blog/what-is-the-jdk)
+- [Что такое JVM? Знакомство с виртуальной машиной Java](https://topjava.ru/blog/what-is-the-jvm)
 - [Что такое JRE? Введение в среду выполнения Java](https://topjava.ru/blog/what-is-the-jre)
 - [Что такое Java? История создания](http://www.intuit.ru/studies/courses/16/16/lecture/27105)
-- [Programming languages TIOBE Index](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html)
-- [Java Microbenchmark JMH](http://openjdk.java.net/projects/code-tools/jmh/) (используем на курсе [MasterJava](https://github.com/JavaWebinar/masterjava#Занятие-2))
+- [Programming languages TIOBE Index](https://www.tiobe.com/tiobe-index/)
+- [Java Microbenchmark JMH](https://openjdk.org/projects/code-tools/jmh/) (используем на курсе [MasterJava](https://github.com/JavaWebinar/masterjava#Занятие-2))
 - [Руководство по массивам в Java](https://topjava.ru/blog/rukovodstvo-po-massivam-v-java-ch1)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit?resourcekey=0-6scb0PBj2A3Oqf6rsU2egQ)
 
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
-- [Система управления версиями (VCS)](https://ru.wikipedia.org/wiki/Система_управления_версиями)
+- [Введение в Git/GitHub: установка и настройка](https://topjava.ru/blog/vvedeniye-v-git-github-ustanovka-i-nastroyka)
+- [Введение в Git/GitHub: базовые команды](https://topjava.ru/blog/vvedeniye-v-git-github-bazovyye-komandy)
+- [Введение в Git/GitHub: ошибки использования](https://topjava.ru/blog/vvedeniye-v-git-oshibki-ispolzovaniya-ch-9)
 - [Введение в Git: от установки до основных команд](https://tproger.ru/translations/beginner-git-cheatsheet/)
-- [Сравнение разных VCS](https://biz30.timedoctor.com/ru/cистема-контроля-версий/)
+- [Сравнение разных VCS](https://dzen.ru/a/Z0Z0Ry7VD0gfPV5X)
 - [Видео-уроки по Git](https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h)
 - Интерактивные Git-обучалки: [1](https://githowto.com/ru), [2](http://learngitbranching.js.org)
 - [Официальная книга по Git](https://git-scm.com/book/ru/v2)
+- [GitHub for beginners](https://github.blog/tag/github-for-beginners/)
   
 ### Настройка проекта
 - Создайте на GitHub репозиторий с названием `basejava`
@@ -67,7 +71,7 @@
 ![Screenshot_5](https://github.com/user-attachments/assets/554c3119-85cc-41be-9ef0-087f360577f4)
 
 - Реализуйте методы `save, get, delete, clear, getAll, size` в классе `ArrayStorage`, организовав хранение резюме в массиве 
-- Храните все резюме в начале `storage` (без пустот в виде `null`), чтобы не перебирать каждый раз все 10_000 элементов
+- Храните все резюме в начале `storage` (без пустот в виде null), чтобы не перебирать каждый раз 10_000 элементов
 - При реализации метода `delete` учитывайте:
   - после удаления резюме между оставшимися резюме не должно быть пустых (null) ячеек
   - резюме должны размещаться в ячейках под индексами `< size`. В противном случае обнуляйте их
