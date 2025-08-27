@@ -28,7 +28,7 @@
 - [`Lesson09 AbstractPathStorage`](https://github.com/JavaWebinar/basejava/commit/4b37c38fb980e315c5ec5f1b2b868fbb5935fe6d)
 
 **Ресурсы:**
-- <a href="http://www.quizful.net/post/java-nio-tutorial">NIO Java 7</a>
+- <a href="http://web.archive.org/web/20200802062632/www.quizful.net/post/java-nio-tutorial">NIO Java 7</a>
 - <a href="https://habrahabr.ru/post/269667/">Чтения строк из файла</a>
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [4. Основы Java 8 Stream API](https://drive.google.com/open?id=0B_4NpoQW1xfpMHd6VDJjS28tRmM)
