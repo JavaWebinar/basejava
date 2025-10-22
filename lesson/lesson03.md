@@ -31,14 +31,12 @@
     - [История эволюции интерфейсов в Java](https://habr.com/ru/post/482498/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Сложность алгоритмов](https://drive.google.com/open?id=0B_4NpoQW1xfpQldyRk5oc3Z1S00)
-- [Временная сложность алгоритма](https://ru.wikipedia.org/wiki/Временная_сложность_алгоритма) (wiki)
-- [Вычислительная сложность](https://ru.wikipedia.org/wiki/Вычислительная_сложность) (wiki)
 - [Про сложность алгоритмов и Big O Notation](https://threadreaderapp.com/thread/1470666237286010881)
 - [Алгоритмы и структуры данных для начинающих: сложность алгоритмов](https://tproger.ru/translations/algorithms-and-data-structures)
 - [Time complexity](https://drive.google.com/file/d/0B9Ye2auQ_NsFNEJWRFJkVDA3TkU/view?resourcekey=0-MPCuoLVdSLiSc7hlE2jefQ)
 - [Бинарное дерево поиска](https://www.youtube.com/watch?time_continue=447&v=HBMlhZAOhoI) (youtube)
 - **Дополнительно**
-  - Легко написанная книга по алгоритмам и их сложности [Грокаем алгоритмы](https://www.ozon.ru/context/detail/id/139296295/)
+  - Легко написанная книга по алгоритмам и их сложности [Грокаем алгоритмы](https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-71518519/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Паттерн проектирования Шаблонный метод](https://drive.google.com/open?id=0B_4NpoQW1xfpT0tyYXR0RHBpUWM)
 
@@ -46,12 +44,11 @@
  - [`Lesson03 abstract storage & sorted storage`](https://github.com/JavaWebinar/basejava/tree/0bf48cf81987ddb9d59880f10920f3994923f8c0/src/ru/javawebinar/basejava)
  
 **Ресурсы:**
- - [Паттерн проектирования — Шаблонный метод](https://ru.wikipedia.org/wiki/Шаблонный_метод_(шаблон_проектирования)) (wiki)
  - [Руководство по Шаблонному методу в Java](https://topjava.ru/blog/pattern-shablonnyy-metod-v-java)
  - [Шаблонный метод (Template Method)](https://youtu.be/mNcmp-Msi6U) (youtube)
  - [Шаблонный метод](https://refactoring.guru/ru/design-patterns/template-method/java/example)
  - **Дополнительно**
-   - Книга из известной серии Head First — [Паттерны проектирования](https://www.ozon.ru/context/detail/id/144233005/?_bctx=CAgQver7Bg)
+   - Книга из известной серии Head First — [Паттерны проектирования](https://www.litres.ru/book/elizabet-robson/head-first-patterny-proektirovaniya-39123671/)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) [Домашнее задание HW3](https://drive.google.com/open?id=0B_4NpoQW1xfpdkdlV2xPbE5VM2c)
 
