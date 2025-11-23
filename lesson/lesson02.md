@@ -2,22 +2,16 @@
 # Второе занятие
 > разбор HW1 будет на следующем уроке вместе с HW2
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. [Принципы ООП](https://drive.google.com/open?id=0B_4NpoQW1xfpOHpyYWhOMGQ4VXc)
- - [Объектно-ориентированное программирование](https://ru.wikipedia.org/wiki/Объектно-ориентированное_программирование) (wiki)
- - [Объектно-ориентированное программирование (перевод статьи)](http://info.javarush.ru/translation/2016/01/28/Объектно-ориентированное-программирование-перевод-статьи-.html)
+- [Объектно-ориентированное программирование](http://info.javarush.ru/translation/2016/01/28/Объектно-ориентированное-программирование-перевод-статьи-.html)
 - [Основы Объектно-Ориентированного Программирования (ООП)](https://github.com/ichimax/Core-Java-Interview-Questions/blob/master/Questions/1.%20OOP.md)
 - [Наследование, агрегация, композиция, ассоциация](https://ru.wikipedia.org/wiki/Диаграмма_классов#Взаимосвязи) (wiki)
 - [Типы отношений между классами](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=4)
 - [Достоинства / Недостатки ООП](http://www.intuit.ru/studies/courses/16/16/lecture/27107?page=5)
 - [ООП в Java: четыре принципа с примерами](https://highload.today/oop-v-java-chetyre-printsipa-s-primerami)
-- **Дополнительно:**
-  - [Зачем нам ООП и что это такое?](https://habrahabr.ru/post/148015/)
-  - [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc) (youtube)
+- [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc) (youtube)
   
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. [Структура памяти: куча, стек, регистры, константы](https://drive.google.com/open?id=0B_4NpoQW1xfpZHRnTEhNWmk5Xzg)
-  - [Что такое Heap и Stack память в Java?](https://javadevblog.com/chto-takoe-heap-i-stack-pamyat-v-java.html)
-  - [Стек](https://ru.wikipedia.org/wiki/Стек) (wiki)
   - [Стек и куча в Java](https://topjava.ru/blog/stack-and-heap-in-java)
-  - [Java Heap Space vs Stack – Memory Allocation in Java](https://www.journaldev.com/4098/java-heap-space-vs-stack-memory)
   - [Основы Java garbage collection](https://youtu.be/3TROgt7ncMo?t=51) (youtube)
   - **Дополнительно:**
     - [Из каких частей состоит память java процесса](http://habrahabr.ru/post/117274/)
