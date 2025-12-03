@@ -12,10 +12,10 @@
 - [`Lesson10 xml`](https://github.com/JavaWebinar/basejava/tree/c36b41e468df8a82bb1e8ba668f3d00e76989fd9)
 
 >В коде проекта используется JDK 8. Если у вас JDK9+, в проект необходимо включить [дополнительные  Java EE зависимости, исключенные в JDK 9](https://openjdk.org/jeps/320)
-> - [jakarta.activation-api](https://repo1.maven.org/maven2/jakarta/activation/jakarta.activation-api/2.1.4/jakarta.activation-api-2.1.4.jar)
-> - [jakarta.xml.bind-api](https://repo1.maven.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/4.0.4/jakarta.xml.bind-api-4.0.4.jar)
+> - [jaxb-impl](https://repo1.maven.org/maven2/com/sun/xml/bind/jaxb-impl/4.0.6/jaxb-impl-4.0.6.jar)
 > - [jaxb-core](https://repo1.maven.org/maven2/com/sun/xml/bind/jaxb-core/4.0.6/jaxb-core-4.0.6.jar)
-> - [istack-commons-runtime](https://repo1.maven.org/maven2/com/sun/istack/istack-commons-runtime/4.2.0/istack-commons-runtime-4.2.0.jar)  
+> - [jakarta.xml.bind-api](https://repo1.maven.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/4.0.4/jakarta.xml.bind-api-4.0.4.jar)
+> - [jakarta.activation-api](https://repo1.maven.org/maven2/jakarta/activation/jakarta.activation-api/2.1.4/jakarta.activation-api-2.1.4.jar)
 > - [istack-commons-runtime](https://repo1.maven.org/maven2/com/sun/istack/istack-commons-runtime/4.2.0/istack-commons-runtime-4.2.0.jar)
 
 Подключение библиотек к проекту есть в видео-уроке
