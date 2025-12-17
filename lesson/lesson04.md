@@ -41,7 +41,7 @@
  - [`Lesson04 Reflection and JUnit`](https://github.com/JavaWebinar/basejava/tree/c77bb7c73022fa411262c1da56953f3ef3ca3cc7)
  
 **Ресурсы:**
- - [Руководство по аннотациям в Java](https://topjava.ru/blog/rukovodstvo-po-annotatsiyam-v-java-i-mekhanizmu-ikh-raboty)
+ - [Руководство по аннотациям в Java](https://topjava.ru/blog/rukovodstvo-po-annotatsiyam-v-java-i-mekhanizmu-ikh-raboty) (`для общего знакомства. Не сидите долго на этой теме`)
  - [Reflection для начинающих](https://youtu.be/XJQuBXWADZg) (youtube)
  - [Руководство по Java Reflection API](http://javadevblog.com/polnoe-rukovodstvo-po-java-reflection-api-refleksiya-na-primerah.html)
  - [Java Reflection Example Tutorial](https://www.journaldev.com/1789/java-reflection-example-tutorial)
@@ -58,7 +58,7 @@
 ## Домашнее задание HW4
 - Реализуйте тестовые классы: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
 - Необходимо написать тесты для всех public-методов, которые проверяли бы как их штатную работу, так и все выкидываемые ими икспешены
-- В `MainReflection` вызовите у Resume, через отражение, метод `toString`. Выведите результат на консоль
+- В `MainReflection` вызовите у Resume, через отражение, метод `toString`. Выведите результат на консоль (`освойте основы рефлексии на уровне, достаточном для выполнения задания - сильно не углубляйтесь`)
 
 ## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Подсказки по HW4
 - используйте в `AbstractArrayStorageTest` конструктор для инициализации поля `Storage storage`, а в его наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
