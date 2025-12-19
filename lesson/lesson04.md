@@ -56,20 +56,26 @@
  - Использование Assert.fail() при тестировании: [1](https://www.baeldung.com/junit-fail), [2](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case)
 
 ## Домашнее задание HW4
-- Добавьте зависимости для JUnit 5: нажмите Ctrl + Alt + Shift + S и добавьте в `Modules` актуальную версию `junit-jupiter` (во вкладке `Dependencies` нажмите `+ -> Library... -> From Maven...`).
-- Реализуйте тестовые классы с помощью JUnit 5: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
+Часть I:
+- В `MainReflection` вызовите у `Resume`, через отражение, метод `toString`. Выведите результат на консоль (освойте основы рефлексии на уровне, достаточном для выполнения задания - сильно не углубляйтесь)
+- Реализуйте тестовые классы с помощью `JUnit 4`: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
+- Тестовые классы поместите в пакет `junut4`
 - Необходимо написать тесты для всех public-методов, которые проверяли бы как их штатную работу, так и все выкидываемые ими икспешены
-- В `MainReflection` вызовите у Resume, через отражение, метод `toString`. Выведите результат на консоль (`освойте основы рефлексии на уровне, достаточном для выполнения задания - сильно не углубляйтесь`)
+
+Часть II (приступайте только после проверки первой части наставником):
+- Адаптируйте классы `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest` под `JUnit 5`
+- Добавьте зависимости для `JUnit 5`: нажмите `Ctrl + Alt + Shift + S` и добавьте в `Modules` актуальную версию `junit-jupiter` (во вкладке `Dependencies` нажмите `+ -> Library... -> From Maven...`)
+- Тестовые классы поместите в пакет `junut5`
 
 ## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Подсказки по HW4
-- используйте в `AbstractArrayStorageTest` конструктор для инициализации поля `Storage storage`, а в его наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
+- Используйте в `AbstractArrayStorageTest` конструктор для инициализации поля `Storage storage`, а в его наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
 - `SortedArrayStorageTest` должен создавать экземпляр `SortedArrayStorage`, а `ArrayStorageTest` экземпляр `ArrayStorage`
-- тестировать правильность сортировки не надо
-- во всех тестах проверяйте `Resume` целиком. Проверки только `uuid` недостаточно
-- иерархия наследования тестовых классов должна совпадать с иерархией тестируемых
-- логика реализации теста на переполнение массива (`StorageException`):
+- Тестировать правильность сортировки не надо
+- Во всех тестах проверяйте `Resume` целиком. Проверки только `uuid` недостаточно
+- Иерархия наследования тестовых классов должна совпадать с иерархией тестируемых
+- Логика реализации теста на переполнение массива (`StorageException`):
   - заполняем массив, но не вызываем у него переполнение
   - если при заполнении вылетит исключение, то тест должен провалиться (используйте [Assert.fail()](https://www.baeldung.com/junit-fail))
   - в `fail()` выводите сообщение о том, что переполнение произошло раньше времени
   - тест считается успешно пройденным, когда переполнение происходит при попытке добавить в полностью заполненный массив еще одно резюме
-- если при запуске тестового класса возникает ошибка `Test class should have exactly one public zero-argument constructor`, то нажмите два раза Shift и напишите `Edit Configurations`. В открывшейся вкладке `Run/Debug Configurations`, удалите в левой панели все запускаемые с JUnit классы
+- Если при запуске тестового класса возникает ошибка `Test class should have exactly one public zero-argument constructor`, то нажмите два раза Shift и напишите `Edit Configurations`. В открывшейся вкладке `Run/Debug Configurations`, удалите в левой панели все запускаемые с JUnit классы
