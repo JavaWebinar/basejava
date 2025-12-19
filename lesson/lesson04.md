@@ -56,7 +56,7 @@
  - Использование Assert.fail() при тестировании: [1](https://www.baeldung.com/junit-fail), [2](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case)
 
 ## Домашнее задание HW4
-- Добавьте зависимости для JUnit 5: нажмите Ctrl + Alt + Shift + S и добавьте в `Modules` актуальную версию `junit-jupiter` (во вкладке `Dependencies` нажмите + -> Library... -> From Maven...).
+- Добавьте зависимости для JUnit 5: нажмите Ctrl + Alt + Shift + S и добавьте в `Modules` актуальную версию `junit-jupiter` (во вкладке `Dependencies` нажмите `+ -> Library... -> From Maven...`).
 - Реализуйте тестовые классы с помощью JUnit 5: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
 - Необходимо написать тесты для всех public-методов, которые проверяли бы как их штатную работу, так и все выкидываемые ими икспешены
 - В `MainReflection` вызовите у Resume, через отражение, метод `toString`. Выведите результат на консоль (`освойте основы рефлексии на уровне, достаточном для выполнения задания - сильно не углубляйтесь`)
