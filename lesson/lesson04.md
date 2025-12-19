@@ -45,7 +45,6 @@
  - [Reflection для начинающих](https://youtu.be/XJQuBXWADZg) (youtube)
  - [Руководство по Java Reflection API](http://javadevblog.com/polnoe-rukovodstvo-po-java-reflection-api-refleksiya-na-primerah.html)
  - [Java Reflection Example Tutorial](https://www.journaldev.com/1789/java-reflection-example-tutorial)
- - [Отличие JUnit4 от JUnit5](https://topjava.ru/blog/migratsiya-s-junit4-na-junit5)
  - **Дополнительно:**
    - [The Reflection API](https://docs.oracle.com/javase/tutorial/reflect/)
    - [What is reflection and why is it useful?](https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful)
@@ -53,7 +52,6 @@
  - [Фреймворк для модульного тестирования JUnit](http://junit.org/) 
  - [Тестирование с помощью JUnit (Test Case)](http://web.archive.org/web/20190829153452/http://www.javenue.info/post/19)
  - [Тестирование кода Java с помощью фреймворка JUnit](https://www.youtube.com/watch?v=z9jEVLCF5_w) (youtube)
- - Использование Assert.fail() при тестировании: [1](https://www.baeldung.com/junit-fail), [2](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case)
 
 ## Домашнее задание HW4
 Часть I:
@@ -63,7 +61,7 @@
 - Необходимо написать тесты для всех public-методов, которые проверяли бы как их штатную работу, так и все выкидываемые ими икспешены
 
 Часть II (приступайте только после проверки первой части наставником):
-- Адаптируйте классы `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest` под `JUnit 5`
+- [Адаптируйте](https://topjava.ru/blog/migratsiya-s-junit4-na-junit5) классы `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest` под `JUnit 5`
 - Добавьте зависимости для `JUnit 5`: нажмите `Ctrl + Alt + Shift + S` и добавьте в `Modules` актуальную версию `junit-jupiter` (во вкладке `Dependencies` нажмите `+ -> Library... -> From Maven...`)
 - Тестовые классы поместите в пакет `junut5`
 
@@ -75,7 +73,7 @@
 - Иерархия наследования тестовых классов должна совпадать с иерархией тестируемых
 - Логика реализации теста на переполнение массива (`StorageException`):
   - заполняем массив, но не вызываем у него переполнение
-  - если при заполнении вылетит исключение, то тест должен провалиться (используйте [Assert.fail()](https://www.baeldung.com/junit-fail))
+  - если при заполнении вылетит исключение, то тест должен провалиться (используйте `Assert.fail()` [1](https://www.baeldung.com/junit-fail), [2](https://stackoverflow.com/questions/3869954/whats-the-actual-use-of-fail-in-junit-test-case))
   - в `fail()` выводите сообщение о том, что переполнение произошло раньше времени
   - тест считается успешно пройденным, когда переполнение происходит при попытке добавить в полностью заполненный массив еще одно резюме
 - Если при запуске тестового класса возникает ошибка `Test class should have exactly one public zero-argument constructor`, то нажмите два раза Shift и напишите `Edit Configurations`. В открывшейся вкладке `Run/Debug Configurations`, удалите в левой панели все запускаемые с JUnit классы
