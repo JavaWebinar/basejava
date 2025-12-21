@@ -25,6 +25,7 @@
 - [Java в 2025 году](https://habr.com/ru/companies/spring_aio/articles/933180/)
 - [State of Developer Ecosystem Report 2025](https://devecosystem-2025.jetbrains.com/ru)
 - [Java Trends Report 2025](https://www.infoq.com/articles/java-trends-report-2025/)
+- Рейтинги языков программирования: [TIOBE](https://www.tiobe.com/tiobe-index/), [PYPL](https://pypl.github.io/PYPL.html), [IEEE](https://spectrum.ieee.org/tag/top-programming-languages)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Обзор языка Java](https://drive.google.com/file/d/0B_4NpoQW1xfpTU5SSElhUjlGNnc/view?usp=sharing&resourcekey=0-DOyRoGhREx2kvKwAKTOlYg)
 
@@ -36,7 +37,6 @@
 - [Что такое JVM? Знакомство с виртуальной машиной Java](https://topjava.ru/blog/what-is-the-jvm)
 - [Что такое JRE? Введение в среду выполнения Java](https://topjava.ru/blog/what-is-the-jre)
 - [Что такое Java? История создания](http://www.intuit.ru/studies/courses/16/16/lecture/27105)
-- [Programming languages TIOBE Index](https://www.tiobe.com/tiobe-index/)
 - [Руководство по массивам в Java](https://topjava.ru/blog/rukovodstvo-po-massivam-v-java-ch1)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit?resourcekey=0-6scb0PBj2A3Oqf6rsU2egQ)
