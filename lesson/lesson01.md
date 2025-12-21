@@ -42,8 +42,6 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. [Системы управления версиями. Git](https://drive.google.com/file/d/0B9Ye2auQ_NsFSUNrdVc0bDZuX2s/edit?resourcekey=0-6scb0PBj2A3Oqf6rsU2egQ)
 
-![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
-
 - [Введение в Git: установка и настройка](https://topjava.ru/blog/vvedeniye-v-git-github-ustanovka-i-nastroyka)
 - [Введение в Git: базовые команды](https://topjava.ru/blog/vvedeniye-v-git-github-bazovyye-komandy)
 - [Введение в Git: ошибки использования](https://topjava.ru/blog/vvedeniye-v-git-oshibki-ispolzovaniya-ch-9)
