@@ -57,12 +57,13 @@
 Часть I:
 - В `MainReflection` вызовите у `Resume`, через отражение, метод `toString`. Выведите результат на консоль (освойте основы рефлексии на уровне, достаточном для выполнения задания - сильно не углубляйтесь)
 - Реализуйте тестовые классы с помощью `JUnit 4`: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
+- Добавьте зависимости для `JUnit 4`: нажмите `Ctrl + Alt + Shift + S` и добавьте в `Modules` актуальную версию `junit-4` и `hamcrest` (во вкладке `Dependencies` нажмите `+ -> Library... -> From Maven...`)
 - Тестовые классы поместите в пакет `junut4`
 - Необходимо написать тесты для всех public-методов, которые проверяли бы как их штатную работу, так и все выкидываемые ими икспешены
 
 Часть II (приступайте только после проверки первой части наставником):
 - [Адаптируйте](https://topjava.ru/blog/migratsiya-s-junit4-na-junit5) классы `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest` под `JUnit 5`
-- Добавьте зависимости для `JUnit 5`: нажмите `Ctrl + Alt + Shift + S` и добавьте в `Modules` актуальную версию `junit-jupiter` (во вкладке `Dependencies` нажмите `+ -> Library... -> From Maven...`)
+- Добавьте зависимости для `JUnit 5` - актуальную версию `junit-jupiter`
 - Тестовые классы поместите в пакет `junut5`
 
 ## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Подсказки по HW4
