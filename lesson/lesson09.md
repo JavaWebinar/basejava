@@ -36,8 +36,10 @@
 - <a href="https://annimon.com/article/2778">Потоки</a>
 
 ## Домашнее задание
-- Сделать рекурсивный вывод каталогов и файлов с отступами
-- Реализовать `ObjectStreamPathStorage` (через `java.nio.file.Path`) и добавить `ObjectStreamPathStorageTest`
-- Сделать реализации `Storage` сохранения в файл через `File` и `Path` с возможностью выбора стратегии сериализации (посмотрите на [паттерн стратегия](https://refactoring.guru/ru/design-patterns/strategy)). Кроме сохранения через `ObjectOutputStream/ObjectInputStream` у нас будут еще несколько вариантов сериализации. Сделать тесты для тестирования сохранения через `ObjectOutputStream/ObjectInputStream` для `File` и `Path`.
+- Доработайте `MainFile`, реализовав рекурсивный вывод каталогов и файлов с отступами (простой аналог команды [tree](https://topjava.ru/blog/osnovy-komandnoy-stroki-dlya-java-programmista#13))
+- `AbstractFileStorage` переименуйте в `FileStorage`, сделав его обычным классом
+- Реализуйте `ObjectStreamPathStorage` (через `java.nio.file.Path`) и `ObjectStreamPathStorageTest`
+- Реализуйте в пакете `storage` сохранения в файл через `File` и `Path` с возможностью выбора [стратегии](https://refactoring.guru/ru/design-patterns/strategy) сериализации. Кроме сохранения через `ObjectOutputStream/ObjectInputStream` у нас будут еще несколько вариантов сериализации
+- Реализуйте тесты для тестирования сохранения через `ObjectOutputStream/ObjectInputStream` для `File` и `Path`
 - В тестовом классе (и в любых других будущих классах) указывайте путь до директории с файлами относительно корня проекта
-- Создайте пустую директорию `storage` в корне проекта для хранения файлов, создаваемых тестами
+- Запуште на GitHub пустую директорию `storage` в корне проекта для хранения файлов, создаваемых тестами
