@@ -40,6 +40,7 @@
 - `AbstractFileStorage` переименуйте в `FileStorage`, сделав его обычным классом
 - Реализуйте `ObjectStreamPathStorage` (через `java.nio.file.Path`) и `ObjectStreamPathStorageTest`
 - Реализуйте в пакете `storage` сохранения в файл через `File` и `Path` с возможностью выбора [стратегии](https://refactoring.guru/ru/design-patterns/strategy) сериализации. Кроме сохранения через `ObjectOutputStream/ObjectInputStream` у нас будут еще несколько вариантов сериализации
+- Классы конкретных стратегий и общий для них интерфейс разместите в пакете `storage.serializer`
 - Реализуйте тесты для тестирования сохранения через `ObjectOutputStream/ObjectInputStream` для `File` и `Path`
 - В тестовом классе (и в любых других будущих классах) указывайте путь до директории с файлами относительно корня проекта
 - Запуште на GitHub пустую директорию `storage` в корне проекта для хранения файлов, создаваемых тестами
