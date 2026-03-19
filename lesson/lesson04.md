@@ -65,14 +65,14 @@
 - Реализуйте тесты для всех public-методов, которые проверяли бы как их штатную работу, так и все выкидываемые исключения
 
 Часть II (приступайте только после проверки первой части наставником):
-- Создайте пакет `junut6` и скопируйте в него тестовые классы из пакта `junut4`
+- Создайте пакет `junit6` и скопируйте в него тестовые классы из пакта `junit4`
 - Добавьте зависимости для `JUnit 6`:
   - [junit-platform-suite 6.0.3](https://repo1.maven.org/maven2/org/junit/platform/junit-platform-suite-api/6.0.3/junit-platform-suite-api-6.0.3.jar)
   - [junit-platform-launcher 6.0.3](https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/6.0.3/junit-platform-launcher-6.0.3.jar)
   - [junit-jupiter-api 6.0.3](https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/6.0.3/junit-jupiter-api-6.0.3.jar)
   - [junit-jupiter-engine 6.0.3](https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/6.0.3/junit-jupiter-engine-6.0.3.jar)
 - [Адаптируйте](https://topjava.ru/blog/migratsiya-s-junit4-na-junit5) классы `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest` под `JUnit 6`
-- Пакет `junut4` должен остаться — не удаляйте его
+- Пакет `junit4` должен остаться — не удаляйте его
 
 ## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Подсказки по HW4
 - Используйте в `AbstractArrayStorageTest` конструктор для инициализации поля `Storage storage`, а в его наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
