@@ -55,16 +55,24 @@
 
 ## Домашнее задание HW4
 Часть I:
-- В `MainReflection` вызовите у `Resume`, через отражение, метод `toString`. Выведите результат на консоль (освойте основы рефлексии на уровне, достаточном для выполнения задания - сильно не углубляйтесь)
-- Реализуйте тестовые классы с помощью `JUnit 4`: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
-- Добавьте зависимости для `JUnit 4`: нажмите `Ctrl + Alt + Shift + S` и добавьте в `Modules` актуальную версию `junit-4` и `hamcrest` (во вкладке `Dependencies` нажмите `+ -> Library... -> From Maven...`)
-- Тестовые классы поместите в пакет `junut4`
-- Необходимо написать тесты для всех public-методов, которые проверяли бы как их штатную работу, так и все выкидываемые ими икспешены
+- В классе `MainReflection` вызовите у объекта `Resume` метод `toString` с помощью рефлексии. Выведите результат в консоль (освойте основы рефлексии на уровне, достаточном для выполнения задания — сильно углубляться не нужно)
+- Скачайте зависимости для `JUnit 4`:
+  - [junit 4.13.2](https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar)
+  - [hamcrest 3.0](https://repo1.maven.org/maven2/org/hamcrest/hamcrest/3.0/hamcrest-3.0.jar)
+- Вручную добавьте скачанные зависимости в проект: нажмите `Ctrl + Alt + Shift + S` -> `Modules` -> `Dependencies` -> `+` -> `JARs or Directories...`. Затем выберите скачанные jar-файлы
+- Реализуйте с помощью `JUnit 4` тестовые классы: `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest`
+- Поместите тестовые классы в пакет `junit4`
+- Реализуйте тесты для всех public-методов, которые проверяли бы как их штатную работу, так и все выкидываемые исключения
 
 Часть II (приступайте только после проверки первой части наставником):
-- [Адаптируйте](https://topjava.ru/blog/migratsiya-s-junit4-na-junit5) классы `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest` под `JUnit 5`
-- Добавьте зависимости для `JUnit 5` - актуальную версию `junit-jupiter`
-- Тестовые классы поместите в пакет `junut5`
+- Создайте пакет `junut6` и скопируйте в него тестовые классы из пакта `junut4`
+- Добавьте зависимости для `JUnit 6`:
+  - [junit-platform-suite 6.0.3](https://repo1.maven.org/maven2/org/junit/platform/junit-platform-suite-api/6.0.3/junit-platform-suite-api-6.0.3.jar)
+  - [junit-platform-launcher 6.0.3](https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/6.0.3/junit-platform-launcher-6.0.3.jar)
+  - [junit-jupiter-api 6.0.3](https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/6.0.3/junit-jupiter-api-6.0.3.jar)
+  - [junit-jupiter-engine 6.0.3](https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/6.0.3/junit-jupiter-engine-6.0.3.jar)
+- [Адаптируйте](https://topjava.ru/blog/migratsiya-s-junit4-na-junit5) классы `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest` под `JUnit 6`
+- Пакет `junut4` должен остаться — не удаляйте его
 
 ## ![error](https://cloud.githubusercontent.com/assets/13649199/13672935/ef09ec1e-e6e7-11e5-9f79-d1641c05cbe6.png) Подсказки по HW4
 - Используйте в `AbstractArrayStorageTest` конструктор для инициализации поля `Storage storage`, а в его наследниках добавьте конструкторы, которые будут вызывать `super()` с нужным хранилищем
