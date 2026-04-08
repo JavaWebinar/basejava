@@ -70,7 +70,6 @@
   - [junit-jupiter-api 6.0.3](https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/6.0.3/junit-jupiter-api-6.0.3.jar)
   - [junit-jupiter-engine 6.0.3](https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/6.0.3/junit-jupiter-engine-6.0.3.jar)
   - [junit-platform-launcher 6.0.3](https://repo1.maven.org/maven2/org/junit/platform/junit-platform-launcher/6.0.3/junit-platform-launcher-6.0.3.jar)
-  - [junit-platform-suite 6.0.3](https://repo1.maven.org/maven2/org/junit/platform/junit-platform-suite-api/6.0.3/junit-platform-suite-api-6.0.3.jar)
   - [junit-platform-commons 6.0.3](https://repo1.maven.org/maven2/org/junit/platform/junit-platform-commons/6.0.3/junit-platform-commons-6.0.3.jar)
   - [junit-platform-engine 6.0.3](https://repo1.maven.org/maven2/org/junit/platform/junit-platform-engine/6.0.3/junit-platform-engine-6.0.3.jar)
 - [Адаптируйте](https://topjava.ru/blog/migratsiya-s-junit4-na-junit5) классы `AbstractArrayStorageTest`, `ArrayStorageTest` и `SortedArrayStorageTest` под `JUnit 6`
