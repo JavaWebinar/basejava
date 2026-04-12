@@ -41,8 +41,9 @@
 - [Уроки по JDBC](https://www.youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2)
 
 ### ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW13
-- Доделать `SqlStorage` без контактов и секций
-- Для работы с DB надо в lib и проект добавить [драйвер базы данных](https://mvnrepository.com/artifact/org.postgresql/postgresql)
-- Запустить `SqlStorageTest` (в `AbstractStorageTest` контакты и секции закоменченны), креденшелы к базе взять из `Config`
-- Вынести общий код (`getConnection(), prepareStatement, catch SQLException`) в класс `SqlHelper`
-(https://dzone.com/articles/removing-duplicate-code-with-lambda-expressions)
+- Доделайте реализацию `SqlStorage` без контактов и секций
+- Добавьте в зависимости проекта [драйвер базы данных](https://mvnrepository.com/artifact/org.postgresql/postgresql)
+- В `SqlStorageTest` берите креденшелы к базе из `Config`
+- Вынесите [общий код](https://dzone.com/articles/removing-duplicate-code-with-lambda-expressions) (`getConnection(), prepareStatement, catch SQLException`) в класс `SqlHelper`
+- В `resumes.properties` указывайте относительный путь (относительно проекта) хранения базы
+- Не забывайте форматировать `db_init` (не используйте sql-код, сгенерированный IDEA, поскольку он очень многословен)
