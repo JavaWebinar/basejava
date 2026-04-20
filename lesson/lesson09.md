@@ -36,7 +36,9 @@
 - <a href="https://annimon.com/article/2778">Потоки</a>
 
 ## Домашнее задание
-- Доработайте `MainFile`, реализовав рекурсивный вывод каталогов и файлов с отступами (простой аналог команды [tree](https://topjava.ru/blog/osnovy-komandnoy-stroki-dlya-java-programmista#13))
+- Доработайте `MainFile`, реализовав рекурсивный вывод каталогов и файлов:
+  - с отступами и псевдографикой (простой аналог команды [tree](https://topjava.ru/blog/osnovy-komandnoy-stroki-dlya-java-programmista#13))
+  - с отсортированными в алфавитном порядке именами каталогов и файлов (при этом файлы не должны отображаться между каталогов)
 - `AbstractFileStorage` переименуйте в `FileStorage`, сделав его обычным классом
 - Реализуйте `ObjectStreamPathStorage` (через `java.nio.file.Path`) и `ObjectStreamPathStorageTest`
 - Реализуйте в пакете `storage` сохранения в файл через `File` и `Path` с возможностью выбора [стратегии](https://refactoring.guru/ru/design-patterns/strategy) сериализации. Кроме сохранения через `ObjectOutputStream/ObjectInputStream` у нас будут еще несколько вариантов сериализации
