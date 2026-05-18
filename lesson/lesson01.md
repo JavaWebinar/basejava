@@ -34,9 +34,7 @@
 
 - [Java](http://ru.wikipedia.org/wiki/Java), [JIT-компиляция](http://ru.wikipedia.org/wiki/JIT)
 - Java [ME](http://ru.wikipedia.org/wiki/Java_Platform,_Micro_Edition), [SE](https://ru.wikipedia.org/wiki/Java_Platform,_Standard_Edition), [EE](http://ru.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition)
-- [Что такое JDK? Введение в средства разработки Java](https://topjava.ru/blog/what-is-the-jdk)
-- [Что такое JVM? Знакомство с виртуальной машиной Java](https://topjava.ru/blog/what-is-the-jvm)
-- [Что такое JRE? Введение в среду выполнения Java](https://topjava.ru/blog/what-is-the-jre)
+- [Что такое JDK, JRE и JVM](https://topjava.ru/blog/chto-takoe-jdk-jre-jvm)
 - [Что такое Java? История создания](http://www.intuit.ru/studies/courses/16/16/lecture/27105)
 - [Руководство по массивам в Java](https://topjava.ru/blog/rukovodstvo-po-massivam-v-java-ch1)
 
