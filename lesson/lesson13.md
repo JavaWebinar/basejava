@@ -37,7 +37,7 @@
 - [JDBC](http://ru.wikipedia.org/wiki/Java_Database_Connectivity)
 - [JDBC Architecture](http://www.developersbook.com/jdbc/interview-questions/jdbc-interview-questions-faqs.php)
 - [Книга: Семь баз данных за семь недель. Введение в современные базы данных и идеологию NoSQL](http://www.ozon.ru/context/detail/id/19383907)
-- [Работа с базами данных с помощью JDBC драйвера](https://devcolibri.com/работа-с-бд-mysql-postgresql-с-помощью-jdbc-драйвера)
+- [Работа с базами данных с помощью JDBC драйвера](https://web.archive.org/web/20240918221024/https://devcolibri.com/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B1%D0%B4-mysql-postgresql-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-jdbc-%D0%B4%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80%D0%B0/)
 - [Уроки по JDBC](https://www.youtube.com/playlist?list=PLIU76b8Cjem5qdMQLXiIwGLTLyUHkTqi2)
 
 ### ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW13
