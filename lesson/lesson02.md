@@ -26,14 +26,14 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Типы данных. Пакеты](https://drive.google.com/open?id=0B_4NpoQW1xfpQzRVTHg1LVhvOEk)
   - [Типы данных](https://github.com/hvilinka/LevelUp_Java/blob/master/lectures/lecture2.md)
-  - [Классы-обертки](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=2)
+  - [Классы-обертки](https://www.examclouds.com/ru/java/java-core-russian/obolochki-tipov)
   - [Java types](https://youtu.be/JmplWN-FdMQ) (youtube)
   - [Модификаторы доступа](https://www.youtube.com/watch?v=e14xUIUc6y0) (youtube)
   - [Руководство по пакетам в Java](https://topjava.ru/blog/rukovodstvo-po-paketam-v-java)
   - [Пакеты](https://youtu.be/a6KGNASOtK8) (youtube)
   - **Дополнительно:**
-    - [Packages](https://docs.oracle.com/javase/tutorial/java/package/index.html)
-    - [Primitive data types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+    - [Packages](https://dev.java/learn/packages/)
+    - [Primitive data types](https://dev.java/learn/language-basics/primitive-types/)
     - [What is a NullPointerException, and how do I fix it?](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it)
     - [Why should one use Objects.requireNonNull()?](https://stackoverflow.com/questions/45632920/why-should-one-use-objects-requirenonnull)
     - [Инициализация и загрузка классов](https://www.youtube.com/watch?v=TdvnGw_KcFY) (youtube)
