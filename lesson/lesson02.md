@@ -25,7 +25,7 @@
 > - При загрузке класса (когда JVM встречает его коде впервые) JVM ищет этот класс в classpass и создает в `Metaspace` объект `Class<Ваш_Класс>` - описание класса: его поля, методы, конструкторы.
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. [Типы данных. Пакеты](https://drive.google.com/open?id=0B_4NpoQW1xfpQzRVTHg1LVhvOEk)
-  - [Типы данных](http://www.intuit.ru/studies/courses/16/16/lecture/27111)
+  - [Типы данных](https://github.com/hvilinka/LevelUp_Java/blob/master/lectures/lecture2.md)
   - [Классы-обертки](http://www.intuit.ru/studies/courses/16/16/lecture/27129?page=2)
   - [Java types](https://youtu.be/JmplWN-FdMQ) (youtube)
   - [Модификаторы доступа](https://www.youtube.com/watch?v=e14xUIUc6y0) (youtube)
